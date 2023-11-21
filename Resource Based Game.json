@@ -609,6 +609,138 @@
         "name": "KnowledgeBook2",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "House.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/25a026f33b5e093c8924530e3c5d5cb269192d57720b1ae766d8350f1d1f5667_House.png",
+          "name": "House.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/d0e595b7a64af02d3c2de8a2a299ab234b376ff666087316342e2012a895c324_Blue Orb_No Shadow.png",
+          "name": "Blue Orb_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/afe4907f9e51d58632e05167f084697573c35b7f120f2ce3684e3c67f76e6110_Blue Orb_Shadow.png",
+          "name": "Blue Orb_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../../Downloads/black-color-solid-background-1920x1080.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\Downloads\\black-color-solid-background-1920x1080.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_black space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Blip 3.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Blip/27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/floor gray.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor gray.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Floor/49b1a3415b18a25bcc9cd3bc4f15cd06e0d3b00b9927824a009b9bf75561d8bb_floor gray.png",
+          "name": "floor gray.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "room.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "room.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/4f6ad45651792170aef28439381b6c651c88c5f52019d9346f4de7b57c803de8_Green Orb_No Shadow.png",
+          "name": "Green Orb_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/f05e2cfd28721266f1d332a958cc91d7c8e163a7d49f67b9aabe66613112495c_Green Orb_Shadow.png",
+          "name": "Green Orb_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/room.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\room.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -699,7 +831,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 1.9411591872402412,
+        "zoomFactor": 1.2613087341905507,
         "windowMask": false
       },
       "objectsGroups": [
@@ -738,69 +870,9 @@
           "name": "Grass",
           "persistentUuid": "15a3b7f4-f78f-4898-9037-58d9fc07eab8",
           "width": 966,
-          "x": -2,
-          "y": -2,
-          "zOrder": -200,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 92,
-          "layer": "Dialogue",
-          "name": "Dialogue",
-          "persistentUuid": "caf097a8-67e7-4d4e-b372-23ef93794341",
-          "width": 426,
-          "x": 277,
-          "y": 366,
-          "zOrder": 45,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 160,
-          "layer": "Dialogue",
-          "name": "TextBorder",
-          "persistentUuid": "e12d230a-0da4-42e4-b9a3-34cd6b21804b",
-          "width": 450,
-          "x": 258,
-          "y": 353,
-          "zOrder": 43,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 24,
-          "layer": "Dialogue",
-          "name": "YesButton",
-          "persistentUuid": "550f652b-972c-4c6b-93fd-5c0dfaabeba8",
-          "width": 72,
-          "x": 530,
-          "y": 477,
-          "zOrder": 509,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 24,
-          "layer": "Dialogue",
-          "name": "NoButton",
-          "persistentUuid": "c1137197-ee6a-430b-9055-699dbb70a65e",
-          "width": 72,
-          "x": 617,
-          "y": 477,
-          "zOrder": 510,
+          "x": -3,
+          "y": -5,
+          "zOrder": -206,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -878,7 +950,7 @@
           "width": 227,
           "x": 208,
           "y": 277,
-          "zOrder": 522,
+          "zOrder": -203,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -894,7 +966,7 @@
           "width": 16,
           "x": 419,
           "y": 293,
-          "zOrder": 521,
+          "zOrder": -203,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -910,7 +982,7 @@
           "width": 16,
           "x": 208,
           "y": 125,
-          "zOrder": 521,
+          "zOrder": -203,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -926,7 +998,7 @@
           "width": 320,
           "x": 208,
           "y": 125,
-          "zOrder": 522,
+          "zOrder": -203,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -942,7 +1014,7 @@
           "width": 16,
           "x": 512,
           "y": 141,
-          "zOrder": 521,
+          "zOrder": -203,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -958,7 +1030,7 @@
           "width": 224,
           "x": 512,
           "y": 301,
-          "zOrder": 522,
+          "zOrder": -203,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -974,7 +1046,7 @@
           "width": 16,
           "x": 720,
           "y": 300,
-          "zOrder": 521,
+          "zOrder": -203,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -984,13 +1056,13 @@
           "customSize": true,
           "depth": 2,
           "height": 29,
-          "layer": "P-Layer",
+          "layer": "",
           "name": "Player",
           "persistentUuid": "898ece26-2d37-4663-929e-93566c384762",
           "width": 29,
-          "x": 521,
-          "y": 273,
-          "zOrder": 523,
+          "x": 410,
+          "y": 137,
+          "zOrder": 550,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1026,6 +1098,166 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 106,
+          "layer": "",
+          "name": "House",
+          "persistentUuid": "0ce3cc90-5cf1-452c-8fe4-ca89dcf2cdcd",
+          "width": 107,
+          "x": 420,
+          "y": 18,
+          "zOrder": -205,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 89,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "7d8c3bb2-60e6-47fd-8ae0-e32b40c49af2",
+          "width": 92,
+          "x": 435,
+          "y": 35,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "layer": "",
+          "name": "Building1_Entrance",
+          "persistentUuid": "de4390b9-58f4-496c-954a-ccb45b5ffb05",
+          "width": 24,
+          "x": 459,
+          "y": 113,
+          "zOrder": 530,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 8,
+          "height": 226,
+          "layer": "",
+          "name": "NewPanelSprite2",
+          "persistentUuid": "2b284fd8-6b89-4c37-925b-0ff97247e9f9",
+          "width": 316,
+          "x": -6,
+          "y": -271,
+          "zOrder": -206,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 227,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "b1f39e08-24e7-4998-860b-8786c4f7bf24",
+          "width": 14,
+          "x": -6,
+          "y": -271,
+          "zOrder": 551,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 71,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "cf5b33af-a456-45a1-b14d-136920666e2b",
+          "width": 319,
+          "x": -8,
+          "y": -276,
+          "zOrder": 552,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 228,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "17dfce4a-980f-40aa-bfde-dff3f270285a",
+          "width": 16,
+          "x": 294,
+          "y": -273,
+          "zOrder": 553,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "3be8123c-3d7c-4303-b353-835753b42b69",
+          "width": 317,
+          "x": -8,
+          "y": -61,
+          "zOrder": 554,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 36,
+          "layer": "",
+          "name": "GreenOrb",
+          "persistentUuid": "f8a708be-e1df-45b4-9374-289f8926195f",
+          "width": 48,
+          "x": 91,
+          "y": -148,
+          "zOrder": 555,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 22,
+          "layer": "",
+          "name": "Building1_Exit",
+          "persistentUuid": "cdf78d85-65e9-452d-81cd-06e687c662be",
+          "width": 22,
+          "x": 30,
+          "y": -72,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1046,7 +1278,7 @@
               "folded": true,
               "name": "Energy",
               "type": "number",
-              "value": 0
+              "value": 75
             },
             {
               "folded": true,
@@ -2249,107 +2481,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "name": "Dialogue",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "BitmapText_AutoTyping",
-              "type": "AutoTyping::BitmapText_AutoTyping",
-              "Interval": 0.05,
-              "CharacterJustAdded": false,
-              "CurrentCharacter": ""
-            }
-          ],
-          "content": {
-            "text": "Do you want to battle?\nI have the best\ncreatures in town!",
-            "opacity": 255,
-            "scale": 1.5,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
-            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited.png",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "E",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [
-            {
-              "effectType": "Outline",
-              "name": "Effect",
-              "doubleParameters": {
-                "padding": 2,
-                "thickness": 2
-              },
-              "stringParameters": {
-                "color": "0;0;0"
-              },
-              "booleanParameters": {}
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "ShakeObject_PositionAngle",
-              "type": "ShakeObject::ShakeObject_PositionAngle"
-            }
-          ],
-          "content": {
-            "text": "E",
-            "opacity": 255,
-            "scale": 0.5,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
-            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited.png",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "E2",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [
-            {
-              "effectType": "Outline",
-              "name": "Effect",
-              "doubleParameters": {
-                "padding": 2,
-                "thickness": 2
-              },
-              "stringParameters": {
-                "color": "0;0;0"
-              },
-              "booleanParameters": {}
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "ShakeObject_PositionAngle",
-              "type": "ShakeObject::ShakeObject_PositionAngle"
-            }
-          ],
-          "content": {
-            "text": "E",
-            "opacity": 255,
-            "scale": 0.5,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
-            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited.png",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
           "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
           "name": "YesButton",
           "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2491,8 +2622,8 @@
             "BarBottomPadding": 6,
             "BarLeftPadding": 4,
             "BarRightPadding": 4,
-            "MaxValue": 25,
-            "InitialValue": 25
+            "MaxValue": 100,
+            "InitialValue": 50
           },
           "childrenContent": {
             "Background": {
@@ -2556,7 +2687,7 @@
             "BarBottomPadding": 6,
             "BarLeftPadding": 4,
             "BarRightPadding": 4,
-            "MaxValue": 25,
+            "MaxValue": 100,
             "InitialValue": 0
           },
           "childrenContent": {
@@ -2709,6 +2840,422 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b5c9b1ae44a59c880adb56c8b50454297a7a0a8f1ee1b9271240c48e8c9667a4",
+          "name": "House",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "House.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 64
+                          },
+                          {
+                            "x": 3,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "9735c5cc972287006dc29405f8fea888abf903f21e83965787d4725f4becfe01",
+          "name": "Building1_Entrance",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blue Orb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blue Orb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "NewPanelSprite",
+          "rightMargin": 0,
+          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "NewPanelSprite2",
+          "rightMargin": 0,
+          "texture": "assets\\room.png",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "bf1f2476368f47b52fd8c2f7101f7f7b0749f29998b9a5c782a6408cb9ad5313",
+          "name": "GreenOrb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Green Orb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Green Orb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "9735c5cc972287006dc29405f8fea888abf903f21e83965787d4725f4becfe01",
+          "name": "Building1_Exit",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blue Orb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blue Orb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -2775,15 +3322,6 @@
             "objectName": "CollisionDetect"
           },
           {
-            "objectName": "Dialogue"
-          },
-          {
-            "objectName": "E"
-          },
-          {
-            "objectName": "E2"
-          },
-          {
             "objectName": "YesButton"
           },
           {
@@ -2794,6 +3332,24 @@
           },
           {
             "objectName": "KnowledgeBar__"
+          },
+          {
+            "objectName": "House"
+          },
+          {
+            "objectName": "Building1_Entrance"
+          },
+          {
+            "objectName": "Building1_Exit"
+          },
+          {
+            "objectName": "GreenOrb"
+          },
+          {
+            "objectName": "NewPanelSprite"
+          },
+          {
+            "objectName": "NewPanelSprite2"
           }
         ]
       },
@@ -2834,22 +3390,6 @@
             },
             {
               "type": {
-                "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
-              },
-              "parameters": [
-                "E",
-                "ShakeObject_PositionAngle",
-                "0.5",
-                "0",
-                "1",
-                "10",
-                "1",
-                "yes",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "ZoomCamera"
               },
               "parameters": [
@@ -2866,6 +3406,15 @@
               "parameters": [
                 "",
                 "\"Collision\""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Building1\""
               ]
             }
           ],
@@ -2930,6 +3479,46 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "name": "ResourceBars",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "KnowledgeBar__",
+                    "=",
+                    "Player.Knowledge",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "EnergyBar",
+                    "=",
+                    "Player.Energy",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
           "name": "PlayerMovement",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2969,15 +3558,6 @@
                         "Player",
                         "TopDownMovement",
                         "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "E",
-                        ""
                       ]
                     },
                     {
@@ -3181,7 +3761,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Dialogue",
+          "name": "Buildings",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -3190,41 +3770,23 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Or"
+                    "value": "CollisionNP"
                   },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "e"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SpriteMultitouchJoystick::IsButtonPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"A\"",
-                        ""
-                      ]
-                    }
+                  "parameters": [
+                    "Building1_Entrance",
+                    "Player",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "Distance"
+                    "value": "KeyPressed"
                   },
                   "parameters": [
-                    "Player",
-                    "NPC",
-                    "20",
-                    ""
+                    "",
+                    "e"
                   ]
                 },
                 {
@@ -3237,19 +3799,35 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ShowLayer"
+                    "value": "PlaySound"
                   },
                   "parameters": [
                     "",
-                    "\"Dialogue\""
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "Cache"
+                    "value": "MettreXY"
                   },
                   "parameters": [
-                    "E"
+                    "Player",
+                    "=",
+                    "Building1_Exit.X()-3",
+                    "=",
+                    "Building1_Exit.Y()-3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
                   ]
                 }
               ]
@@ -3259,240 +3837,64 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "LayerVisible"
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Building1_Exit",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
                   },
                   "parameters": [
                     "",
-                    "\"Dialogue\""
+                    "e"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
-              "actions": [],
-              "events": [
+              "actions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AutoTyping::BitmapText_AutoTyping::StartAtBeginning"
-                      },
-                      "parameters": [
-                        "Dialogue",
-                        "BitmapText_AutoTyping",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "Talk.wav",
-                        "",
-                        "50",
-                        "1"
-                      ]
-                    }
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AutoTyping::BitmapText_AutoTyping::TypingFinished"
-                      },
-                      "parameters": [
-                        "Dialogue",
-                        "BitmapText_AutoTyping",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "YesButton",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "NoButton",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "Building1_Entrance.X()",
+                    "=",
+                    "Building1_Entrance.Y()+50"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Visible"
-                      },
-                      "parameters": [
-                        "YesButton"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "YesButton",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
-                          },
-                          "parameters": [
-                            "Transition",
-                            "FlashTransitionPainter",
-                            "\"0;0;0\"",
-                            ".5",
-                            "\"Circular\"",
-                            "\"Forward\"",
-                            "255",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "PushScene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Battle\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "NoButton",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Dialogue\""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsHovered"
-                          },
-                          "parameters": [
-                            "NoButton",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsHovered"
-                          },
-                          "parameters": [
-                            "YesButton",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "HoverSound.wav",
-                        "",
-                        "20",
-                        "RandomFloatInRange(0.8,0.9)"
-                      ]
-                    }
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
                   ]
                 }
               ]
@@ -3501,9 +3903,83 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Study",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "GreenOrb",
+                    "20",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Knowledge",
+                    "+",
+                    "+5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "-",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -3532,22 +4008,6 @@
               "width": 0
             }
           ],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 13920576,
-          "ambientLightColorG": 6050880,
-          "ambientLightColorR": 11874240,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Dialogue",
-          "renderingType": "",
-          "visibility": false,
-          "cameras": [],
           "effects": []
         },
         {
@@ -3597,48 +4057,12 @@
           "visibility": true,
           "cameras": [],
           "effects": []
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "P-Layer",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Light",
-              "doubleParameters": {
-                "elevation": 45,
-                "intensity": 1,
-                "rotation": 0
-              },
-              "stringParameters": {
-                "groundColor": "64;64;64",
-                "skyColor": "255;255;255",
-                "top": "Y-"
-              },
-              "booleanParameters": {}
-            }
-          ]
         }
       ],
       "behaviorsSharedData": [
         {
           "name": "Animation",
           "type": "AnimatableCapability::AnimatableBehavior"
-        },
-        {
-          "name": "BitmapText_AutoTyping",
-          "type": "AutoTyping::BitmapText_AutoTyping"
         },
         {
           "name": "Effect",
@@ -3667,14 +4091,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "ShakeObject_PositionAngle",
-          "type": "ShakeObject::ShakeObject_PositionAngle"
-        },
-        {
-          "name": "Text",
-          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
