@@ -741,6 +741,24 @@
         "name": "assets\\room.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "House",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "House2",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -831,7 +849,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 1.2613087341905507,
+        "zoomFactor": 2.530961928467568,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1150,22 +1168,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 8,
-          "height": 226,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "2b284fd8-6b89-4c37-925b-0ff97247e9f9",
-          "width": 316,
-          "x": -6,
-          "y": -271,
-          "zOrder": -206,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "depth": 1,
           "height": 227,
           "layer": "Collision",
@@ -1255,6 +1257,37 @@
           "x": 30,
           "y": -72,
           "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Classroom1",
+          "persistentUuid": "326bbd24-c807-4c43-b9be-1593045dba76",
+          "width": 0,
+          "x": 6,
+          "y": -263,
+          "zOrder": -207,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "26994eeb-882c-433d-bd73-96f9b6aa3d1d",
+          "width": 56,
+          "x": 166,
+          "y": -209,
+          "zOrder": 552,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3256,6 +3289,67 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b5c9b1ae44a59c880adb56c8b50454297a7a0a8f1ee1b9271240c48e8c9667a4",
+          "name": "Classroom1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "House",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "House",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 292,
+                            "y": 0
+                          },
+                          {
+                            "x": 292,
+                            "y": 216
+                          },
+                          {
+                            "x": 0,
+                            "y": 216
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3335,6 +3429,9 @@
           },
           {
             "objectName": "House"
+          },
+          {
+            "objectName": "Classroom1"
           },
           {
             "objectName": "Building1_Entrance"
