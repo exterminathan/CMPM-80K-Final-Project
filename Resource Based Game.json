@@ -825,6 +825,32 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/56d4ace5a22e0292d1c580d0c1fff0456390a12aa51aa7ba953e1836935c02b7_Red Orb_No Shadow.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/6fd0822a484e5e4325ef5a90fe89f009bfc34b60608f3b7c213997527a532458_Purple Orb_No Shadow.png",
+          "name": "Purple Orb_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/d8418d61c6cbd8ec54870bb9de2489a1b03b4ea9b679e32809abcd143551e3f7_Purple Orb_Shadow.png",
+          "name": "Purple Orb_Shadow.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -915,7 +941,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 0.6943306974990644,
+        "zoomFactor": 1.1418583454354565,
         "windowMask": false
       },
       "objectsGroups": [
@@ -956,7 +982,7 @@
           "width": 966,
           "x": -3,
           "y": -5,
-          "zOrder": -206,
+          "zOrder": -218,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1144,8 +1170,8 @@
           "name": "Player",
           "persistentUuid": "898ece26-2d37-4663-929e-93566c384762",
           "width": 29,
-          "x": 410,
-          "y": 137,
+          "x": 1191,
+          "y": 153,
           "zOrder": 568,
           "numberProperties": [],
           "stringProperties": [],
@@ -1192,8 +1218,8 @@
           "name": "ClassExterior",
           "persistentUuid": "0ce3cc90-5cf1-452c-8fe4-ca89dcf2cdcd",
           "width": 107,
-          "x": 420,
-          "y": 18,
+          "x": 583,
+          "y": 195,
           "zOrder": -205,
           "numberProperties": [],
           "stringProperties": [],
@@ -1207,8 +1233,8 @@
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "7d8c3bb2-60e6-47fd-8ae0-e32b40c49af2",
-          "width": 92,
-          "x": 435,
+          "width": 103,
+          "x": 424,
           "y": 35,
           "zOrder": 527,
           "numberProperties": [],
@@ -1224,8 +1250,8 @@
           "name": "ClassEntrance",
           "persistentUuid": "de4390b9-58f4-496c-954a-ccb45b5ffb05",
           "width": 24,
-          "x": 459,
-          "y": 113,
+          "x": 622,
+          "y": 292,
           "zOrder": 573,
           "numberProperties": [],
           "stringProperties": [],
@@ -1304,8 +1330,8 @@
           "name": "ClassOrb",
           "persistentUuid": "f8a708be-e1df-45b4-9374-289f8926195f",
           "width": 48,
-          "x": 2615,
-          "y": -224,
+          "x": 1213,
+          "y": 115,
           "zOrder": 555,
           "numberProperties": [],
           "stringProperties": [],
@@ -1315,13 +1341,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 22,
+          "height": 30,
           "layer": "",
           "name": "ClassExit",
           "persistentUuid": "cdf78d85-65e9-452d-81cd-06e687c662be",
-          "width": 22,
-          "x": 2554,
-          "y": -148,
+          "width": 29,
+          "x": 1143,
+          "y": 182,
           "zOrder": 571,
           "numberProperties": [],
           "stringProperties": [],
@@ -1335,9 +1361,9 @@
           "name": "Class",
           "persistentUuid": "326bbd24-c807-4c43-b9be-1593045dba76",
           "width": 0,
-          "x": 2530,
-          "y": -339,
-          "zOrder": -207,
+          "x": 1128,
+          "y": 0,
+          "zOrder": -215,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1461,9 +1487,9 @@
           "name": "DH",
           "persistentUuid": "bcabbf95-d2fc-4914-b68f-f2ba72c1e126",
           "width": 0,
-          "x": 2541,
-          "y": 109,
-          "zOrder": -208,
+          "x": 1737,
+          "y": -5,
+          "zOrder": -214,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1477,8 +1503,8 @@
           "name": "DHExit",
           "persistentUuid": "4b6cf437-481b-47ed-b29e-0eb831ab6af4",
           "width": 26,
-          "x": 2565,
-          "y": 309,
+          "x": 1757,
+          "y": 177,
           "zOrder": 569,
           "numberProperties": [],
           "stringProperties": [],
@@ -1493,8 +1519,8 @@
           "name": "DHEntrance",
           "persistentUuid": "61df9d31-f09e-4216-aa48-6962a097be6f",
           "width": 20,
-          "x": 652,
-          "y": 293,
+          "x": 461,
+          "y": 113,
           "zOrder": 574,
           "numberProperties": [],
           "stringProperties": [],
@@ -1509,9 +1535,9 @@
           "name": "DHExterior",
           "persistentUuid": "a6a69f48-f7be-4ef3-87e3-04bdf64c748d",
           "width": 94,
-          "x": 617,
-          "y": 195,
-          "zOrder": 562,
+          "x": 428,
+          "y": 20,
+          "zOrder": -209,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1541,8 +1567,8 @@
           "name": "GymEntrance",
           "persistentUuid": "fac098b4-8bc9-4c8a-8287-c5d6b21e3e71",
           "width": 20,
-          "x": 271,
-          "y": 267,
+          "x": 266,
+          "y": 266,
           "zOrder": 572,
           "numberProperties": [],
           "stringProperties": [],
@@ -1559,7 +1585,7 @@
           "width": 80,
           "x": 238,
           "y": 187,
-          "zOrder": 564,
+          "zOrder": -209,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1588,9 +1614,9 @@
           "name": "Gym",
           "persistentUuid": "a7e9292d-bbb8-47c6-8f6f-58e0a30111bc",
           "width": 0,
-          "x": 2560,
-          "y": 639,
-          "zOrder": 566,
+          "x": 1124,
+          "y": 314,
+          "zOrder": -212,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1603,8 +1629,8 @@
           "name": "GymExit",
           "persistentUuid": "e78aa2f8-a66f-41ca-aa8d-a9011a51957c",
           "width": 0,
-          "x": 2588,
-          "y": 836,
+          "x": 1142,
+          "y": 487,
           "zOrder": 570,
           "numberProperties": [],
           "stringProperties": [],
@@ -1682,8 +1708,8 @@
           "name": "DHOrb",
           "persistentUuid": "8386baa8-234a-4bab-a182-93b4851116b1",
           "width": 0,
-          "x": 2634,
-          "y": 223,
+          "x": 1830,
+          "y": 109,
           "zOrder": 575,
           "numberProperties": [],
           "stringProperties": [],
@@ -1697,9 +1723,86 @@
           "name": "GymOrb",
           "persistentUuid": "36d21476-d006-4c4a-92c9-27d749842a7f",
           "width": 0,
-          "x": 2655,
-          "y": 754,
+          "x": 1219,
+          "y": 429,
           "zOrder": 576,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 25,
+          "layer": "",
+          "name": "DormEntrance",
+          "persistentUuid": "1ee4ef62-fb48-4b94-aa6f-11b247ca6799",
+          "width": 25,
+          "x": 259,
+          "y": 112,
+          "zOrder": 577,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "DormExit",
+          "persistentUuid": "ac6e32cb-1bf8-47c0-9bcd-253b9e05eaf7",
+          "width": 0,
+          "x": 1755,
+          "y": 472,
+          "zOrder": 578,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "DormOrb",
+          "persistentUuid": "63329fca-3c19-432e-a270-e84c5851cb7e",
+          "width": 0,
+          "x": 1847,
+          "y": 392,
+          "zOrder": 579,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Dorm",
+          "persistentUuid": "9a30a541-2411-434c-b12f-24d08c65557d",
+          "width": 0,
+          "x": 1743,
+          "y": 295,
+          "zOrder": -216,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 102,
+          "layer": "",
+          "name": "DormExterior",
+          "persistentUuid": "6292df48-3e95-413c-9e33-65d8b35c969a",
+          "width": 86,
+          "x": 233,
+          "y": 23,
+          "zOrder": -217,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4534,6 +4637,452 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "eac5033440e2a961f3aba0465b84a18e029c799499ddd79e2b4c44b4dfd786fc",
+          "name": "DormEntrance",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Purple Orb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Purple Orb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "eac5033440e2a961f3aba0465b84a18e029c799499ddd79e2b4c44b4dfd786fc",
+          "name": "DormExit",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Purple Orb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Purple Orb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "bf1f2476368f47b52fd8c2f7101f7f7b0749f29998b9a5c782a6408cb9ad5313",
+          "name": "DormOrb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Green Orb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Green Orb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 28
+                          },
+                          {
+                            "x": 4,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b5c9b1ae44a59c880adb56c8b50454297a7a0a8f1ee1b9271240c48e8c9667a4",
+          "name": "Dorm",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "House",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "House",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 292,
+                            "y": 0
+                          },
+                          {
+                            "x": 292,
+                            "y": 216
+                          },
+                          {
+                            "x": 0,
+                            "y": 216
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b5c9b1ae44a59c880adb56c8b50454297a7a0a8f1ee1b9271240c48e8c9667a4",
+          "name": "DormExterior",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "DH",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "DH",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 64
+                          },
+                          {
+                            "x": 3,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4618,6 +5167,9 @@
             "objectName": "MentalStateBar"
           },
           {
+            "objectName": "DormExterior"
+          },
+          {
             "objectName": "ClassExterior"
           },
           {
@@ -4634,6 +5186,9 @@
           },
           {
             "objectName": "Gym"
+          },
+          {
+            "objectName": "Dorm"
           },
           {
             "objectName": "ClassEntrance"
@@ -4661,6 +5216,15 @@
           },
           {
             "objectName": "GymOrb"
+          },
+          {
+            "objectName": "DormOrb"
+          },
+          {
+            "objectName": "DormEntrance"
+          },
+          {
+            "objectName": "DormExit"
           },
           {
             "objectName": "NewPanelSprite"
@@ -4741,6 +5305,15 @@
               "parameters": [
                 "",
                 "\"EnergyDrain\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"InteractCooldown\""
               ]
             }
           ],
@@ -5098,7 +5671,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Classroom",
+          "name": "Dorm",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -5110,11 +5683,22 @@
                     "value": "CollisionNP"
                   },
                   "parameters": [
-                    "ClassExit",
+                    "DormExit",
                     "Player",
                     "",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
                   ]
                 },
                 {
@@ -5153,9 +5737,177 @@
                   "parameters": [
                     "Player",
                     "=",
-                    "ClassEntrance.X()",
+                    "DormEntrance.CenterX()",
                     "=",
-                    "ClassEntrance.Y() + 50"
+                    "DormEntrance.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "DormEntrance",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "DormExit.CenterX()",
+                    "=",
+                    "DormExit.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Classroom",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "ClassExit",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "ClassEntrance.CenterX()",
+                    "=",
+                    "ClassEntrance.CenterY()"
                   ]
                 },
                 {
@@ -5186,6 +5938,17 @@
                 },
                 {
                   "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "KeyPressed"
                   },
                   "parameters": [
@@ -5220,9 +5983,9 @@
                   "parameters": [
                     "Player",
                     "=",
-                    "ClassExit.X() - 3",
+                    "ClassExit.CenterX()",
                     "=",
-                    "ClassExit.Y() - 3"
+                    "ClassExit.CenterY()"
                   ]
                 },
                 {
@@ -5252,6 +6015,17 @@
                 },
                 {
                   "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "KeyPressed"
                   },
                   "parameters": [
@@ -5332,6 +6106,15 @@
                     "MentalState",
                     "-",
                     "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
                   ]
                 }
               ]
@@ -5348,106 +6131,6 @@
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Distance"
-                  },
-                  "parameters": [
-                    "Player",
-                    "ClassOrb",
-                    "20",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "e"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "MentalState",
-                    ">",
-                    "10"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Energy",
-                    ">",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Knowledge",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Energy",
-                    "-",
-                    "8"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "MentalState",
-                    "-",
-                    "10"
-                  ]
-                }
-              ]
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -5594,106 +6277,6 @@
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Distance"
-                  },
-                  "parameters": [
-                    "Player",
-                    "ClassOrb",
-                    "20",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "e"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "MentalState",
-                    ">",
-                    "10"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Energy",
-                    ">",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Knowledge",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Energy",
-                    "-",
-                    "8"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "MentalState",
-                    "-",
-                    "10"
-                  ]
-                }
-              ]
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -5954,7 +6537,7 @@
           "isLocked": false,
           "name": "Collision",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         }
@@ -5999,1804 +6582,6 @@
         {
           "name": "TopDownMultitouchMapper",
           "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
-        }
-      ]
-    },
-    {
-      "b": 146,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "Battle",
-      "name": "Battle",
-      "r": 156,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 146,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.2,
-        "snap": false,
-        "zoomFactor": 0.9199999999999938,
-        "windowMask": false
-      },
-      "objectsGroups": [
-        {
-          "name": "Button",
-          "objects": [
-            {
-              "name": "Attack1"
-            },
-            {
-              "name": "Attack2"
-            },
-            {
-              "name": "Run"
-            }
-          ]
-        }
-      ],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "UI",
-          "name": "Transition",
-          "persistentUuid": "767cf046-bd7e-46a6-a0de-9e463bf21835",
-          "width": 0,
-          "x": 2104,
-          "y": 596,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 200,
-          "layer": "",
-          "name": "Enemy",
-          "persistentUuid": "c09519df-6e7e-41f3-8c2e-05be52194d06",
-          "width": 200,
-          "x": 620,
-          "y": 68,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 300,
-          "layer": "",
-          "name": "Player",
-          "persistentUuid": "9176821a-39ac-48bf-a647-1af51f1cf6b8",
-          "width": 300,
-          "x": 101,
-          "y": 126,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 160,
-          "layer": "Dialogue",
-          "name": "TextBorder",
-          "persistentUuid": "3eda7dbd-af4a-4a6f-a7d9-d9e294bbc3aa",
-          "width": 896,
-          "x": 32,
-          "y": 352,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "Dialogue",
-          "name": "Attack1",
-          "persistentUuid": "7dc38f8a-b2d4-4716-96cc-cfda55183779",
-          "width": 128,
-          "x": 80,
-          "y": 368,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "Dialogue",
-          "name": "Attack2",
-          "persistentUuid": "be19237c-cdfd-46d6-9f03-ac226e9a3f61",
-          "width": 128,
-          "x": 80,
-          "y": 416,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "Dialogue",
-          "name": "Run",
-          "persistentUuid": "d0d0038e-afed-4b66-afad-9eb83d409837",
-          "width": 128,
-          "x": 80,
-          "y": 464,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "Dialogue",
-          "name": "Dialogue",
-          "persistentUuid": "1d6dd4c3-a14e-4637-b8ba-6dad23785fdd",
-          "width": 624,
-          "x": 256,
-          "y": 368,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "Background",
-          "name": "Grass",
-          "persistentUuid": "51b4918b-fb97-491c-8070-567de75dafb1",
-          "width": 256,
-          "x": 2560,
-          "y": 800,
-          "zOrder": -100,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 133,
-          "layer": "Background",
-          "name": "Background",
-          "persistentUuid": "a759a552-ce69-4fb4-bf22-05ee11499324",
-          "width": 250,
-          "x": 2567,
-          "y": 708,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "PlayerHealthBar",
-          "persistentUuid": "9cde94de-ddbf-4877-ae03-1b215c5b5386",
-          "width": 0,
-          "x": 136,
-          "y": 74,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "EnemyHealthBar",
-          "persistentUuid": "53390a75-ebc1-4e35-88a2-0b8e656e3487",
-          "width": 0,
-          "x": 610,
-          "y": 275,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Enemy",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Flash",
-              "type": "Flash::Flash",
-              "HalfPeriodTime": 0.1,
-              "IsFlashing": false,
-              "FlashDuration": 0
-            },
-            {
-              "name": "Health",
-              "type": "Health::Health",
-              "Health": 100,
-              "CurrentHealth": 0,
-              "MaxHealth": 100,
-              "DamageCooldown": 0,
-              "IsHealthJustDamaged": false,
-              "HealthRegenRate": 0,
-              "HealthRegenDelay": 0,
-              "AllowOverHealing": false,
-              "HitAtLeastOnce": false,
-              "IsJustHealed": false,
-              "CurrentShieldPoints": 0,
-              "MaxShieldPoints": 0,
-              "ShieldDuration": 5,
-              "ShieldRegenRate": 0,
-              "BlockExcessDamage": false,
-              "ShieldRegenDelay": 0,
-              "IsShieldJustDamaged": false,
-              "ChanceToDodge": 0,
-              "DamageToBeApplied": 0,
-              "FlatDamageReduction": 0,
-              "PercentDamageReduction": 0,
-              "IsJustDodged": false,
-              "ShieldDamageTaken": 0,
-              "HealToBeApplied": 0
-            },
-            {
-              "name": "ShakeObject_PositionAngle",
-              "type": "ShakeObject::ShakeObject_PositionAngle"
-            },
-            {
-              "name": "ShakeObject_PositionAngleScale",
-              "type": "ShakeObject::ShakeObject_PositionAngleScale"
-            },
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Creature_Enemy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Player",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Flash",
-              "type": "Flash::Flash",
-              "HalfPeriodTime": 0.1,
-              "IsFlashing": false,
-              "FlashDuration": 0
-            },
-            {
-              "name": "Health",
-              "type": "Health::Health",
-              "Health": 100,
-              "CurrentHealth": 0,
-              "MaxHealth": 100,
-              "DamageCooldown": 0,
-              "IsHealthJustDamaged": false,
-              "HealthRegenRate": 0,
-              "HealthRegenDelay": 0,
-              "AllowOverHealing": false,
-              "HitAtLeastOnce": false,
-              "IsJustHealed": false,
-              "CurrentShieldPoints": 0,
-              "MaxShieldPoints": 0,
-              "ShieldDuration": 5,
-              "ShieldRegenRate": 0,
-              "BlockExcessDamage": false,
-              "ShieldRegenDelay": 0,
-              "IsShieldJustDamaged": false,
-              "ChanceToDodge": 0,
-              "DamageToBeApplied": 0,
-              "FlatDamageReduction": 0,
-              "PercentDamageReduction": 0,
-              "IsJustDodged": false,
-              "ShieldDamageTaken": 0,
-              "HealToBeApplied": 0
-            },
-            {
-              "name": "ShakeObject_PositionAngle",
-              "type": "ShakeObject::ShakeObject_PositionAngle"
-            },
-            {
-              "name": "ShakeObject_PositionAngleScale",
-              "type": "ShakeObject::ShakeObject_PositionAngleScale"
-            },
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Creature_Player.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "3d6c54e76a9a06cbd7629c1e78388d4ab808bbf36d644c61d6a14c9ad34d4f89",
-          "name": "PlayerHealthBar",
-          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "PreviousHighValueDuration": 0,
-            "ShowLabel": true,
-            "BarTopPadding": 4,
-            "BarBottomPadding": 6,
-            "BarLeftPadding": 4,
-            "BarRightPadding": 4,
-            "MaxValue": 100,
-            "InitialValue": 100
-          },
-          "childrenContent": {
-            "Background": {
-              "bottomMargin": 6,
-              "height": 34,
-              "leftMargin": 4,
-              "rightMargin": 4,
-              "texture": "Flat Bar White Border.png",
-              "tiled": true,
-              "topMargin": 6,
-              "width": 224
-            },
-            "Buffer": {
-              "bottomMargin": 0,
-              "height": 24,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "Flat Bar Red Fill Bar.png",
-              "tiled": true,
-              "topMargin": 0,
-              "width": 24
-            },
-            "FillBar": {
-              "bottomMargin": 0,
-              "height": 24,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "Flat Bar Red Fill Bar.png",
-              "tiled": true,
-              "topMargin": 0,
-              "width": 24
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "100 / 100",
-              "font": "",
-              "textAlignment": "center",
-              "characterSize": 18,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              }
-            }
-          }
-        },
-        {
-          "assetStoreId": "3d6c54e76a9a06cbd7629c1e78388d4ab808bbf36d644c61d6a14c9ad34d4f89",
-          "name": "EnemyHealthBar",
-          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "PreviousHighValueDuration": 0,
-            "ShowLabel": true,
-            "BarTopPadding": 4,
-            "BarBottomPadding": 6,
-            "BarLeftPadding": 4,
-            "BarRightPadding": 4,
-            "MaxValue": 100,
-            "InitialValue": 100
-          },
-          "childrenContent": {
-            "Background": {
-              "bottomMargin": 6,
-              "height": 34,
-              "leftMargin": 4,
-              "rightMargin": 4,
-              "texture": "Flat Bar White Border.png",
-              "tiled": true,
-              "topMargin": 6,
-              "width": 224
-            },
-            "Buffer": {
-              "bottomMargin": 0,
-              "height": 24,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "Flat Bar Red Fill Bar.png",
-              "tiled": true,
-              "topMargin": 0,
-              "width": 24
-            },
-            "FillBar": {
-              "bottomMargin": 0,
-              "height": 24,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "Flat Bar Red Fill Bar.png",
-              "tiled": true,
-              "topMargin": 0,
-              "width": 24
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "100 / 100",
-              "font": "",
-              "textAlignment": "center",
-              "characterSize": 18,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              }
-            }
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "Dialogue",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "BitmapText_AutoTyping",
-              "type": "AutoTyping::BitmapText_AutoTyping",
-              "Interval": 0.02,
-              "CharacterJustAdded": false,
-              "CurrentCharacter": ""
-            }
-          ],
-          "content": {
-            "text": "The battle begins.",
-            "opacity": 255,
-            "scale": 2,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
-            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited.png",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewButton",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {},
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 16,
-              "height": 48,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Border-export.png",
-              "tiled": false,
-              "topMargin": 16,
-              "width": 48
-            },
-            "Idle": {
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": false,
-              "topMargin": 0,
-              "width": 32
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Text",
-              "font": "",
-              "textAlignment": "",
-              "characterSize": 20,
-              "color": {
-                "b": 0,
-                "g": 0,
-                "r": 0
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": false,
-              "topMargin": 0,
-              "width": 32
-            }
-          }
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Grass",
-          "texture": "Grass1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "House2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [
-            {
-              "effectType": "KawaseBlur",
-              "name": "Effect",
-              "doubleParameters": {
-                "blur": 0.5,
-                "padding": 0,
-                "pixelizeX": 1,
-                "pixelizeY": 1,
-                "quality": 3
-              },
-              "stringParameters": {},
-              "booleanParameters": {}
-            }
-          ],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "House2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 36.8875617980957,
-                        "y": 58.29928970336914
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
-          "name": "Attack1",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 8,
-            "RightPadding": 8,
-            "PressedLabelOffsetY": 0,
-            "IdleLabelOffsetY": -8,
-            "BottomPadding": 8,
-            "TopPadding": 8,
-            "MinimalWidth": 300
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Idle": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Attack",
-              "font": "",
-              "textAlignment": "left",
-              "characterSize": 20,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            }
-          }
-        },
-        {
-          "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
-          "name": "Attack2",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 8,
-            "RightPadding": 8,
-            "PressedLabelOffsetY": 0,
-            "IdleLabelOffsetY": -8,
-            "BottomPadding": 8,
-            "TopPadding": 8,
-            "MinimalWidth": 300
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Idle": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Skill",
-              "font": "",
-              "textAlignment": "left",
-              "characterSize": 20,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            }
-          }
-        },
-        {
-          "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
-          "name": "Run",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 8,
-            "RightPadding": 8,
-            "PressedLabelOffsetY": 0,
-            "IdleLabelOffsetY": -8,
-            "BottomPadding": 8,
-            "TopPadding": 8,
-            "MinimalWidth": 300
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Idle": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Run",
-              "font": "",
-              "textAlignment": "left",
-              "characterSize": 20,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            }
-          }
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Background",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [
-            {
-              "effectType": "KawaseBlur",
-              "name": "Effect",
-              "doubleParameters": {
-                "blur": 10,
-                "padding": 0,
-                "pixelizeX": 1,
-                "pixelizeY": 1,
-                "quality": 3
-              },
-              "stringParameters": {},
-              "booleanParameters": {}
-            }
-          ],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "House1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "objectsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "objectName": "Enemy"
-          },
-          {
-            "objectName": "Player"
-          },
-          {
-            "objectName": "PlayerHealthBar"
-          },
-          {
-            "objectName": "EnemyHealthBar"
-          },
-          {
-            "objectName": "Dialogue"
-          },
-          {
-            "objectName": "NewButton"
-          },
-          {
-            "objectName": "Grass"
-          },
-          {
-            "objectName": "House2"
-          },
-          {
-            "objectName": "Attack1"
-          },
-          {
-            "objectName": "Attack2"
-          },
-          {
-            "objectName": "Run"
-          },
-          {
-            "objectName": "Background"
-          }
-        ]
-      },
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
-              },
-              "parameters": [
-                "Transition",
-                "FlashTransitionPainter",
-                "\"0;0;0\"",
-                "0.5",
-                "\"Circular\"",
-                "\"Backward\"",
-                "255",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
-              },
-              "parameters": [
-                "Player",
-                "ShakeObject_PositionAngle",
-                "",
-                "5",
-                "5",
-                "0",
-                "2",
-                "yes",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
-              },
-              "parameters": [
-                "Enemy",
-                "ShakeObject_PositionAngle",
-                "",
-                "-4",
-                "-4",
-                "0",
-                "2",
-                "yes",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "ZoomCamera"
-              },
-              "parameters": [
-                "",
-                "5",
-                "\"Background\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CentreCamera"
-              },
-              "parameters": [
-                "",
-                "Grass",
-                "",
-                "\"Background\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarSceneTxt"
-              },
-              "parameters": [
-                "State",
-                "=",
-                "\"WaitPlayerChoice\""
-              ]
-            }
-          ]
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Health display",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "PlayerHealthBar",
-                    "=",
-                    "Player.Health::Health()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "EnemyHealthBar",
-                    "=",
-                    "Enemy.Health::Health()",
-                    ""
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Your turn",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsHovered"
-                  },
-                  "parameters": [
-                    "Button",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "HoverSound.wav",
-                    "",
-                    "20",
-                    "RandomFloatInRange(0.8,0.9)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarSceneTxt"
-                  },
-                  "parameters": [
-                    "State",
-                    "=",
-                    "\"WaitPlayerChoice\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                      },
-                      "parameters": [
-                        "Attack1",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "State",
-                        "=",
-                        "\"PlayPlayerAttack\""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarSceneTxt"
-                  },
-                  "parameters": [
-                    "State",
-                    "=",
-                    "\"PlayPlayerAttack\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Tween::AddObjectPositionTween"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Tween",
-                        "\"BackUp\"",
-                        "Player.X() - 50",
-                        "Player.Y()",
-                        "\"easeOutQuad\"",
-                        "500",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::AddObjectPositionTween"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Tween",
-                        "\"BackUp\"",
-                        "Player.X() + 50",
-                        "Player.Y()",
-                        "\"easeInQuad\"",
-                        "100",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "Attack.wav",
-                        "",
-                        "90",
-                        "RandomFloatInRange(0.9,1)"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShakeObject::ShakeObject_PositionAngle::StopShaking"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "ShakeObject_PositionAngle",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShakeObject::ShakeObject_PositionAngleScale::ShakeObject_PositionAngleScale"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "ShakeObject_PositionAngleScale",
-                        "0.6",
-                        "5",
-                        "5",
-                        "5",
-                        "10",
-                        "0.2",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Flash::Flash::Flash"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "Flash",
-                        "0.3",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "Health",
-                        "10",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BitmapText::BitmapTextObject::SetText"
-                      },
-                      "parameters": [
-                        "Dialogue",
-                        "=",
-                        "\"You attacked your enemy.\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "ShakeObject_PositionAngle",
-                        "",
-                        "-2",
-                        "-2",
-                        "0",
-                        "2",
-                        "yes",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "State",
-                        "=",
-                        "\"WaitEnemyChoice\""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Their turn",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarSceneTxt"
-                  },
-                  "parameters": [
-                    "State",
-                    "=",
-                    "\"WaitEnemyChoice\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "State",
-                        "=",
-                        "\"PlayEnemyAttack\""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarSceneTxt"
-                  },
-                  "parameters": [
-                    "State",
-                    "=",
-                    "\"PlayEnemyAttack\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Tween::AddObjectPositionTween"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "Tween",
-                        "\"BackUp\"",
-                        "Enemy.X() + 50",
-                        "Enemy.Y()",
-                        "\"easeOutQuad\"",
-                        "500",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::AddObjectPositionTween"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "Tween",
-                        "\"BackUp\"",
-                        "Enemy.X() - 50",
-                        "Enemy.Y()",
-                        "\"easeInQuad\"",
-                        "100",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "Attack.wav",
-                        "",
-                        "90",
-                        "RandomFloatInRange(0.9,1)"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShakeObject::ShakeObject_PositionAngleScale::ShakeObject_PositionAngleScale"
-                      },
-                      "parameters": [
-                        "Player",
-                        "ShakeObject_PositionAngleScale",
-                        "0.6",
-                        "5",
-                        "5",
-                        "5",
-                        "10",
-                        "0.2",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Flash::Flash::Flash"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Flash",
-                        "0.3",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Health",
-                        "10",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BitmapText::BitmapTextObject::SetText"
-                      },
-                      "parameters": [
-                        "Dialogue",
-                        "=",
-                        "\"Your enemy attacked you.\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
-                      },
-                      "parameters": [
-                        "Player",
-                        "ShakeObject_PositionAngle",
-                        "",
-                        "2.5",
-                        "2.5",
-                        "0",
-                        "2",
-                        "yes",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "State",
-                        "=",
-                        "\"WaitPlayerChoice\""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Battle End",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Or"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::IsDead"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "Health",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Health::Health::IsDead"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Health",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PopScene"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 22078880,
-          "ambientLightColorG": 6050880,
-          "ambientLightColorR": 14081096,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Background",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 0,
-          "ambientLightColorG": 0,
-          "ambientLightColorR": 0,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 11858072,
-          "ambientLightColorG": 6050880,
-          "ambientLightColorR": 21777048,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Dialogue",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 21829640,
-          "ambientLightColorG": 6050880,
-          "ambientLightColorR": 22048576,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "UI",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "BitmapText_AutoTyping",
-          "type": "AutoTyping::BitmapText_AutoTyping"
-        },
-        {
-          "name": "Effect",
-          "type": "EffectCapability::EffectBehavior"
-        },
-        {
-          "name": "Flash",
-          "type": "Flash::Flash"
-        },
-        {
-          "name": "FlashTransitionPainter",
-          "type": "FlashTransitionPainter::FlashTransitionPainter"
-        },
-        {
-          "name": "Flippable",
-          "type": "FlippableCapability::FlippableBehavior"
-        },
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        },
-        {
-          "name": "Opacity",
-          "type": "OpacityCapability::OpacityBehavior"
-        },
-        {
-          "name": "Resizable",
-          "type": "ResizableCapability::ResizableBehavior"
-        },
-        {
-          "name": "Scale",
-          "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "ShakeObject_PositionAngle",
-          "type": "ShakeObject::ShakeObject_PositionAngle"
-        },
-        {
-          "name": "ShakeObject_PositionAngleScale",
-          "type": "ShakeObject::ShakeObject_PositionAngleScale"
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
         }
       ]
     }
