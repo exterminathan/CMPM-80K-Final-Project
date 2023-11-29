@@ -860,6 +860,105 @@
         "name": "assets\\bed.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/classroomtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\classroomtileset.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/DHtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\DHtileset.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dormtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dormtileset.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gymtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gymtileset.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/gymbar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\gymbar2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/appledininghall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\appledininghall.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bookclassroom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bookclassroom.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/carpetentrance.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\carpetentrance.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/classroomtable.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\classroomtable.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/DHtable.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\DHtable.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dumbellgym.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\dumbellgym.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -928,7 +1027,20 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "GPA",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Hours",
+      "type": "number",
+      "value": 8
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -950,7 +1062,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 1.6445453867276532,
+        "zoomFactor": 0.8195616997322029,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1004,7 +1116,7 @@
           "layer": "",
           "name": "Water1",
           "persistentUuid": "0892ee1f-ba40-484b-9ed3-57b22d5e7092",
-          "width": 1012,
+          "width": 1056,
           "x": -44,
           "y": 498,
           "zOrder": 514,
@@ -1179,8 +1291,8 @@
           "name": "Player",
           "persistentUuid": "898ece26-2d37-4663-929e-93566c384762",
           "width": 29,
-          "x": 1191,
-          "y": 153,
+          "x": 1569,
+          "y": 166,
           "zOrder": 568,
           "numberProperties": [],
           "stringProperties": [],
@@ -1334,14 +1446,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 36,
+          "height": 34,
           "layer": "",
           "name": "ClassOrb",
           "persistentUuid": "f8a708be-e1df-45b4-9374-289f8926195f",
-          "width": 48,
-          "x": 1213,
+          "width": 58,
+          "x": 1501,
           "y": 115,
-          "zOrder": 555,
+          "zOrder": 588,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1355,24 +1467,25 @@
           "name": "ClassExit",
           "persistentUuid": "cdf78d85-65e9-452d-81cd-06e687c662be",
           "width": 29,
-          "x": 1143,
-          "y": 182,
-          "zOrder": 571,
+          "x": 1550,
+          "y": 175,
+          "zOrder": 586,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 212,
           "layer": "",
           "name": "Class",
           "persistentUuid": "326bbd24-c807-4c43-b9be-1593045dba76",
-          "width": 0,
-          "x": 1128,
-          "y": 0,
-          "zOrder": -215,
+          "width": 262,
+          "x": 1446,
+          "y": -8,
+          "zOrder": -222,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1490,15 +1603,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 252,
           "layer": "",
           "name": "DH",
           "persistentUuid": "bcabbf95-d2fc-4914-b68f-f2ba72c1e126",
-          "width": 0,
-          "x": 1737,
-          "y": -5,
-          "zOrder": -214,
+          "width": 272,
+          "x": 2053,
+          "y": -10,
+          "zOrder": -229,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1512,9 +1626,9 @@
           "name": "DHExit",
           "persistentUuid": "4b6cf437-481b-47ed-b29e-0eb831ab6af4",
           "width": 26,
-          "x": 1757,
-          "y": 177,
-          "zOrder": 569,
+          "x": 2068,
+          "y": 211,
+          "zOrder": 591,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1560,8 +1674,8 @@
           "name": "CollisionDetect",
           "persistentUuid": "20a2efa7-e318-4bd6-a0ab-f5882fb2ac4a",
           "width": 92,
-          "x": 619,
-          "y": 210,
+          "x": 595,
+          "y": 211,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -1617,30 +1731,32 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 301,
           "layer": "",
           "name": "Gym",
           "persistentUuid": "a7e9292d-bbb8-47c6-8f6f-58e0a30111bc",
-          "width": 0,
-          "x": 1124,
-          "y": 314,
-          "zOrder": -212,
+          "width": 300,
+          "x": 1442,
+          "y": 309,
+          "zOrder": -224,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
           "layer": "",
           "name": "GymExit",
           "persistentUuid": "e78aa2f8-a66f-41ca-aa8d-a9011a51957c",
-          "width": 0,
-          "x": 1142,
-          "y": 487,
-          "zOrder": 570,
+          "width": 32,
+          "x": 1659,
+          "y": 574,
+          "zOrder": 585,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1711,14 +1827,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
           "layer": "",
           "name": "DHOrb",
           "persistentUuid": "8386baa8-234a-4bab-a182-93b4851116b1",
-          "width": 0,
-          "x": 1830,
-          "y": 109,
+          "width": 232,
+          "x": 2063,
+          "y": 92,
           "zOrder": 575,
           "numberProperties": [],
           "stringProperties": [],
@@ -1726,15 +1843,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 52,
           "layer": "",
           "name": "GymOrb",
           "persistentUuid": "36d21476-d006-4c4a-92c9-27d749842a7f",
-          "width": 0,
-          "x": 1219,
-          "y": 429,
-          "zOrder": 576,
+          "width": 53,
+          "x": 1559,
+          "y": 494,
+          "zOrder": 581,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1757,29 +1875,31 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
           "layer": "",
           "name": "DormExit",
           "persistentUuid": "ac6e32cb-1bf8-47c0-9bcd-253b9e05eaf7",
-          "width": 0,
-          "x": 1755,
-          "y": 472,
-          "zOrder": 578,
+          "width": 32,
+          "x": 2092,
+          "y": 523,
+          "zOrder": 589,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 82,
           "layer": "",
           "name": "DormOrb",
           "persistentUuid": "63329fca-3c19-432e-a270-e84c5851cb7e",
-          "width": 0,
-          "x": 1847,
-          "y": 392,
+          "width": 44,
+          "x": 2217,
+          "y": 426,
           "zOrder": 579,
           "numberProperties": [],
           "stringProperties": [],
@@ -1787,15 +1907,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 331,
           "layer": "",
           "name": "Dorm",
           "persistentUuid": "9a30a541-2411-434c-b12f-24d08c65557d",
-          "width": 0,
-          "x": 1743,
-          "y": 295,
-          "zOrder": -216,
+          "width": 330,
+          "x": 2062,
+          "y": 351,
+          "zOrder": -227,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1812,6 +1933,724 @@
           "x": 233,
           "y": 23,
           "zOrder": -217,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 112,
+          "layer": "",
+          "name": "Bed",
+          "persistentUuid": "642d2835-7d45-41c5-8be6-573d1353baba",
+          "width": 97,
+          "x": 2207,
+          "y": 404,
+          "zOrder": -219,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 72,
+          "layer": "",
+          "name": "Bench",
+          "persistentUuid": "1fa6b19c-139a-49fc-ab95-da6bab1fb537",
+          "width": 72,
+          "x": 1614,
+          "y": 483,
+          "zOrder": 580,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 72,
+          "layer": "",
+          "name": "Bench",
+          "persistentUuid": "b2fd3947-8df5-4ace-8ce4-57ca625b3a0d",
+          "width": 72,
+          "x": 1550,
+          "y": 482,
+          "zOrder": 580,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 72,
+          "layer": "",
+          "name": "Bench",
+          "persistentUuid": "55bc5930-edd9-4658-8d87-9e35b010724b",
+          "width": 72,
+          "x": 1485,
+          "y": 481,
+          "zOrder": 580,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "3adc3037-9155-4cc6-b27d-7b871ef304e2",
+          "width": 32,
+          "x": 1467,
+          "y": 380,
+          "zOrder": 582,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "011bc1fb-434a-4e14-bd02-1675b173c633",
+          "width": 32,
+          "x": 1469,
+          "y": 386,
+          "zOrder": 582,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "b02603df-080e-43f9-837b-851c7f6ce481",
+          "width": 32,
+          "x": 1536,
+          "y": 381,
+          "zOrder": 582,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "2fbbd189-5311-4e7f-9a6e-7aa7690e7644",
+          "width": 32,
+          "x": 1539,
+          "y": 387,
+          "zOrder": 582,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "758d86e6-9573-4125-906d-0a0eea66f0fc",
+          "width": 32,
+          "x": 1634,
+          "y": 381,
+          "zOrder": 582,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "e0295e0a-b5b1-4ee5-8405-6c3a7ce37898",
+          "width": 32,
+          "x": 1637,
+          "y": 387,
+          "zOrder": 582,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "",
+          "name": "GymOrb",
+          "persistentUuid": "97672c09-6e10-4ee0-abc6-fab6470ac4cc",
+          "width": 32,
+          "x": 1634,
+          "y": 390,
+          "zOrder": 583,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "",
+          "name": "GymOrb",
+          "persistentUuid": "792d7f26-7e69-4ae7-b385-c4765c1da778",
+          "width": 32,
+          "x": 1536,
+          "y": 389,
+          "zOrder": 583,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "",
+          "name": "GymOrb",
+          "persistentUuid": "abf0e5b5-bda5-4d42-bc58-de132af767eb",
+          "width": 32,
+          "x": 1467,
+          "y": 391,
+          "zOrder": 583,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 84,
+          "layer": "",
+          "name": "Carpet",
+          "persistentUuid": "29961d5a-9b81-495f-877f-035e79c05fa2",
+          "width": 84,
+          "x": 1631,
+          "y": 544,
+          "zOrder": -223,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 84,
+          "layer": "",
+          "name": "Carpet",
+          "persistentUuid": "94d1bba5-f058-484c-8a71-9d911f74bb9d",
+          "width": 84,
+          "x": 1520,
+          "y": 139,
+          "zOrder": -221,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 55,
+          "layer": "",
+          "name": "ClassTable",
+          "persistentUuid": "41bc0808-b01d-478e-95bc-b280d907e8dc",
+          "width": 55,
+          "x": 1503,
+          "y": 59,
+          "zOrder": 587,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 55,
+          "layer": "",
+          "name": "ClassTable",
+          "persistentUuid": "62b0e38c-985f-4013-a08a-5c562a6eabac",
+          "width": 55,
+          "x": 1587,
+          "y": 59,
+          "zOrder": 587,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 55,
+          "layer": "",
+          "name": "ClassTable",
+          "persistentUuid": "d4508866-498a-4d59-948e-a10b16ed05a9",
+          "width": 55,
+          "x": 1587,
+          "y": 99,
+          "zOrder": 587,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 55,
+          "layer": "",
+          "name": "ClassTable",
+          "persistentUuid": "4bdd64c9-e9b4-43ed-aa1d-338f81a5a76c",
+          "width": 55,
+          "x": 1504,
+          "y": 97,
+          "zOrder": 587,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "layer": "",
+          "name": "ClassOrb",
+          "persistentUuid": "165c1da7-f38e-456f-9c1b-1999f177d7b2",
+          "width": 58,
+          "x": 1500,
+          "y": 78,
+          "zOrder": 588,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "layer": "",
+          "name": "ClassOrb",
+          "persistentUuid": "917621b0-9871-4c2e-b07f-76d561b3f79f",
+          "width": 58,
+          "x": 1584,
+          "y": 78,
+          "zOrder": 588,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "layer": "",
+          "name": "ClassOrb",
+          "persistentUuid": "40ba6dd8-51a8-4c50-ad18-bdc4e9532f83",
+          "width": 58,
+          "x": 1583,
+          "y": 117,
+          "zOrder": 588,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 84,
+          "layer": "",
+          "name": "Carpet",
+          "persistentUuid": "e6be2811-51c8-4a9a-9eb8-158c0feb66f8",
+          "width": 84,
+          "x": 2064,
+          "y": 492,
+          "zOrder": -226,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 52,
+          "layer": "",
+          "name": "GymOrb",
+          "persistentUuid": "90a52c0a-db2d-44fb-aba0-0f9ea3fa144f",
+          "width": 53,
+          "x": 1624,
+          "y": 492,
+          "zOrder": 581,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 52,
+          "layer": "",
+          "name": "GymOrb",
+          "persistentUuid": "aedadbc3-b2bf-4252-8c95-56de957229e8",
+          "width": 53,
+          "x": 1496,
+          "y": 493,
+          "zOrder": 581,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 79,
+          "layer": "",
+          "name": "DHTable",
+          "persistentUuid": "441c7b79-050f-4f90-bc56-710fd9b3ce5c",
+          "width": 79,
+          "x": 2149,
+          "y": 115,
+          "zOrder": 590,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 79,
+          "layer": "",
+          "name": "DHTable",
+          "persistentUuid": "7ac22d0e-7f11-4da7-90a9-0e20578d8845",
+          "width": 79,
+          "x": 2221,
+          "y": 114,
+          "zOrder": 590,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 84,
+          "layer": "",
+          "name": "Carpet",
+          "persistentUuid": "0568e8d8-9907-4433-bad0-5eca21c2e58e",
+          "width": 84,
+          "x": 2036,
+          "y": 176,
+          "zOrder": -228,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 79,
+          "layer": "",
+          "name": "DHTable",
+          "persistentUuid": "34caeeea-c200-4774-bab3-3f2194ae6b67",
+          "width": 79,
+          "x": 2223,
+          "y": 157,
+          "zOrder": 590,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 79,
+          "layer": "",
+          "name": "DHTable",
+          "persistentUuid": "5186b879-9df5-4181-8892-4f684190279b",
+          "width": 79,
+          "x": 2149,
+          "y": 158,
+          "zOrder": 590,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "",
+          "name": "DHOrb",
+          "persistentUuid": "29f4f318-bf81-48f3-badd-1efb02f81d8a",
+          "width": 57,
+          "x": 2156,
+          "y": 141,
+          "zOrder": 592,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "",
+          "name": "DHOrb",
+          "persistentUuid": "b2e5cf41-3a16-4456-a7bb-94a371c1857a",
+          "width": 57,
+          "x": 2228,
+          "y": 143,
+          "zOrder": 592,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "",
+          "name": "DHOrb",
+          "persistentUuid": "a4a203ee-80db-462d-bf27-fc8d40767604",
+          "width": 57,
+          "x": 2226,
+          "y": 184,
+          "zOrder": 592,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "",
+          "name": "DHOrb",
+          "persistentUuid": "d25d8380-ef7f-474c-8e8e-218801b12882",
+          "width": 57,
+          "x": 2156,
+          "y": 184,
+          "zOrder": 592,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 64,
+          "layer": "",
+          "name": "Bed",
+          "persistentUuid": "92c955f6-29f5-4833-93dc-6c48238b7807",
+          "width": 64,
+          "x": 242,
+          "y": 0,
+          "zOrder": 593,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 56,
+          "layer": "",
+          "name": "Apple",
+          "persistentUuid": "ee67c99c-3624-45f9-982a-953c3c503267",
+          "width": 56,
+          "x": 444,
+          "y": 12,
+          "zOrder": 594,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 46,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "72789e8d-a8ab-4bcb-9960-79dfc7de1fd6",
+          "width": 46,
+          "x": 251,
+          "y": 184,
+          "zOrder": 595,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 49,
+          "layer": "",
+          "name": "Book",
+          "persistentUuid": "27774b57-ea3d-42b1-acf8-a9e91e30a8ef",
+          "width": 49,
+          "x": 605,
+          "y": 191,
+          "zOrder": 596,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 86,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "46d2e394-1d9c-4e53-80cb-6dd6e649cc9e",
+          "width": 79,
+          "x": 240,
+          "y": 39,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1020,
+          "layer": "",
+          "name": "Space",
+          "persistentUuid": "7594c5f4-699e-4f8e-9d40-ea7d755f01b4",
+          "width": 1396,
+          "x": 1168,
+          "y": -247,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "TimerText",
+          "persistentUuid": "9e2373d2-0d4d-43c4-b0ea-ce5c5b61cbb2",
+          "width": 0,
+          "x": 10,
+          "y": 9,
+          "zOrder": 597,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "UI",
+          "name": "HourValue",
+          "persistentUuid": "30bf7917-81bc-4f77-8ff1-081f9fc0e8ab",
+          "width": 58,
+          "x": 154,
+          "y": 10,
+          "zOrder": 598,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "UI",
+          "name": "ColonText",
+          "persistentUuid": "8e0d9329-a017-40d0-a794-b56abccf082a",
+          "width": 17,
+          "x": 210,
+          "y": 10,
+          "zOrder": 599,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "UI",
+          "name": "MinuteValue",
+          "persistentUuid": "e87d47fa-cb15-4d69-9aa3-2a60b1f9ba2e",
+          "width": 71,
+          "x": 225,
+          "y": 10,
+          "zOrder": 600,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "AM_PM",
+          "persistentUuid": "79912296-336c-417a-9fdb-ae50798b374a",
+          "width": 0,
+          "x": 12,
+          "y": 47,
+          "zOrder": 601,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3561,38 +4400,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite",
-          "rightMargin": 0,
-          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
-          "tiled": true,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite2",
-          "rightMargin": 0,
-          "texture": "assets\\room.png",
-          "tiled": true,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "bf1f2476368f47b52fd8c2f7101f7f7b0749f29998b9a5c782a6408cb9ad5313",
           "name": "ClassOrb",
@@ -3781,7 +4588,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "House",
+                      "image": "assets\\classroomtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3801,16 +4608,16 @@
                             "y": 0
                           },
                           {
-                            "x": 292,
+                            "x": 144,
                             "y": 0
                           },
                           {
-                            "x": 292,
-                            "y": 216
+                            "x": 144,
+                            "y": 150
                           },
                           {
                             "x": 0,
-                            "y": 216
+                            "y": 150
                           }
                         ]
                       ]
@@ -4088,7 +4895,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "House",
+                      "image": "assets\\DHtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4108,16 +4915,16 @@
                             "y": 0
                           },
                           {
-                            "x": 292,
+                            "x": 144,
                             "y": 0
                           },
                           {
-                            "x": 292,
-                            "y": 216
+                            "x": 144,
+                            "y": 150
                           },
                           {
                             "x": 0,
-                            "y": 216
+                            "y": 150
                           }
                         ]
                       ]
@@ -4499,7 +5306,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "House",
+                      "image": "assets\\Gymtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4519,16 +5326,16 @@
                             "y": 0
                           },
                           {
-                            "x": 292,
+                            "x": 144,
                             "y": 0
                           },
                           {
-                            "x": 292,
-                            "y": 216
+                            "x": 144,
+                            "y": 150
                           },
                           {
                             "x": 0,
-                            "y": 216
+                            "y": 150
                           }
                         ]
                       ]
@@ -4992,7 +5799,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "House",
+                      "image": "assets\\dormtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5012,16 +5819,16 @@
                             "y": 0
                           },
                           {
-                            "x": 292,
+                            "x": 97,
                             "y": 0
                           },
                           {
-                            "x": 292,
-                            "y": 216
+                            "x": 97,
+                            "y": 94
                           },
                           {
                             "x": 0,
-                            "y": 216
+                            "y": 94
                           }
                         ]
                       ]
@@ -5098,9 +5905,158 @@
           "bottomMargin": 0,
           "height": 32,
           "leftMargin": 0,
-          "name": "bed",
+          "name": "Bed",
           "rightMargin": 0,
           "texture": "assets\\bed.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Bench",
+          "rightMargin": 0,
+          "texture": "assets\\gymbar2.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Apple",
+          "rightMargin": 0,
+          "texture": "assets\\appledininghall.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Book",
+          "rightMargin": 0,
+          "texture": "assets\\bookclassroom.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Carpet",
+          "rightMargin": 0,
+          "texture": "assets\\carpetentrance.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "ClassTable",
+          "rightMargin": 0,
+          "texture": "assets\\classroomtable.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "DHTable",
+          "rightMargin": 0,
+          "texture": "assets\\DHtable.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Dumbell",
+          "rightMargin": 0,
+          "texture": "assets\\dumbellgym.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TimerText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Time:",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Space",
+          "rightMargin": 0,
+          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
           "tiled": true,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -5108,6 +6064,90 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "HourValue",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "right",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "ColonText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": ":",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "center",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "MinuteValue",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "AM_PM",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "AM",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "center",
+          "characterSize": 20,
+          "color": {
+            "b": 6,
+            "g": 194,
+            "r": 250
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -5216,49 +6256,97 @@
             "objectName": "Dorm"
           },
           {
-            "objectName": "ClassEntrance"
+            "folderName": "Orbs",
+            "children": [
+              {
+                "objectName": "DormOrb"
+              },
+              {
+                "objectName": "GymOrb"
+              },
+              {
+                "objectName": "DHOrb"
+              },
+              {
+                "objectName": "ClassOrb"
+              },
+              {
+                "objectName": "GymEntrance"
+              },
+              {
+                "objectName": "GymExit"
+              },
+              {
+                "objectName": "ClassEntrance"
+              },
+              {
+                "objectName": "ClassExit"
+              },
+              {
+                "objectName": "DHEntrance"
+              },
+              {
+                "objectName": "DHExit"
+              },
+              {
+                "objectName": "DormEntrance"
+              },
+              {
+                "objectName": "DormExit"
+              }
+            ]
           },
           {
-            "objectName": "DHEntrance"
+            "folderName": "Objects/Items",
+            "children": [
+              {
+                "objectName": "Bench"
+              },
+              {
+                "objectName": "Apple"
+              },
+              {
+                "objectName": "Carpet"
+              },
+              {
+                "objectName": "ClassTable"
+              },
+              {
+                "objectName": "DHTable"
+              },
+              {
+                "objectName": "Dumbell"
+              },
+              {
+                "objectName": "Book"
+              },
+              {
+                "objectName": "Bed"
+              }
+            ]
           },
           {
-            "objectName": "GymEntrance"
+            "folderName": "Timer",
+            "children": [
+              {
+                "objectName": "MinuteValue"
+              },
+              {
+                "objectName": "HourValue"
+              },
+              {
+                "objectName": "ColonText"
+              },
+              {
+                "objectName": "TimerText"
+              },
+              {
+                "objectName": "AM_PM"
+              }
+            ]
           },
           {
-            "objectName": "ClassExit"
-          },
-          {
-            "objectName": "DHExit"
-          },
-          {
-            "objectName": "GymExit"
-          },
-          {
-            "objectName": "ClassOrb"
-          },
-          {
-            "objectName": "DHOrb"
-          },
-          {
-            "objectName": "GymOrb"
-          },
-          {
-            "objectName": "DormOrb"
-          },
-          {
-            "objectName": "DormEntrance"
-          },
-          {
-            "objectName": "DormExit"
-          },
-          {
-            "objectName": "NewPanelSprite"
-          },
-          {
-            "objectName": "NewPanelSprite2"
-          },
-          {
-            "objectName": "bed"
+            "objectName": "Space"
           }
         ]
       },
@@ -5319,11 +6407,20 @@
             },
             {
               "type": {
-                "value": "HideLayer"
+                "value": "ResetTimer"
               },
               "parameters": [
                 "",
-                "\"Building1\""
+                "\"DayCycle\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"HourClick\""
               ]
             },
             {
@@ -5406,7 +6503,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "ResourceBars",
+          "name": "UISet",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -5421,7 +6518,7 @@
                   "parameters": [
                     "KnowledgeBar__",
                     "=",
-                    "Player.Knowledge",
+                    "GlobalVariable(GPA)",
                     ""
                   ]
                 },
@@ -5448,6 +6545,46 @@
                   ]
                 }
               ]
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "TimerSet",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "MinuteValue",
+                        "Text",
+                        "=",
+                        "ToString(round(TimerElapsedTime(\"HourClick\")*2))"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "HourValue",
+                        "Text",
+                        "=",
+                        "ToString(GlobalVariable(Hours))"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
             }
           ],
           "parameters": []
@@ -5858,6 +6995,104 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "DormOrb",
+                    "20",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "<",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "+",
+                    "25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "MentalState",
+                    "+",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -6080,7 +7315,7 @@
                     "Player",
                     "Energy",
                     ">",
-                    "1"
+                    "7"
                   ]
                 },
                 {
@@ -6105,11 +7340,10 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
-                    "Knowledge",
+                    "GPA",
                     "+",
                     "1"
                   ]
@@ -6292,6 +7526,115 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "GymOrb",
+                    "20",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    ">",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "MentalState",
+                    "<",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "-",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "MentalState",
+                    "+",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -6438,6 +7781,123 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "DHOrb",
+                    "20",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Energy",
+                        "<",
+                        "100"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Player",
+                        "MentalState",
+                        "<",
+                        "100"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "+",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "MentalState",
+                    "+",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -6485,6 +7945,147 @@
                   "parameters": [
                     "",
                     "\"EnergyDrain\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "DayCycle",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"HourClick\"",
+                    ">=",
+                    "30"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Hours",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"HourClick\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Hours",
+                    ">",
+                    "12"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Hours",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Hours",
+                    "=",
+                    "12"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "AM_PM",
+                    "Text",
+                    "=",
+                    "\"PM\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "AM_PM",
+                    "\"6;62;173\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "Hours",
+                    "\"DayCycle\"",
+                    ">=",
+                    "15"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"GameOver\"",
+                    ""
                   ]
                 }
               ]
@@ -6604,12 +8205,299 @@
           "type": "ScalableCapability::ScalableBehavior"
         },
         {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         },
         {
           "name": "TopDownMultitouchMapper",
           "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "GameOver",
+      "name": "GameOver",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1.0159150236263463,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 26,
+          "height": 735,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "927a73ec-8937-43d9-b9fe-08d4f69dcf6e",
+          "width": 1186,
+          "x": -131,
+          "y": -72,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 117,
+          "layer": "",
+          "name": "GameOverText",
+          "persistentUuid": "3b9d219f-c61a-4f8d-9e48-affa20284bd3",
+          "width": 959,
+          "x": 0,
+          "y": 54,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "GPAText",
+          "persistentUuid": "987386ef-a0ae-4beb-9c1e-9c36f09a8d02",
+          "width": 0,
+          "x": 327,
+          "y": 166,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 51,
+          "layer": "",
+          "name": "GPANumber",
+          "persistentUuid": "12a0728c-4ef3-4f3d-b7cf-0e3da3d22676",
+          "width": 315,
+          "x": 505,
+          "y": 167,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Background",
+          "rightMargin": 0,
+          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "GameOverText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Game Over",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "center",
+          "characterSize": 100,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "GPAText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "GPA:",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "GPANumber",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Background"
+          },
+          {
+            "objectName": "GameOverText"
+          },
+          {
+            "objectName": "GPAText"
+          },
+          {
+            "objectName": "GPANumber"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "GPANumber",
+                "Text",
+                "=",
+                "ToString((GlobalVariable(GPA) / 100) * 4.00)"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     }
