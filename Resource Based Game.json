@@ -851,6 +851,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/d8418d61c6cbd8ec54870bb9de2489a1b03b4ea9b679e32809abcd143551e3f7_Purple Orb_Shadow.png",
           "name": "Purple Orb_Shadow.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bed.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -941,7 +950,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 1.1418583454354565,
+        "zoomFactor": 1.6445453867276532,
         "windowMask": false
       },
       "objectsGroups": [
@@ -5083,6 +5092,22 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "bed",
+          "rightMargin": 0,
+          "texture": "assets\\bed.png",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -5231,6 +5256,9 @@
           },
           {
             "objectName": "NewPanelSprite2"
+          },
+          {
+            "objectName": "bed"
           }
         ]
       },
