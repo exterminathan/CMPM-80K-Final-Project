@@ -2094,7 +2094,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 0.5690468466185711,
+        "zoomFactor": 1.0685777208212361,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4147,6 +4147,22 @@
           "x": 1230,
           "y": -187,
           "zOrder": -241,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "42ffece5-9d28-4357-95ce-26310cfdf6fc",
+          "width": 199,
+          "x": 2085,
+          "y": 81,
+          "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9196,6 +9212,17 @@
                 },
                 {
                   "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "KeyPressed"
                   },
                   "parameters": [
@@ -9259,6 +9286,17 @@
                     "",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
                   ]
                 },
                 {
@@ -9451,6 +9489,17 @@
                 },
                 {
                   "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "KeyPressed"
                   },
                   "parameters": [
@@ -9514,6 +9563,17 @@
                     "",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.3"
                   ]
                 },
                 {
