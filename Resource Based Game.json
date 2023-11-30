@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "StartingScreen",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -959,6 +959,168 @@
         "name": "assets\\dumbellgym.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Ekey-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ekey-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Ekey-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ekey-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "arrowkeysdirections-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "arrowkeysdirections-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "arrowkeysdirections-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "arrowkeysdirections-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "interact-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "interact-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "interact-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "interact-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "movement-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "movement-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "movement-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "movement-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Title-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Title-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Title-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Title-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play-1.png_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play-1.png_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play-2.png_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play-2.png_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Title-2.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Title-2.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Title-1.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Title-1.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Ekey-2.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ekey-2.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Ekey-1.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ekey-1.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "arrowkeysdirections-1.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "arrowkeysdirections-1.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "arrowkeysdirections-2.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "arrowkeysdirections-2.png2.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1045,6 +1207,876 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
+      "mangledName": "StartingScreen",
+      "name": "StartingScreen",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 1.1221904167164134,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 949,
+          "layer": "",
+          "name": "Space",
+          "persistentUuid": "a10859ba-fef9-45b0-9f5c-d5d07cf1abcc",
+          "width": 1267,
+          "x": -372,
+          "y": -355,
+          "zOrder": -241,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 949,
+          "layer": "",
+          "name": "Space",
+          "persistentUuid": "121da17f-4dcb-4975-aa0c-fc2a232ccfb8",
+          "width": 1267,
+          "x": -233,
+          "y": -378,
+          "zOrder": -241,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 604,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "5dd2d305-9f1d-49c2-b664-042de6efacee",
+          "width": 1011,
+          "x": -29,
+          "y": -21,
+          "zOrder": -240,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "layer": "",
+          "name": "InteractText",
+          "persistentUuid": "d118f039-eb1c-461f-8269-480c62163745",
+          "width": 448,
+          "x": 0,
+          "y": 160,
+          "zOrder": -239,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "layer": "",
+          "name": "MovementText",
+          "persistentUuid": "83c74be1-8ea4-46ba-8de4-6b075de6fd1f",
+          "width": 512,
+          "x": 448,
+          "y": 164,
+          "zOrder": -238,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 101,
+          "layer": "",
+          "name": "TitleText",
+          "persistentUuid": "4628754c-5293-4ffd-8098-b90c81db3dde",
+          "width": 1614,
+          "x": -329,
+          "y": -11,
+          "zOrder": -237,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 107,
+          "layer": "",
+          "name": "PlayButton",
+          "persistentUuid": "d5ec2a4e-a597-48bc-8862-9ac47dd5be49",
+          "width": 384,
+          "x": 288,
+          "y": 405,
+          "zOrder": -236,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 7,
+          "height": 224,
+          "layer": "",
+          "name": "eKeys",
+          "persistentUuid": "a57487a0-4455-44b7-b11f-3c41337de9b5",
+          "width": 224,
+          "x": 96,
+          "y": 256,
+          "zOrder": -235,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 6,
+          "height": 192,
+          "layer": "",
+          "name": "arrowKeys",
+          "persistentUuid": "8033cb67-6a15-44c1-b6f9-2c7e5a90cef9",
+          "width": 192,
+          "x": 608,
+          "y": 224,
+          "zOrder": -234,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Background",
+          "rightMargin": 0,
+          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "InteractText",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "interact-1.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 108,
+                            "y": 14
+                          },
+                          {
+                            "x": 324,
+                            "y": 14
+                          },
+                          {
+                            "x": 324,
+                            "y": 44
+                          },
+                          {
+                            "x": 108,
+                            "y": 44
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "interact-2.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 108,
+                            "y": 14
+                          },
+                          {
+                            "x": 324,
+                            "y": 14
+                          },
+                          {
+                            "x": 324,
+                            "y": 44
+                          },
+                          {
+                            "x": 108,
+                            "y": 44
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "MovementText",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "movement-1.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 122,
+                            "y": 14
+                          },
+                          {
+                            "x": 366,
+                            "y": 14
+                          },
+                          {
+                            "x": 366,
+                            "y": 44
+                          },
+                          {
+                            "x": 122,
+                            "y": 44
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "movement-2.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 122,
+                            "y": 14
+                          },
+                          {
+                            "x": 366,
+                            "y": 14
+                          },
+                          {
+                            "x": 366,
+                            "y": 44
+                          },
+                          {
+                            "x": 122,
+                            "y": 44
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "TitleText",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Title-2.png2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 998,
+                            "y": 60
+                          },
+                          {
+                            "x": 2996,
+                            "y": 60
+                          },
+                          {
+                            "x": 2996,
+                            "y": 160
+                          },
+                          {
+                            "x": 998,
+                            "y": 160
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "PlayButton",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "play-1.png_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 44,
+                            "y": 10
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 170,
+                            "y": 48
+                          },
+                          {
+                            "x": 44,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "play-2.png_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 44,
+                            "y": 10
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 170,
+                            "y": 48
+                          },
+                          {
+                            "x": 44,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "eKeys",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ekey-2.png2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 5
+                          },
+                          {
+                            "x": 20,
+                            "y": 5
+                          },
+                          {
+                            "x": 20,
+                            "y": 14
+                          },
+                          {
+                            "x": 11,
+                            "y": 14
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ekey-1.png2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 5
+                          },
+                          {
+                            "x": 20,
+                            "y": 5
+                          },
+                          {
+                            "x": 20,
+                            "y": 14
+                          },
+                          {
+                            "x": 11,
+                            "y": 14
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "arrowKeys",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "arrowkeysdirections-2.png2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 31,
+                            "y": 4
+                          },
+                          {
+                            "x": 31,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "arrowkeysdirections-1.png2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 31,
+                            "y": 4
+                          },
+                          {
+                            "x": 31,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Background"
+          },
+          {
+            "objectName": "InteractText"
+          },
+          {
+            "objectName": "MovementText"
+          },
+          {
+            "objectName": "TitleText"
+          },
+          {
+            "objectName": "PlayButton"
+          },
+          {
+            "objectName": "eKeys"
+          },
+          {
+            "objectName": "arrowKeys"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "PlayButton",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Overworld\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
       "mangledName": "Overworld",
       "name": "Overworld",
       "r": 209,
@@ -1062,7 +2094,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 0.8195616997322029,
+        "zoomFactor": 0.5690468466185711,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1117,8 +2149,8 @@
           "name": "Water1",
           "persistentUuid": "0892ee1f-ba40-484b-9ed3-57b22d5e7092",
           "width": 1056,
-          "x": -44,
-          "y": 498,
+          "x": -47,
+          "y": 370,
           "zOrder": 514,
           "numberProperties": [],
           "stringProperties": [],
@@ -1133,8 +2165,8 @@
           "name": "Beach",
           "persistentUuid": "4c4ed9bc-e1f8-4ba6-b318-a913b3774cfd",
           "width": 1064,
-          "x": -51,
-          "y": 474,
+          "x": -44,
+          "y": 341,
           "zOrder": 515,
           "numberProperties": [],
           "stringProperties": [],
@@ -1291,9 +2323,9 @@
           "name": "Player",
           "persistentUuid": "898ece26-2d37-4663-929e-93566c384762",
           "width": 29,
-          "x": 1569,
-          "y": 166,
-          "zOrder": 568,
+          "x": 2102,
+          "y": 474,
+          "zOrder": 603,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1367,7 +2399,7 @@
           "customSize": true,
           "depth": 1,
           "height": 24,
-          "layer": "",
+          "layer": "Orbs",
           "name": "ClassEntrance",
           "persistentUuid": "de4390b9-58f4-496c-954a-ccb45b5ffb05",
           "width": 24,
@@ -1382,78 +2414,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 227,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "b1f39e08-24e7-4998-860b-8786c4f7bf24",
-          "width": 14,
-          "x": 2518,
-          "y": -347,
-          "zOrder": 551,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 71,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "cf5b33af-a456-45a1-b14d-136920666e2b",
-          "width": 319,
-          "x": 2516,
-          "y": -352,
-          "zOrder": 552,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 228,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "17dfce4a-980f-40aa-bfde-dff3f270285a",
-          "width": 16,
-          "x": 2818,
-          "y": -349,
-          "zOrder": 553,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "3be8123c-3d7c-4303-b353-835753b42b69",
-          "width": 317,
-          "x": 2516,
-          "y": -137,
-          "zOrder": 554,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 34,
-          "layer": "",
+          "layer": "Orbs",
           "name": "ClassOrb",
           "persistentUuid": "f8a708be-e1df-45b4-9374-289f8926195f",
           "width": 58,
           "x": 1501,
           "y": 115,
-          "zOrder": 588,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1463,13 +2431,13 @@
           "customSize": true,
           "depth": 1,
           "height": 30,
-          "layer": "",
+          "layer": "Orbs",
           "name": "ClassExit",
           "persistentUuid": "cdf78d85-65e9-452d-81cd-06e687c662be",
-          "width": 29,
-          "x": 1550,
+          "width": 51,
+          "x": 1538,
           "y": 175,
-          "zOrder": 586,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1485,23 +2453,7 @@
           "width": 262,
           "x": 1446,
           "y": -8,
-          "zOrder": -222,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "26994eeb-882c-433d-bd73-96f9b6aa3d1d",
-          "width": 56,
-          "x": 2690,
-          "y": -285,
-          "zOrder": 552,
+          "zOrder": -234,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1541,70 +2493,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 227,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "a58d4a5a-9b7b-4a45-9837-1b2edb9db84f",
-          "width": 14,
-          "x": 2527,
-          "y": 115,
-          "zOrder": 551,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 71,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "4de3efde-201a-44ee-a189-cfb4e4e0e5fe",
-          "width": 319,
-          "x": 2525,
-          "y": 110,
-          "zOrder": 552,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 228,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "a73d9c29-b18b-497e-a590-0bdc1fd5c28e",
-          "width": 16,
-          "x": 2827,
-          "y": 113,
-          "zOrder": 553,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "513717ca-b15e-4d9c-ad5e-44659d854e3e",
-          "width": 317,
-          "x": 2525,
-          "y": 325,
-          "zOrder": 554,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 252,
           "layer": "",
           "name": "DH",
@@ -1612,7 +2500,7 @@
           "width": 272,
           "x": 2053,
           "y": -10,
-          "zOrder": -229,
+          "zOrder": -237,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1622,13 +2510,13 @@
           "customSize": true,
           "depth": 1,
           "height": 26,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DHExit",
           "persistentUuid": "4b6cf437-481b-47ed-b29e-0eb831ab6af4",
-          "width": 26,
-          "x": 2068,
+          "width": 51,
+          "x": 2055,
           "y": 211,
-          "zOrder": 591,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1638,7 +2526,7 @@
           "customSize": true,
           "depth": 1,
           "height": 20,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DHEntrance",
           "persistentUuid": "61df9d31-f09e-4216-aa48-6962a097be6f",
           "width": 20,
@@ -1686,7 +2574,7 @@
           "customSize": true,
           "depth": 1,
           "height": 21,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymEntrance",
           "persistentUuid": "fac098b4-8bc9-4c8a-8287-c5d6b21e3e71",
           "width": 20,
@@ -1740,7 +2628,7 @@
           "width": 300,
           "x": 1442,
           "y": 309,
-          "zOrder": -224,
+          "zOrder": -231,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1750,93 +2638,13 @@
           "customSize": true,
           "depth": 1,
           "height": 32,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymExit",
           "persistentUuid": "e78aa2f8-a66f-41ca-aa8d-a9011a51957c",
-          "width": 32,
-          "x": 1659,
+          "width": 51,
+          "x": 1649,
           "y": 574,
-          "zOrder": 585,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 227,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "8d54c3e5-50fd-46ab-a6b1-ddc31ab19985",
-          "width": 14,
-          "x": 2547,
-          "y": 645,
-          "zOrder": 551,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 71,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "9d6e33a8-2c31-4ccd-8919-11fe2b680d1c",
-          "width": 319,
-          "x": 2545,
-          "y": 640,
-          "zOrder": 552,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 228,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "b4671b84-2454-4fa8-8bc3-4b9afa1f8d35",
-          "width": 16,
-          "x": 2847,
-          "y": 643,
-          "zOrder": 553,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "e969a7fe-f63c-4d73-bcc2-0284f3f4bcfe",
-          "width": 317,
-          "x": 2545,
-          "y": 855,
-          "zOrder": 554,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 40,
-          "layer": "",
-          "name": "DHOrb",
-          "persistentUuid": "8386baa8-234a-4bab-a182-93b4851116b1",
-          "width": 232,
-          "x": 2063,
-          "y": 92,
-          "zOrder": 575,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1846,13 +2654,13 @@
           "customSize": true,
           "depth": 1,
           "height": 52,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "36d21476-d006-4c4a-92c9-27d749842a7f",
           "width": 53,
           "x": 1559,
           "y": 494,
-          "zOrder": 581,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1862,7 +2670,7 @@
           "customSize": true,
           "depth": 1,
           "height": 25,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DormEntrance",
           "persistentUuid": "1ee4ef62-fb48-4b94-aa6f-11b247ca6799",
           "width": 25,
@@ -1878,13 +2686,13 @@
           "customSize": true,
           "depth": 1,
           "height": 32,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DormExit",
           "persistentUuid": "ac6e32cb-1bf8-47c0-9bcd-253b9e05eaf7",
-          "width": 32,
-          "x": 2092,
+          "width": 46,
+          "x": 2085,
           "y": 523,
-          "zOrder": 589,
+          "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1894,13 +2702,13 @@
           "customSize": true,
           "depth": 1,
           "height": 82,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DormOrb",
           "persistentUuid": "63329fca-3c19-432e-a270-e84c5851cb7e",
           "width": 44,
           "x": 2217,
           "y": 426,
-          "zOrder": 579,
+          "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1916,7 +2724,7 @@
           "width": 330,
           "x": 2062,
           "y": 351,
-          "zOrder": -227,
+          "zOrder": -240,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1948,7 +2756,7 @@
           "width": 97,
           "x": 2207,
           "y": 404,
-          "zOrder": -219,
+          "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1964,7 +2772,7 @@
           "width": 72,
           "x": 1614,
           "y": 483,
-          "zOrder": 580,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1980,7 +2788,7 @@
           "width": 72,
           "x": 1550,
           "y": 482,
-          "zOrder": 580,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1996,7 +2804,7 @@
           "width": 72,
           "x": 1485,
           "y": 481,
-          "zOrder": 580,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2012,7 +2820,7 @@
           "width": 32,
           "x": 1467,
           "y": 380,
-          "zOrder": 582,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2028,7 +2836,7 @@
           "width": 32,
           "x": 1469,
           "y": 386,
-          "zOrder": 582,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2044,7 +2852,7 @@
           "width": 32,
           "x": 1536,
           "y": 381,
-          "zOrder": 582,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2060,7 +2868,7 @@
           "width": 32,
           "x": 1539,
           "y": 387,
-          "zOrder": 582,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2076,7 +2884,7 @@
           "width": 32,
           "x": 1634,
           "y": 381,
-          "zOrder": 582,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2092,7 +2900,7 @@
           "width": 32,
           "x": 1637,
           "y": 387,
-          "zOrder": 582,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2102,13 +2910,13 @@
           "customSize": true,
           "depth": 1,
           "height": 30,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "97672c09-6e10-4ee0-abc6-fab6470ac4cc",
           "width": 32,
           "x": 1634,
           "y": 390,
-          "zOrder": 583,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2118,13 +2926,13 @@
           "customSize": true,
           "depth": 1,
           "height": 30,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "792d7f26-7e69-4ae7-b385-c4765c1da778",
           "width": 32,
           "x": 1536,
           "y": 389,
-          "zOrder": 583,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2134,13 +2942,13 @@
           "customSize": true,
           "depth": 1,
           "height": 30,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "abf0e5b5-bda5-4d42-bc58-de132af767eb",
           "width": 32,
           "x": 1467,
           "y": 391,
-          "zOrder": 583,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2156,7 +2964,7 @@
           "width": 84,
           "x": 1631,
           "y": 544,
-          "zOrder": -223,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2172,7 +2980,7 @@
           "width": 84,
           "x": 1520,
           "y": 139,
-          "zOrder": -221,
+          "zOrder": -233,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2188,7 +2996,7 @@
           "width": 55,
           "x": 1503,
           "y": 59,
-          "zOrder": 587,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2204,7 +3012,7 @@
           "width": 55,
           "x": 1587,
           "y": 59,
-          "zOrder": 587,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2220,7 +3028,7 @@
           "width": 55,
           "x": 1587,
           "y": 99,
-          "zOrder": 587,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2236,7 +3044,7 @@
           "width": 55,
           "x": 1504,
           "y": 97,
-          "zOrder": 587,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2246,13 +3054,13 @@
           "customSize": true,
           "depth": 1,
           "height": 34,
-          "layer": "",
+          "layer": "Orbs",
           "name": "ClassOrb",
           "persistentUuid": "165c1da7-f38e-456f-9c1b-1999f177d7b2",
           "width": 58,
           "x": 1500,
           "y": 78,
-          "zOrder": 588,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2262,13 +3070,13 @@
           "customSize": true,
           "depth": 1,
           "height": 34,
-          "layer": "",
+          "layer": "Orbs",
           "name": "ClassOrb",
           "persistentUuid": "917621b0-9871-4c2e-b07f-76d561b3f79f",
           "width": 58,
           "x": 1584,
           "y": 78,
-          "zOrder": 588,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2278,13 +3086,13 @@
           "customSize": true,
           "depth": 1,
           "height": 34,
-          "layer": "",
+          "layer": "Orbs",
           "name": "ClassOrb",
           "persistentUuid": "40ba6dd8-51a8-4c50-ad18-bdc4e9532f83",
           "width": 58,
           "x": 1583,
           "y": 117,
-          "zOrder": 588,
+          "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2300,7 +3108,7 @@
           "width": 84,
           "x": 2064,
           "y": 492,
-          "zOrder": -226,
+          "zOrder": -239,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2310,13 +3118,13 @@
           "customSize": true,
           "depth": 1,
           "height": 52,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "90a52c0a-db2d-44fb-aba0-0f9ea3fa144f",
           "width": 53,
           "x": 1624,
           "y": 492,
-          "zOrder": 581,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2326,13 +3134,13 @@
           "customSize": true,
           "depth": 1,
           "height": 52,
-          "layer": "",
+          "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "aedadbc3-b2bf-4252-8c95-56de957229e8",
           "width": 53,
           "x": 1496,
           "y": 493,
-          "zOrder": 581,
+          "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2348,7 +3156,7 @@
           "width": 79,
           "x": 2149,
           "y": 115,
-          "zOrder": 590,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2364,7 +3172,7 @@
           "width": 79,
           "x": 2221,
           "y": 114,
-          "zOrder": 590,
+          "zOrder": -236,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2380,7 +3188,7 @@
           "width": 84,
           "x": 2036,
           "y": 176,
-          "zOrder": -228,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2396,7 +3204,7 @@
           "width": 79,
           "x": 2223,
           "y": 157,
-          "zOrder": 590,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2412,7 +3220,7 @@
           "width": 79,
           "x": 2149,
           "y": 158,
-          "zOrder": 590,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2422,13 +3230,13 @@
           "customSize": true,
           "depth": 1,
           "height": 40,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DHOrb",
           "persistentUuid": "29f4f318-bf81-48f3-badd-1efb02f81d8a",
           "width": 57,
           "x": 2156,
           "y": 141,
-          "zOrder": 592,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2438,13 +3246,13 @@
           "customSize": true,
           "depth": 1,
           "height": 40,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DHOrb",
           "persistentUuid": "b2e5cf41-3a16-4456-a7bb-94a371c1857a",
           "width": 57,
           "x": 2228,
           "y": 143,
-          "zOrder": 592,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2454,13 +3262,13 @@
           "customSize": true,
           "depth": 1,
           "height": 40,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DHOrb",
           "persistentUuid": "a4a203ee-80db-462d-bf27-fc8d40767604",
           "width": 57,
           "x": 2226,
           "y": 184,
-          "zOrder": 592,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2470,13 +3278,13 @@
           "customSize": true,
           "depth": 1,
           "height": 40,
-          "layer": "",
+          "layer": "Orbs",
           "name": "DHOrb",
           "persistentUuid": "d25d8380-ef7f-474c-8e8e-218801b12882",
           "width": 57,
           "x": 2156,
           "y": 184,
-          "zOrder": 592,
+          "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2563,22 +3371,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 1020,
-          "layer": "",
-          "name": "Space",
-          "persistentUuid": "7594c5f4-699e-4f8e-9d40-ea7d755f01b4",
-          "width": 1396,
-          "x": 1168,
-          "y": -247,
-          "zOrder": -230,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "UI",
@@ -2654,6 +3446,710 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 72,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "75315f6c-08e5-4dcd-8b53-c1bf2d772fb0",
+          "width": 1141,
+          "x": -69,
+          "y": 341,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 561,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "e7271821-6d64-4291-bae7-9d56c2d3d85a",
+          "width": 44,
+          "x": 126,
+          "y": -42,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 45,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "c9c59cf2-889f-4830-883f-e800802fa342",
+          "width": 1141,
+          "x": -73,
+          "y": -46,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 561,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "7dcd6853-b638-465b-91c9-d141f9f78a5b",
+          "width": 44,
+          "x": 798,
+          "y": -44,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "afe6b86a-0d55-4b9d-b216-094628c1bfe1",
+          "width": 28,
+          "x": 1414,
+          "y": 276,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "0a8010c5-4e32-4aba-af43-01fae32a8196",
+          "width": 28,
+          "x": 1730,
+          "y": 284,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "51aeb01e-b5f1-44f6-9c98-7dbc13417628",
+          "width": 407,
+          "x": 1366,
+          "y": 610,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 95,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "dc7fe790-6abe-4cf4-9986-845ce2ba66aa",
+          "width": 407,
+          "x": 1374,
+          "y": 288,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "5bb24dbd-03ca-44dd-90a9-c1462a63f824",
+          "width": 28,
+          "x": 2034,
+          "y": 291,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "fab32c23-77b3-46ff-97e1-4e6fef5d4324",
+          "width": 28,
+          "x": 2275,
+          "y": 306,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "5ec8e376-82f5-4314-8002-132824b908a7",
+          "width": 407,
+          "x": 1948,
+          "y": 558,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 85,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "b9fbb9d3-7d30-4745-9476-5507c6b3053e",
+          "width": 407,
+          "x": 1960,
+          "y": 348,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 85,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "4d933e5f-c9dd-4c85-91e5-b5c322b2b285",
+          "width": 407,
+          "x": 1968,
+          "y": -33,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "eb5f23b4-7d8d-46fe-9451-806cddfd1750",
+          "width": 28,
+          "x": 2313,
+          "y": -52,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "849bdb81-388f-48ee-9a18-14fc5ffec7b7",
+          "width": 28,
+          "x": 2026,
+          "y": -64,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "b3b294fe-932b-410c-ab1c-656ac968e935",
+          "width": 407,
+          "x": 1980,
+          "y": 241,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "52078472-883d-40fd-99ca-bbaa6e27f9c1",
+          "width": 28,
+          "x": 1418,
+          "y": -69,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 355,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "5705cad1-4346-42c8-bc09-11dbd5e44eec",
+          "width": 28,
+          "x": 1698,
+          "y": -62,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 85,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "1970a58c-42cd-422f-be32-1e19e5e20a9b",
+          "width": 407,
+          "x": 1373,
+          "y": -41,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "d2cb7c73-45db-4c52-bf2d-8bf9694417e1",
+          "width": 407,
+          "x": 1362,
+          "y": 203,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "7974fd9f-7164-47b5-b30d-a4d0178650da",
+          "width": 52,
+          "x": 2104,
+          "y": 515,
+          "zOrder": -238,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "e2052d4f-5290-4e0c-9d84-b5e0e430ffbd",
+          "width": 52,
+          "x": 2076,
+          "y": 197,
+          "zOrder": -235,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "69bb938b-c643-4915-a706-09224d7aa826",
+          "width": 52,
+          "x": 2181,
+          "y": 174,
+          "zOrder": -235,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "dc5c5fd4-b8ba-4465-bc96-04f967e31a6e",
+          "width": 52,
+          "x": 2182,
+          "y": 133,
+          "zOrder": -235,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "48960f90-094e-4cc7-b7a3-795c936f57e6",
+          "width": 52,
+          "x": 2254,
+          "y": 133,
+          "zOrder": -235,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "660194f7-d6a8-4290-89a7-04937fc7a65f",
+          "width": 52,
+          "x": 2255,
+          "y": 175,
+          "zOrder": -235,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "a1a3e8c3-1d5e-4fc9-b164-06e2083ef490",
+          "width": 52,
+          "x": 1610,
+          "y": 67,
+          "zOrder": -232,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "79ed144f-5047-40c6-878d-48a6bc8a91da",
+          "width": 52,
+          "x": 1609,
+          "y": 106,
+          "zOrder": -232,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "efe982f6-560d-4126-8b19-616d9ad8dc9c",
+          "width": 52,
+          "x": 1525,
+          "y": 105,
+          "zOrder": -232,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "7e77d38b-7d07-4a63-8c6e-3978aaf5fe08",
+          "width": 52,
+          "x": 1525,
+          "y": 66,
+          "zOrder": -232,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "ffb8b97a-a29e-4e97-994c-aabc9159a5f4",
+          "width": 52,
+          "x": 1543,
+          "y": 378,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "ecfc9a83-a598-4bcd-b0af-24461401cd88",
+          "width": 52,
+          "x": 1471,
+          "y": 378,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "ec623a73-bce8-4ffc-ae8d-9f3aef9887a1",
+          "width": 52,
+          "x": 1641,
+          "y": 379,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "bca7f7e9-ae64-4ecc-969c-2580aa5c5fc2",
+          "width": 52,
+          "x": 1625,
+          "y": 479,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "19e9b881-a799-4d53-85fa-28363729dd25",
+          "width": 52,
+          "x": 1562,
+          "y": 479,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "bf898ef6-9af9-42ef-b2d2-5c5f44953f75",
+          "width": 52,
+          "x": 1496,
+          "y": 478,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "95718a34-8b8f-4e00-a38e-8b98ca501f1d",
+          "width": 52,
+          "x": 1668,
+          "y": 567,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "e1b11d51-1c28-4952-8f92-bf91ce8b36f9",
+          "width": 52,
+          "x": 2224,
+          "y": 423,
+          "zOrder": -238,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "cb16d6f4-20ec-4177-82b5-795b8f1936cb",
+          "width": 52,
+          "x": 1556,
+          "y": 166,
+          "zOrder": -233,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "52257c24-77a4-4740-91b0-4b307d02d8c7",
+          "width": 52,
+          "x": 619,
+          "y": 282,
+          "zOrder": 602,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "48f6158c-e16d-4dfe-82d4-01a37f1a5863",
+          "width": 52,
+          "x": 457,
+          "y": 106,
+          "zOrder": 602,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "5e22b11c-db33-4c06-859a-35dc9696d969",
+          "width": 52,
+          "x": 259,
+          "y": 107,
+          "zOrder": 602,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 52,
+          "layer": "",
+          "name": "e",
+          "persistentUuid": "e4da0c7b-8fb3-4271-b59c-f62d15362796",
+          "width": 52,
+          "x": 261,
+          "y": 259,
+          "zOrder": 602,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 949,
+          "layer": "",
+          "name": "Space",
+          "persistentUuid": "c927479d-e070-43db-93e5-66179c002033",
+          "width": 1267,
+          "x": 1230,
+          "y": -187,
+          "zOrder": -241,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2669,12 +4165,6 @@
               "name": "Energy",
               "type": "number",
               "value": 75
-            },
-            {
-              "folded": true,
-              "name": "Knowledge",
-              "type": "number",
-              "value": 0
             },
             {
               "folded": true,
@@ -6148,6 +7638,198 @@
             "g": 194,
             "r": 250
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "e",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ekey-1.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 4
+                          },
+                          {
+                            "x": 20,
+                            "y": 4
+                          },
+                          {
+                            "x": 20,
+                            "y": 13
+                          },
+                          {
+                            "x": 11,
+                            "y": 13
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ekey-2.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 4
+                          },
+                          {
+                            "x": 20,
+                            "y": 4
+                          },
+                          {
+                            "x": 20,
+                            "y": 13
+                          },
+                          {
+                            "x": 11,
+                            "y": 13
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "arrowkeys",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "arrowkeysdirections-1.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "arrowkeysdirections-2.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -6346,6 +8028,17 @@
             ]
           },
           {
+            "folderName": "Animation",
+            "children": [
+              {
+                "objectName": "e"
+              },
+              {
+                "objectName": "arrowkeys"
+              }
+            ]
+          },
+          {
             "objectName": "Space"
           }
         ]
@@ -6403,6 +8096,15 @@
               "parameters": [
                 "",
                 "\"Collision\""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Orbs\""
               ]
             },
             {
@@ -6503,7 +8205,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "UISet",
+          "name": "Settings",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -6543,6 +8245,38 @@
                     "Player.MentalState",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "=",
+                    "clamp(Player.Energy,0,100)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "MentalState",
+                    "=",
+                    "clamp(Player.MentalState,0,100)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "GPA",
+                    "=",
+                    "clamp(GPA,0,100)"
+                  ]
                 }
               ]
             },
@@ -6557,7 +8291,59 @@
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"HourClick\"",
+                        "<",
+                        "4.5"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "MinuteValue",
+                        "Text",
+                        "=",
+                        "\"0\" + ToString(round(TimerElapsedTime(\"HourClick\")*2))"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "HourValue",
+                        "Text",
+                        "=",
+                        "ToString(GlobalVariable(Hours))"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"HourClick\"",
+                        ">=",
+                        "5"
+                      ]
+                    }
+                  ],
                   "actions": [
                     {
                       "type": {
@@ -7444,9 +9230,9 @@
                   "parameters": [
                     "Player",
                     "=",
-                    "GymExit.X() - 3",
+                    "GymExit.CenterX()",
                     "=",
-                    "GymExit.Y() - 3"
+                    "GymExit.CenterY()"
                   ]
                 },
                 {
@@ -7511,9 +9297,9 @@
                   "parameters": [
                     "Player",
                     "=",
-                    "GymEntrance.X()",
+                    "GymEntrance.CenterX()",
                     "=",
-                    "GymEntrance.Y() + 50"
+                    "GymEntrance.CenterY()"
                   ]
                 },
                 {
@@ -7699,9 +9485,9 @@
                   "parameters": [
                     "Player",
                     "=",
-                    "DHExit.X() - 3",
+                    "DHExit.CenterX()",
                     "=",
-                    "DHExit.Y() - 3"
+                    "DHExit.CenterY()"
                   ]
                 },
                 {
@@ -7766,9 +9552,9 @@
                   "parameters": [
                     "Player",
                     "=",
-                    "DHEntrance.X()",
+                    "DHEntrance.CenterX()",
                     "=",
-                    "DHEntrance.Y() + 50"
+                    "DHEntrance.CenterY()"
                   ]
                 },
                 {
@@ -7922,7 +9708,7 @@
                     "",
                     "\"EnergyDrain\"",
                     ">",
-                    "10"
+                    "3"
                   ]
                 }
               ],
@@ -8073,7 +9859,7 @@
                     "Hours",
                     "\"DayCycle\"",
                     ">=",
-                    "15"
+                    "360"
                   ]
                 }
               ],
@@ -8123,6 +9909,38 @@
           "effects": []
         },
         {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Orbs",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
           "ambientLightColorB": 15350824,
           "ambientLightColorG": 6062928,
           "ambientLightColorR": 15732720,
@@ -8166,7 +9984,7 @@
           "isLocked": false,
           "name": "Collision",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         }
