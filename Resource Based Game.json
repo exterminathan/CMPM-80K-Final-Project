@@ -2809,7 +2809,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 0.7928273014313388,
+        "zoomFactor": 0.33473343918740356,
         "windowMask": false
       },
       "objectsGroups": [
@@ -8121,52 +8121,65 @@
             "objectName": "Turkeys"
           },
           {
-            "objectName": "KnowledgeBook"
-          },
-          {
-            "objectName": "Energy"
-          },
-          {
-            "objectName": "MentalState"
-          },
-          {
             "objectName": "Grass"
           },
           {
             "objectName": "CollisionDetect"
           },
           {
-            "objectName": "EnergyBar"
+            "objectName": "Space"
           },
           {
-            "objectName": "KnowledgeBar__"
+            "folderName": "Buildings",
+            "children": [
+              {
+                "objectName": "DormExterior"
+              },
+              {
+                "objectName": "ClassExterior"
+              },
+              {
+                "objectName": "DHExterior"
+              },
+              {
+                "objectName": "GymExterior"
+              },
+              {
+                "objectName": "Class"
+              },
+              {
+                "objectName": "DH"
+              },
+              {
+                "objectName": "Gym"
+              },
+              {
+                "objectName": "Dorm"
+              }
+            ]
           },
           {
-            "objectName": "MentalStateBar"
-          },
-          {
-            "objectName": "DormExterior"
-          },
-          {
-            "objectName": "ClassExterior"
-          },
-          {
-            "objectName": "DHExterior"
-          },
-          {
-            "objectName": "GymExterior"
-          },
-          {
-            "objectName": "Class"
-          },
-          {
-            "objectName": "DH"
-          },
-          {
-            "objectName": "Gym"
-          },
-          {
-            "objectName": "Dorm"
+            "folderName": "Resource Bars",
+            "children": [
+              {
+                "objectName": "KnowledgeBook"
+              },
+              {
+                "objectName": "MentalState"
+              },
+              {
+                "objectName": "Energy"
+              },
+              {
+                "objectName": "MentalStateBar"
+              },
+              {
+                "objectName": "KnowledgeBar__"
+              },
+              {
+                "objectName": "EnergyBar"
+              }
+            ]
           },
           {
             "folderName": "Orbs",
@@ -8268,9 +8281,6 @@
                 "objectName": "arrowkeys"
               }
             ]
-          },
-          {
-            "objectName": "Space"
           }
         ]
       },
