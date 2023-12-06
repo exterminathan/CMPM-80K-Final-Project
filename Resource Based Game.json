@@ -1121,6 +1121,19 @@
         "name": "arrowkeysdirections-2.png2.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Turkey Leg.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9be0df286d9ff8b0cd8c5acc473de9fdcbbc666563abf02cb25f0f5fb0b9e591_Turkey Leg.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Food/9be0df286d9ff8b0cd8c5acc473de9fdcbbc666563abf02cb25f0f5fb0b9e591_Turkey Leg.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -2094,7 +2107,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 1.0685777208212361,
+        "zoomFactor": 2.14422484812399,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2117,7 +2130,7 @@
               "name": "House2"
             },
             {
-              "name": "NPC"
+              "name": "TAPS"
             }
           ]
         }
@@ -4166,6 +4179,111 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "TAPS",
+          "persistentUuid": "4968b650-0037-4353-9e48-e3d4a596f9cc",
+          "width": 0,
+          "x": 418,
+          "y": 223,
+          "zOrder": 604,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "959d7994-c4a5-4871-a282-696bf834d3e3",
+          "width": 0,
+          "x": 189,
+          "y": 185,
+          "zOrder": 605,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "04fc968b-fa7f-486f-8d8d-454f6e599edb",
+          "width": 0,
+          "x": 371,
+          "y": 93,
+          "zOrder": 605,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "3d9345b8-4364-45f3-8a4c-66310bbac6c6",
+          "width": 0,
+          "x": 197,
+          "y": 315,
+          "zOrder": 605,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "3f2d9bae-1098-4c52-99c3-9b1eac3d6b59",
+          "width": 0,
+          "x": 400,
+          "y": 323,
+          "zOrder": 605,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "d4ced937-8098-4f72-8d3f-32b0b550019e",
+          "width": 0,
+          "x": 555,
+          "y": 238,
+          "zOrder": 605,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "ec23e2da-6251-4026-aa13-4185ee6141c2",
+          "width": 0,
+          "x": 561,
+          "y": 145,
+          "zOrder": 605,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4220,6 +4338,7 @@
               "HealToBeApplied": 0
             },
             {
+              "maxSpeed": 75,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 900000,
@@ -4229,7 +4348,6 @@
               "customIsometryAngle": 30,
               "deceleration": 900000,
               "ignoreDefaultControls": false,
-              "maxSpeed": 50,
               "movementAngleOffset": 0,
               "rotateObject": false,
               "viewpoint": "TopDown"
@@ -4873,12 +4991,29 @@
         {
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
-          "name": "NPC",
+          "name": "TAPS",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 10,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 0,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 12,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 40,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "Down",
@@ -7846,6 +7981,83 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Turkeys",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "maxSpeed": 20,
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 10,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 0,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 12,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.20000000298023224,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "9be0df286d9ff8b0cd8c5acc473de9fdcbbc666563abf02cb25f0f5fb0b9e591_Turkey Leg.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 7.927276611328125,
+                        "y": 15.236364364624023
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 17
+                          },
+                          {
+                            "x": 15,
+                            "y": 17
+                          },
+                          {
+                            "x": 15,
+                            "y": 20
+                          },
+                          {
+                            "x": 9,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -7855,7 +8067,10 @@
             "objectName": "Player"
           },
           {
-            "objectName": "NPC"
+            "objectName": "TAPS"
+          },
+          {
+            "objectName": "Turkeys"
           },
           {
             "objectName": "Dock1"
@@ -8211,6 +8426,16 @@
                 "Player",
                 "",
                 "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "TAPS",
+                "CollisionDetect",
                 ""
               ]
             }
@@ -8717,6 +8942,18 @@
                     "Player",
                     "\"InteractCooldown\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "TAPS",
+                    "Pathfinding",
+                    "",
+                    "TAPS.X()-20",
+                    "TAPS.Y()-20"
+                  ]
                 }
               ]
             },
@@ -8794,6 +9031,14 @@
                   "parameters": [
                     "Player",
                     "\"InteractCooldown\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "TAPS"
                   ]
                 }
               ]
@@ -9803,6 +10048,120 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "name": "TAPS",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TAPS",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "MentalState",
+                    "-",
+                    "15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "TAPS",
+                    "TAPS"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "TAPS",
+                    "418",
+                    "223",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Turkeys",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Turkeys",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "-",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Turkeys",
+                    "TAPS"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
           "name": "DayCycle",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9938,6 +10297,36 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "TAPS",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Turkeys",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -10073,6 +10462,10 @@
         {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
         },
         {
           "name": "Resizable",
