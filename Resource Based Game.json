@@ -1134,6 +1134,402 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Food/9be0df286d9ff8b0cd8c5acc473de9fdcbbc666563abf02cb25f0f5fb0b9e591_Turkey Leg.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "path.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"path.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "path.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/path.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "path.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Road1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Road1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "turkey.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "turkey.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapscar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapscar.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "class.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "class.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gym.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gym.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "dorm.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dorm.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "DH.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DH.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerfront-1.png3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerfront-1.png3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerfront-2.png3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerfront-2.png3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerfront-3.png3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerfront-3.png3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerright-10.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerright-10.png2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerright-11.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerright-11.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerright-12.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerright-12.png2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerleft-7.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerleft-7.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerleft-8.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerleft-8.png2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerleft-9.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerleft-9.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/80kplayersprites/playerback-4.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\80kplayersprites\\playerback-4.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/80kplayersprites/playerback-5.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\80kplayersprites\\playerback-5.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Desktop/80kplayersprites/playerback-6.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\80kplayersprites\\playerback-6.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerback-4.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerback-4.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerback-5.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerback-5.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "playerback-6.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "playerback-6.png2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tapscar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\tapscar.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/turkey.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\turkey.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Buildings/gym.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Buildings\\gym.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Buildings/class.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Buildings\\class.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Buildings/DH.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Buildings\\DH.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Buildings/dorm.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Buildings\\dorm.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerfront-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerfront-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerfront-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerfront-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerfront-3.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerfront-3.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerright-10.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerright-10.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerright-11.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerright-11.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerright-12.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerright-12.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerleft-7.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerleft-7.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerleft-8.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerleft-8.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerleft-9.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerleft-9.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerback-4.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerback-4.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerback-5.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerback-5.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlayerSprites/playerback-6.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PlayerSprites\\playerback-6.png.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/Ekey-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\Ekey-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/Ekey-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\Ekey-2.png.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2107,7 +2503,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 2.14422484812399,
+        "zoomFactor": 2.3685333122261096,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2146,41 +2542,9 @@
           "name": "Grass",
           "persistentUuid": "15a3b7f4-f78f-4898-9037-58d9fc07eab8",
           "width": 966,
-          "x": -3,
-          "y": -5,
+          "x": 0,
+          "y": -10,
           "zOrder": -218,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 46,
-          "layer": "",
-          "name": "Water1",
-          "persistentUuid": "0892ee1f-ba40-484b-9ed3-57b22d5e7092",
-          "width": 1056,
-          "x": -47,
-          "y": 370,
-          "zOrder": 514,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
-          "layer": "",
-          "name": "Beach",
-          "persistentUuid": "4c4ed9bc-e1f8-4ba6-b318-a913b3774cfd",
-          "width": 1064,
-          "x": -44,
-          "y": 341,
-          "zOrder": 515,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2218,126 +2582,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "layer": "",
-          "name": "Road1",
-          "persistentUuid": "483eceab-d8b2-4ede-8db9-6adf71d1a19b",
-          "width": 227,
-          "x": 208,
-          "y": 277,
-          "zOrder": -203,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 168,
-          "layer": "",
-          "name": "Road1",
-          "persistentUuid": "50e027b8-248a-41c4-8c2b-be0a30ac7e2f",
-          "width": 16,
-          "x": 419,
-          "y": 293,
-          "zOrder": -203,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 168,
-          "layer": "",
-          "name": "Road1",
-          "persistentUuid": "316644b5-719d-4bc0-9af1-a88cf63d2a04",
-          "width": 16,
-          "x": 208,
-          "y": 125,
-          "zOrder": -203,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "layer": "",
-          "name": "Road1",
-          "persistentUuid": "5a54a1cc-d80a-4cc6-8808-d1de057da57a",
-          "width": 320,
-          "x": 208,
-          "y": 125,
-          "zOrder": -203,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 168,
-          "layer": "",
-          "name": "Road1",
-          "persistentUuid": "d4b6ce39-72bd-40f5-8ef6-a1f94e549447",
-          "width": 16,
-          "x": 512,
-          "y": 141,
-          "zOrder": -203,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "layer": "",
-          "name": "Road1",
-          "persistentUuid": "b5770c0d-e597-42cd-bba2-d2ae87106de0",
-          "width": 224,
-          "x": 512,
-          "y": 301,
-          "zOrder": -203,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 160,
-          "layer": "",
-          "name": "Road1",
-          "persistentUuid": "f718563f-4a82-4f8d-ad1c-9d738c229fcb",
-          "width": 16,
-          "x": 720,
-          "y": 300,
-          "zOrder": -203,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 29,
+          "depth": 3,
+          "height": 42,
           "layer": "",
           "name": "Player",
           "persistentUuid": "898ece26-2d37-4663-929e-93566c384762",
-          "width": 29,
+          "width": 42,
           "x": 2102,
-          "y": 474,
+          "y": 461,
           "zOrder": 603,
           "numberProperties": [],
           "stringProperties": [],
@@ -2384,8 +2636,8 @@
           "name": "ClassExterior",
           "persistentUuid": "0ce3cc90-5cf1-452c-8fe4-ca89dcf2cdcd",
           "width": 107,
-          "x": 583,
-          "y": 195,
+          "x": 591,
+          "y": 217,
           "zOrder": -205,
           "numberProperties": [],
           "stringProperties": [],
@@ -2395,29 +2647,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 89,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "7d8c3bb2-60e6-47fd-8ae0-e32b40c49af2",
-          "width": 103,
-          "x": 424,
-          "y": 35,
-          "zOrder": 527,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 24,
+          "height": 23,
           "layer": "Orbs",
           "name": "ClassEntrance",
           "persistentUuid": "de4390b9-58f4-496c-954a-ccb45b5ffb05",
-          "width": 24,
-          "x": 622,
-          "y": 292,
+          "width": 21,
+          "x": 633,
+          "y": 284,
           "zOrder": 573,
           "numberProperties": [],
           "stringProperties": [],
@@ -2538,13 +2774,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 20,
+          "height": 21,
           "layer": "Orbs",
           "name": "DHEntrance",
           "persistentUuid": "61df9d31-f09e-4216-aa48-6962a097be6f",
           "width": 20,
-          "x": 461,
-          "y": 113,
+          "x": 472,
+          "y": 109,
           "zOrder": 574,
           "numberProperties": [],
           "stringProperties": [],
@@ -2559,25 +2795,9 @@
           "name": "DHExterior",
           "persistentUuid": "a6a69f48-f7be-4ef3-87e3-04bdf64c748d",
           "width": 94,
-          "x": 428,
-          "y": 20,
+          "x": 435,
+          "y": 36,
           "zOrder": -209,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 89,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "20a2efa7-e318-4bd6-a0ab-f5882fb2ac4a",
-          "width": 92,
-          "x": 595,
-          "y": 211,
-          "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2591,8 +2811,8 @@
           "name": "GymEntrance",
           "persistentUuid": "fac098b4-8bc9-4c8a-8287-c5d6b21e3e71",
           "width": 20,
-          "x": 266,
-          "y": 266,
+          "x": 276,
+          "y": 262,
           "zOrder": 572,
           "numberProperties": [],
           "stringProperties": [],
@@ -2607,25 +2827,9 @@
           "name": "GymExterior",
           "persistentUuid": "6e623413-8a16-4077-9cda-d3fed4a8ac51",
           "width": 80,
-          "x": 238,
-          "y": 187,
+          "x": 246,
+          "y": 198,
           "zOrder": -209,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 76,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "81ace8a7-e7da-4263-8a5b-691417b4d3e8",
-          "width": 85,
-          "x": 237,
-          "y": 201,
-          "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2670,8 +2874,8 @@
           "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "36d21476-d006-4c4a-92c9-27d749842a7f",
-          "width": 53,
-          "x": 1559,
+          "width": 44,
+          "x": 1563,
           "y": 494,
           "zOrder": -230,
           "numberProperties": [],
@@ -2682,13 +2886,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 25,
+          "height": 22,
           "layer": "Orbs",
           "name": "DormEntrance",
           "persistentUuid": "1ee4ef62-fb48-4b94-aa6f-11b247ca6799",
-          "width": 25,
-          "x": 259,
-          "y": 112,
+          "width": 21,
+          "x": 273,
+          "y": 110,
           "zOrder": 577,
           "numberProperties": [],
           "stringProperties": [],
@@ -2703,8 +2907,8 @@
           "name": "DormExit",
           "persistentUuid": "ac6e32cb-1bf8-47c0-9bcd-253b9e05eaf7",
           "width": 46,
-          "x": 2085,
-          "y": 523,
+          "x": 2086,
+          "y": 543,
           "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
@@ -2719,7 +2923,7 @@
           "name": "DormOrb",
           "persistentUuid": "63329fca-3c19-432e-a270-e84c5851cb7e",
           "width": 44,
-          "x": 2217,
+          "x": 2227,
           "y": 426,
           "zOrder": -238,
           "numberProperties": [],
@@ -2746,13 +2950,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 102,
+          "height": 123,
           "layer": "",
           "name": "DormExterior",
           "persistentUuid": "6292df48-3e95-413c-9e33-65d8b35c969a",
-          "width": 86,
-          "x": 233,
-          "y": 23,
+          "width": 104,
+          "x": 220,
+          "y": 21,
           "zOrder": -217,
           "numberProperties": [],
           "stringProperties": [],
@@ -3130,12 +3334,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 52,
+          "height": 53,
           "layer": "Orbs",
           "name": "GymOrb",
           "persistentUuid": "90a52c0a-db2d-44fb-aba0-0f9ea3fa144f",
-          "width": 53,
-          "x": 1624,
+          "width": 48,
+          "x": 1626,
           "y": 492,
           "zOrder": -230,
           "numberProperties": [],
@@ -3305,30 +3509,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2,
-          "height": 64,
-          "layer": "",
-          "name": "Bed",
-          "persistentUuid": "92c955f6-29f5-4833-93dc-6c48238b7807",
-          "width": 64,
-          "x": 242,
-          "y": 0,
-          "zOrder": 593,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 56,
+          "depth": 1,
+          "height": 31,
           "layer": "",
           "name": "Apple",
           "persistentUuid": "ee67c99c-3624-45f9-982a-953c3c503267",
-          "width": 56,
-          "x": 444,
-          "y": 12,
+          "width": 31,
+          "x": 468,
+          "y": 58,
           "zOrder": 594,
           "numberProperties": [],
           "stringProperties": [],
@@ -3338,13 +3526,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 46,
+          "height": 19,
           "layer": "",
           "name": "Dumbell",
           "persistentUuid": "72789e8d-a8ab-4bcb-9960-79dfc7de1fd6",
-          "width": 46,
-          "x": 251,
-          "y": 184,
+          "width": 19,
+          "x": 295,
+          "y": 245,
           "zOrder": 595,
           "numberProperties": [],
           "stringProperties": [],
@@ -3359,25 +3547,9 @@
           "name": "Book",
           "persistentUuid": "27774b57-ea3d-42b1-acf8-a9e91e30a8ef",
           "width": 49,
-          "x": 605,
-          "y": 191,
+          "x": 620,
+          "y": 215,
           "zOrder": 596,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 86,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "46d2e394-1d9c-4e53-80cb-6dd6e649cc9e",
-          "width": 79,
-          "x": 240,
-          "y": 39,
-          "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3456,70 +3628,6 @@
           "x": 12,
           "y": 47,
           "zOrder": 601,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 72,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "75315f6c-08e5-4dcd-8b53-c1bf2d772fb0",
-          "width": 1141,
-          "x": -69,
-          "y": 341,
-          "zOrder": 527,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 561,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "e7271821-6d64-4291-bae7-9d56c2d3d85a",
-          "width": 44,
-          "x": 126,
-          "y": -42,
-          "zOrder": 527,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 45,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "c9c59cf2-889f-4830-883f-e800802fa342",
-          "width": 1141,
-          "x": -73,
-          "y": -46,
-          "zOrder": 527,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 561,
-          "layer": "Collision",
-          "name": "CollisionDetect",
-          "persistentUuid": "7dcd6853-b638-465b-91c9-d141f9f78a5b",
-          "width": 44,
-          "x": 798,
-          "y": -44,
-          "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3640,7 +3748,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 85,
+          "height": 69,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "b9fbb9d3-7d30-4745-9476-5507c6b3053e",
@@ -3789,8 +3897,8 @@
           "name": "e",
           "persistentUuid": "7974fd9f-7164-47b5-b30d-a4d0178650da",
           "width": 52,
-          "x": 2104,
-          "y": 515,
+          "x": 2083,
+          "y": 537,
           "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
@@ -4182,15 +4290,95 @@
         },
         {
           "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 19,
+          "layer": "",
+          "name": "Dumbell",
+          "persistentUuid": "38a4346c-4c3b-4d8a-ad8e-65a0fe9b9a5b",
+          "width": 19,
+          "x": 258,
+          "y": 245,
+          "zOrder": 595,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 56,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "02616901-b3fc-4ab5-92d4-94793d5474d0",
+          "width": 66,
+          "x": 253,
+          "y": 209,
+          "zOrder": 606,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 44,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "d7901686-10c5-4261-b0b5-e29df0edd21c",
+          "width": 66,
+          "x": 239,
+          "y": 52,
+          "zOrder": 606,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 51,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "b6c3d079-d4e5-42b7-835a-6de280d51fa3",
+          "width": 80,
+          "x": 442,
+          "y": 62,
+          "zOrder": 606,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 70,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "fb109ad7-df35-4a4b-acb1-05150985ab62",
+          "width": 91,
+          "x": 599,
+          "y": 219,
+          "zOrder": 606,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
           "name": "TAPS",
-          "persistentUuid": "4968b650-0037-4353-9e48-e3d4a596f9cc",
+          "persistentUuid": "590b6e69-51ec-4c2f-9039-6289f5da177a",
           "width": 0,
-          "x": 418,
-          "y": 223,
-          "zOrder": 604,
+          "x": 434,
+          "y": 231,
+          "zOrder": 607,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4201,11 +4389,11 @@
           "height": 0,
           "layer": "",
           "name": "Turkeys",
-          "persistentUuid": "959d7994-c4a5-4871-a282-696bf834d3e3",
+          "persistentUuid": "1bc86ed9-827f-4b3b-a6d0-55c578ddd32f",
           "width": 0,
-          "x": 189,
-          "y": 185,
-          "zOrder": 605,
+          "x": 571,
+          "y": 87,
+          "zOrder": 608,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4216,11 +4404,11 @@
           "height": 0,
           "layer": "",
           "name": "Turkeys",
-          "persistentUuid": "04fc968b-fa7f-486f-8d8d-454f6e599edb",
+          "persistentUuid": "fe88ae14-85a9-4631-8705-37fdfdd4fdc5",
           "width": 0,
-          "x": 371,
-          "y": 93,
-          "zOrder": 605,
+          "x": 640,
+          "y": 91,
+          "zOrder": 608,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4231,11 +4419,11 @@
           "height": 0,
           "layer": "",
           "name": "Turkeys",
-          "persistentUuid": "3d9345b8-4364-45f3-8a4c-66310bbac6c6",
+          "persistentUuid": "dc24c505-581b-4564-83c6-40b4c4f9cc3a",
           "width": 0,
-          "x": 197,
-          "y": 315,
-          "zOrder": 605,
+          "x": 726,
+          "y": 199,
+          "zOrder": 608,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4246,11 +4434,11 @@
           "height": 0,
           "layer": "",
           "name": "Turkeys",
-          "persistentUuid": "3f2d9bae-1098-4c52-99c3-9b1eac3d6b59",
+          "persistentUuid": "50ff991e-cac3-4273-ac8a-3c0d26b02be1",
           "width": 0,
-          "x": 400,
-          "y": 323,
-          "zOrder": 605,
+          "x": 784,
+          "y": 338,
+          "zOrder": 608,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4261,11 +4449,11 @@
           "height": 0,
           "layer": "",
           "name": "Turkeys",
-          "persistentUuid": "d4ced937-8098-4f72-8d3f-32b0b550019e",
+          "persistentUuid": "01c048a4-ff56-426a-a5ba-26e6b4c8e858",
           "width": 0,
-          "x": 555,
-          "y": 238,
-          "zOrder": 605,
+          "x": 709,
+          "y": 439,
+          "zOrder": 608,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4276,11 +4464,101 @@
           "height": 0,
           "layer": "",
           "name": "Turkeys",
-          "persistentUuid": "ec23e2da-6251-4026-aa13-4185ee6141c2",
+          "persistentUuid": "d2e39bad-51e6-461b-b2a0-c26329779b43",
           "width": 0,
-          "x": 561,
-          "y": 145,
-          "zOrder": 605,
+          "x": 510,
+          "y": 448,
+          "zOrder": 608,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "a0166b92-13b6-4485-bae4-f53ba3a33df7",
+          "width": 0,
+          "x": 350,
+          "y": 485,
+          "zOrder": 608,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "3da5ce2e-b05e-442d-9967-a90f52711229",
+          "width": 0,
+          "x": 200,
+          "y": 452,
+          "zOrder": 608,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "2d3a7023-dcac-458f-83ae-390fe2bb0191",
+          "width": 0,
+          "x": 148,
+          "y": 386,
+          "zOrder": 608,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "5663e239-3bc6-4ff0-9947-29c88fd74548",
+          "width": 0,
+          "x": 50,
+          "y": 265,
+          "zOrder": 608,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "671d7761-033f-449e-a808-7cd3c665be53",
+          "width": 0,
+          "x": 99,
+          "y": 184,
+          "zOrder": 608,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "ecaefae0-e5e3-4746-a718-64d5ce8c24ae",
+          "width": 0,
+          "x": 120,
+          "y": 105,
+          "zOrder": 608,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4288,7 +4566,7 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": false,
+          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Player",
           "type": "Sprite",
@@ -4338,9 +4616,9 @@
               "HealToBeApplied": 0
             },
             {
-              "maxSpeed": 75,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "maxSpeed": 75,
               "acceleration": 900000,
               "allowDiagonals": false,
               "angleOffset": 0,
@@ -4372,12 +4650,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharDown1.png",
+                      "image": "assets\\PlayerSprites\\playerfront-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4388,32 +4666,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharDown2.png",
+                      "image": "assets\\PlayerSprites\\playerfront-2.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4424,32 +4702,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharDown3.png",
+                      "image": "assets\\PlayerSprites\\playerfront-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4460,32 +4738,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharDown4.png",
+                      "image": "assets\\PlayerSprites\\playerfront-3.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4496,20 +4774,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
@@ -4528,12 +4806,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACgarRight1.png",
+                      "image": "assets\\PlayerSprites\\playerright-10.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4544,32 +4822,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACgarRight2.png",
+                      "image": "assets\\PlayerSprites\\playerright-11.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4580,32 +4858,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACgarRight3.png",
+                      "image": "assets\\PlayerSprites\\playerright-10.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4616,32 +4894,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACgarRight4.png",
+                      "image": "assets\\PlayerSprites\\playerright-12.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4652,20 +4930,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
@@ -4684,12 +4962,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharLeft1.png",
+                      "image": "assets\\PlayerSprites\\playerleft-7.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4700,32 +4978,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharLeft2.png",
+                      "image": "assets\\PlayerSprites\\playerleft-8.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4736,32 +5014,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharLeft3.png",
+                      "image": "assets\\PlayerSprites\\playerleft-7.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4772,32 +5050,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharLeft4.png",
+                      "image": "assets\\PlayerSprites\\playerleft-9.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4808,20 +5086,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
@@ -4840,12 +5118,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharUp1.png",
+                      "image": "assets\\PlayerSprites\\playerback-4.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4856,32 +5134,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharUp2.png",
+                      "image": "assets\\PlayerSprites\\playerback-5.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4892,32 +5170,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharUp3.png",
+                      "image": "assets\\PlayerSprites\\playerback-4.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4928,32 +5206,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharUp4.png",
+                      "image": "assets\\PlayerSprites\\playerback-6.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4964,20 +5242,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 9,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 23,
+                            "y": 5
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 23,
+                            "y": 27
                           },
                           {
-                            "x": 2,
-                            "y": 16
+                            "x": 9,
+                            "y": 27
                           }
                         ]
                       ]
@@ -4989,7 +5267,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": false,
+          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "TAPS",
           "type": "Sprite",
@@ -4998,6 +5276,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 10,
               "allowDiagonals": false,
               "angleOffset": 0,
@@ -5008,10 +5288,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 40,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -5025,7 +5303,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ACharDown1.png",
+                      "image": "assets\\tapscar.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5041,20 +5319,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 17
+                            "x": 2,
+                            "y": 15.5
                           },
                           {
-                            "x": 15,
-                            "y": 17
+                            "x": 47,
+                            "y": 15.5
                           },
                           {
-                            "x": 15,
-                            "y": 20
+                            "x": 47,
+                            "y": 33
                           },
                           {
-                            "x": 9,
-                            "y": 20
+                            "x": 2,
+                            "y": 33
                           }
                         ]
                       ]
@@ -5452,7 +5730,7 @@
           "assetStoreId": "",
           "height": 16,
           "name": "Road1",
-          "texture": "Road1.png",
+          "texture": "assets\\Road1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 16,
           "variables": [],
@@ -5892,7 +6170,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "House.png",
+                      "image": "assets\\Buildings\\class.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5908,20 +6186,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 10
+                            "x": 16,
+                            "y": 4
                           },
                           {
-                            "x": 80,
-                            "y": 10
+                            "x": 184,
+                            "y": 4
                           },
                           {
-                            "x": 80,
-                            "y": 64
+                            "x": 184,
+                            "y": 136
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 16,
+                            "y": 136
                           }
                         ]
                       ]
@@ -6705,7 +6983,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "DH",
+                      "image": "assets\\Buildings\\DH.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6721,20 +6999,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 10
+                            "x": 16,
+                            "y": 50
                           },
                           {
-                            "x": 80,
-                            "y": 10
+                            "x": 184,
+                            "y": 50
                           },
                           {
-                            "x": 80,
-                            "y": 64
+                            "x": 184,
+                            "y": 148
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 16,
+                            "y": 148
                           }
                         ]
                       ]
@@ -6886,7 +7164,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "DH",
+                      "image": "assets\\Buildings\\gym.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6902,20 +7180,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 10
+                            "x": 18,
+                            "y": 24
                           },
                           {
-                            "x": 80,
-                            "y": 10
+                            "x": 182,
+                            "y": 24
                           },
                           {
-                            "x": 80,
-                            "y": 64
+                            "x": 182,
+                            "y": 148
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 18,
+                            "y": 148
                           }
                         ]
                       ]
@@ -7501,7 +7779,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "DH",
+                      "image": "assets\\Buildings\\dorm.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7517,20 +7795,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 10
+                            "x": 36,
+                            "y": 50
                           },
                           {
-                            "x": 80,
-                            "y": 10
+                            "x": 164,
+                            "y": 50
                           },
                           {
-                            "x": 80,
-                            "y": 64
+                            "x": 164,
+                            "y": 150
                           },
                           {
-                            "x": 3,
-                            "y": 64
+                            "x": 36,
+                            "y": 150
                           }
                         ]
                       ]
@@ -7810,7 +8088,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ekey-1.png.png",
+                      "image": "assets\\Titles+Text\\Ekey-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7846,7 +8124,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ekey-2.png.png",
+                      "image": "assets\\Titles+Text\\Ekey-2.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7992,9 +8270,9 @@
           "effects": [],
           "behaviors": [
             {
-              "maxSpeed": 20,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "maxSpeed": 20,
               "acceleration": 10,
               "allowDiagonals": false,
               "angleOffset": 0,
@@ -8019,12 +8297,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "9be0df286d9ff8b0cd8c5acc473de9fdcbbc666563abf02cb25f0f5fb0b9e591_Turkey Leg.png",
+                      "image": "assets\\turkey.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 7.927276611328125,
-                        "y": 15.236364364624023
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -8035,20 +8313,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 17
+                            "x": 10,
+                            "y": 7
                           },
                           {
-                            "x": 15,
-                            "y": 17
+                            "x": 25,
+                            "y": 7
                           },
                           {
-                            "x": 15,
-                            "y": 20
+                            "x": 25,
+                            "y": 23
                           },
                           {
-                            "x": 9,
-                            "y": 20
+                            "x": 10,
+                            "y": 23
                           }
                         ]
                       ]
@@ -8374,23 +8652,6 @@
                 "\"InteractCooldown\""
               ]
             }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "SystemInfo::HasTouchScreen"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": []
-            }
           ]
         },
         {
@@ -8435,6 +8696,16 @@
               },
               "parameters": [
                 "TAPS",
+                "CollisionDetect",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Turkeys",
                 "CollisionDetect",
                 ""
               ]
@@ -8852,6 +9123,93 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "SPRINT"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "LShift"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "=",
+                        "100"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Energy",
+                        "-",
+                        ".1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "LShift"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "=",
+                        "75"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PauseObjectTimer"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"SprintCooldown\""
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -8867,6 +9225,92 @@
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "DormEntrance",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "DormExit.CenterX()",
+                    "=",
+                    "DormExit.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "TAPS"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -8953,92 +9397,6 @@
                     "",
                     "TAPS.X()-20",
                     "TAPS.Y()-20"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "DormEntrance",
-                    "Player",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "Player",
-                    "\"InteractCooldown\"",
-                    ">=",
-                    "0.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "e"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Player",
-                    "=",
-                    "DormExit.CenterX()",
-                    "=",
-                    "DormExit.CenterY()"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Player",
-                    "\"InteractCooldown\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "TAPS"
                   ]
                 }
               ]
@@ -9140,6 +9498,23 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "TUTORIAL"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ],
           "parameters": []
@@ -9153,6 +9528,92 @@
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "ClassEntrance",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\"",
+                    ">=",
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "ClassExit.CenterX()",
+                    "=",
+                    "ClassExit.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"InteractCooldown\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "TAPS"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -9228,83 +9689,17 @@
                     "Player",
                     "\"InteractCooldown\""
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "ClassEntrance",
-                    "Player",
-                    "",
-                    "",
-                    ""
-                  ]
                 },
                 {
                   "type": {
-                    "value": "CompareObjectTimer"
+                    "value": "PathfindingBehavior::SetDestination"
                   },
                   "parameters": [
-                    "Player",
-                    "\"InteractCooldown\"",
-                    ">=",
-                    "0.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
+                    "TAPS",
+                    "Pathfinding",
                     "",
-                    "e"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "27ae4f391d210872e12e294ea124512c596e4b3fb45ddc14e77c6298e5983f0f_Blip 3.aac",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Player",
-                    "=",
-                    "ClassExit.CenterX()",
-                    "=",
-                    "ClassExit.CenterY()"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Player",
-                    "\"InteractCooldown\""
+                    "TAPS.X()-20",
+                    "TAPS.Y()-20"
                   ]
                 }
               ]
@@ -9515,6 +9910,14 @@
                     "Player",
                     "\"InteractCooldown\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "TAPS"
+                  ]
                 }
               ]
             },
@@ -9592,6 +9995,18 @@
                   "parameters": [
                     "Player",
                     "\"InteractCooldown\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "TAPS",
+                    "Pathfinding",
+                    "",
+                    "TAPS.X()-20",
+                    "TAPS.Y()-20"
                   ]
                 }
               ]
@@ -9792,6 +10207,14 @@
                     "Player",
                     "\"InteractCooldown\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "TAPS"
+                  ]
                 }
               ]
             },
@@ -9869,6 +10292,18 @@
                   "parameters": [
                     "Player",
                     "\"InteractCooldown\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "TAPS",
+                    "Pathfinding",
+                    "",
+                    "TAPS.X()-20",
+                    "TAPS.Y()-20"
                   ]
                 }
               ]
@@ -10098,7 +10533,7 @@
                     "TAPS",
                     "418",
                     "223",
-                    ""
+                    "\"AI\""
                   ]
                 }
               ]
@@ -10299,34 +10734,46 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "AI",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "TAPS",
-                "Pathfinding",
-                "",
-                "Player.X()",
-                "Player.Y()"
-              ]
-            },
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "Turkeys",
-                "Pathfinding",
-                "",
-                "Player.X()",
-                "Player.Y()"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "TAPS",
+                    "Pathfinding",
+                    "",
+                    "Player.X()",
+                    "Player.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PathfindingBehavior::SetDestination"
+                  },
+                  "parameters": [
+                    "Turkeys",
+                    "Pathfinding",
+                    "",
+                    "Player.X()",
+                    "Player.Y()"
+                  ]
+                }
               ]
             }
-          ]
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -10369,7 +10816,7 @@
           "isLocked": false,
           "name": "Orbs",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
