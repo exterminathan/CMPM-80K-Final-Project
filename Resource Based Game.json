@@ -1530,6 +1530,312 @@
         "name": "assets\\Titles+Text\\Ekey-2.png.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\grass.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/interiors/tiled_black space.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\interiors\\tiled_black space.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Green Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Green Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Green Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Green Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/interiors/Gymtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\interiors\\Gymtileset.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/dumbellgym.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\dumbellgym.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/gymbar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\gymbar2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/carpetentrance.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\carpetentrance.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Red Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Red Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy_Spawn_Location.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Enemy_Spawn_Location",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/interiors/classroomtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\interiors\\classroomtileset.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/interiors/DHtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\interiors\\DHtileset.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/DHtable.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\DHtable.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Orange Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Orange Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/tapscar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\tapscar.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/turkey.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\turkey.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/resources/KnowledgeBook.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\resources\\KnowledgeBook.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/resources/energy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\resources\\energy.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/resources/Brain.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\resources\\Brain.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/resources/Flat Bar Orange Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\resources\\Flat Bar Orange Fill Bar.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/resources/Flat Bar White Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\resources\\Flat Bar White Border.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/resources/Flat Bar Purple Fill Bar.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\resources\\Flat Bar Purple Fill Bar.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/resources/Flat Bar Yellow Fill Bar.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\resources\\Flat Bar Yellow Fill Bar.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/interiors/dormtileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\interiors\\dormtileset.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Blue Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Blue Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Blue Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Blue Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Purple Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Purple Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/orbs/Purple Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\orbs\\Purple Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/appledininghall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\appledininghall.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/classroomtable.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\classroomtable.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/bookclassroom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\bookclassroom.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/bed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\bed.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/arrowkeysdirections.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\arrowkeysdirections.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/arrowkeysdirections-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\arrowkeysdirections-1.png.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2503,28 +2809,13 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 2.3685333122261096,
+        "zoomFactor": 0.7928273014313388,
         "windowMask": false
       },
       "objectsGroups": [
         {
           "name": "PhysicalObject",
           "objects": [
-            {
-              "name": "Tree1"
-            },
-            {
-              "name": "Bush1"
-            },
-            {
-              "name": "Tree2"
-            },
-            {
-              "name": "House1"
-            },
-            {
-              "name": "House2"
-            },
             {
               "name": "TAPS"
             }
@@ -2588,8 +2879,8 @@
           "name": "Player",
           "persistentUuid": "898ece26-2d37-4663-929e-93566c384762",
           "width": 42,
-          "x": 2102,
-          "y": 461,
+          "x": 3739,
+          "y": 446,
           "zOrder": 603,
           "numberProperties": [],
           "stringProperties": [],
@@ -2668,8 +2959,8 @@
           "name": "ClassOrb",
           "persistentUuid": "f8a708be-e1df-45b4-9374-289f8926195f",
           "width": 58,
-          "x": 1501,
-          "y": 115,
+          "x": 3138,
+          "y": 100,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -2684,8 +2975,8 @@
           "name": "ClassExit",
           "persistentUuid": "cdf78d85-65e9-452d-81cd-06e687c662be",
           "width": 51,
-          "x": 1538,
-          "y": 175,
+          "x": 3175,
+          "y": 157,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -2700,8 +2991,8 @@
           "name": "Class",
           "persistentUuid": "326bbd24-c807-4c43-b9be-1593045dba76",
           "width": 262,
-          "x": 1446,
-          "y": -8,
+          "x": 3083,
+          "y": -23,
           "zOrder": -234,
           "numberProperties": [],
           "stringProperties": [],
@@ -2747,8 +3038,8 @@
           "name": "DH",
           "persistentUuid": "bcabbf95-d2fc-4914-b68f-f2ba72c1e126",
           "width": 272,
-          "x": 2053,
-          "y": -10,
+          "x": 3690,
+          "y": -25,
           "zOrder": -237,
           "numberProperties": [],
           "stringProperties": [],
@@ -2763,8 +3054,8 @@
           "name": "DHExit",
           "persistentUuid": "4b6cf437-481b-47ed-b29e-0eb831ab6af4",
           "width": 51,
-          "x": 2055,
-          "y": 211,
+          "x": 3691,
+          "y": 196,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -2843,8 +3134,8 @@
           "name": "Gym",
           "persistentUuid": "a7e9292d-bbb8-47c6-8f6f-58e0a30111bc",
           "width": 300,
-          "x": 1442,
-          "y": 309,
+          "x": 3079,
+          "y": 294,
           "zOrder": -231,
           "numberProperties": [],
           "stringProperties": [],
@@ -2859,9 +3150,9 @@
           "name": "GymExit",
           "persistentUuid": "e78aa2f8-a66f-41ca-aa8d-a9011a51957c",
           "width": 51,
-          "x": 1649,
-          "y": 574,
-          "zOrder": -230,
+          "x": 3288,
+          "y": 564,
+          "zOrder": -239,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2875,8 +3166,8 @@
           "name": "GymOrb",
           "persistentUuid": "36d21476-d006-4c4a-92c9-27d749842a7f",
           "width": 44,
-          "x": 1563,
-          "y": 494,
+          "x": 3200,
+          "y": 479,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -2907,8 +3198,8 @@
           "name": "DormExit",
           "persistentUuid": "ac6e32cb-1bf8-47c0-9bcd-253b9e05eaf7",
           "width": 46,
-          "x": 2086,
-          "y": 543,
+          "x": 3722,
+          "y": 512,
           "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
@@ -2923,8 +3214,8 @@
           "name": "DormOrb",
           "persistentUuid": "63329fca-3c19-432e-a270-e84c5851cb7e",
           "width": 44,
-          "x": 2227,
-          "y": 426,
+          "x": 3864,
+          "y": 411,
           "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
@@ -2939,8 +3230,8 @@
           "name": "Dorm",
           "persistentUuid": "9a30a541-2411-434c-b12f-24d08c65557d",
           "width": 330,
-          "x": 2062,
-          "y": 351,
+          "x": 3699,
+          "y": 336,
           "zOrder": -240,
           "numberProperties": [],
           "stringProperties": [],
@@ -2971,8 +3262,8 @@
           "name": "Bed",
           "persistentUuid": "642d2835-7d45-41c5-8be6-573d1353baba",
           "width": 97,
-          "x": 2207,
-          "y": 404,
+          "x": 3844,
+          "y": 389,
           "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
@@ -2987,8 +3278,8 @@
           "name": "Bench",
           "persistentUuid": "1fa6b19c-139a-49fc-ab95-da6bab1fb537",
           "width": 72,
-          "x": 1614,
-          "y": 483,
+          "x": 3251,
+          "y": 468,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3003,8 +3294,8 @@
           "name": "Bench",
           "persistentUuid": "b2fd3947-8df5-4ace-8ce4-57ca625b3a0d",
           "width": 72,
-          "x": 1550,
-          "y": 482,
+          "x": 3187,
+          "y": 467,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3019,8 +3310,8 @@
           "name": "Bench",
           "persistentUuid": "55bc5930-edd9-4658-8d87-9e35b010724b",
           "width": 72,
-          "x": 1485,
-          "y": 481,
+          "x": 3122,
+          "y": 466,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3035,8 +3326,8 @@
           "name": "Dumbell",
           "persistentUuid": "3adc3037-9155-4cc6-b27d-7b871ef304e2",
           "width": 32,
-          "x": 1467,
-          "y": 380,
+          "x": 3104,
+          "y": 365,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3051,8 +3342,8 @@
           "name": "Dumbell",
           "persistentUuid": "011bc1fb-434a-4e14-bd02-1675b173c633",
           "width": 32,
-          "x": 1469,
-          "y": 386,
+          "x": 3106,
+          "y": 371,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3067,8 +3358,8 @@
           "name": "Dumbell",
           "persistentUuid": "b02603df-080e-43f9-837b-851c7f6ce481",
           "width": 32,
-          "x": 1536,
-          "y": 381,
+          "x": 3173,
+          "y": 366,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3083,8 +3374,8 @@
           "name": "Dumbell",
           "persistentUuid": "2fbbd189-5311-4e7f-9a6e-7aa7690e7644",
           "width": 32,
-          "x": 1539,
-          "y": 387,
+          "x": 3176,
+          "y": 372,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3099,8 +3390,8 @@
           "name": "Dumbell",
           "persistentUuid": "758d86e6-9573-4125-906d-0a0eea66f0fc",
           "width": 32,
-          "x": 1634,
-          "y": 381,
+          "x": 3271,
+          "y": 366,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3115,8 +3406,8 @@
           "name": "Dumbell",
           "persistentUuid": "e0295e0a-b5b1-4ee5-8405-6c3a7ce37898",
           "width": 32,
-          "x": 1637,
-          "y": 387,
+          "x": 3274,
+          "y": 372,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3131,8 +3422,8 @@
           "name": "GymOrb",
           "persistentUuid": "97672c09-6e10-4ee0-abc6-fab6470ac4cc",
           "width": 32,
-          "x": 1634,
-          "y": 390,
+          "x": 3271,
+          "y": 375,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3147,8 +3438,8 @@
           "name": "GymOrb",
           "persistentUuid": "792d7f26-7e69-4ae7-b385-c4765c1da778",
           "width": 32,
-          "x": 1536,
-          "y": 389,
+          "x": 3173,
+          "y": 374,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3163,8 +3454,8 @@
           "name": "GymOrb",
           "persistentUuid": "abf0e5b5-bda5-4d42-bc58-de132af767eb",
           "width": 32,
-          "x": 1467,
-          "y": 391,
+          "x": 3104,
+          "y": 376,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3179,8 +3470,8 @@
           "name": "Carpet",
           "persistentUuid": "29961d5a-9b81-495f-877f-035e79c05fa2",
           "width": 84,
-          "x": 1631,
-          "y": 544,
+          "x": 3269,
+          "y": 531,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3195,8 +3486,8 @@
           "name": "Carpet",
           "persistentUuid": "94d1bba5-f058-484c-8a71-9d911f74bb9d",
           "width": 84,
-          "x": 1520,
-          "y": 139,
+          "x": 3157,
+          "y": 124,
           "zOrder": -233,
           "numberProperties": [],
           "stringProperties": [],
@@ -3211,8 +3502,8 @@
           "name": "ClassTable",
           "persistentUuid": "41bc0808-b01d-478e-95bc-b280d907e8dc",
           "width": 55,
-          "x": 1503,
-          "y": 59,
+          "x": 3140,
+          "y": 44,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -3227,8 +3518,8 @@
           "name": "ClassTable",
           "persistentUuid": "62b0e38c-985f-4013-a08a-5c562a6eabac",
           "width": 55,
-          "x": 1587,
-          "y": 59,
+          "x": 3224,
+          "y": 44,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -3243,8 +3534,8 @@
           "name": "ClassTable",
           "persistentUuid": "d4508866-498a-4d59-948e-a10b16ed05a9",
           "width": 55,
-          "x": 1587,
-          "y": 99,
+          "x": 3224,
+          "y": 84,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -3259,8 +3550,8 @@
           "name": "ClassTable",
           "persistentUuid": "4bdd64c9-e9b4-43ed-aa1d-338f81a5a76c",
           "width": 55,
-          "x": 1504,
-          "y": 97,
+          "x": 3141,
+          "y": 82,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -3275,8 +3566,8 @@
           "name": "ClassOrb",
           "persistentUuid": "165c1da7-f38e-456f-9c1b-1999f177d7b2",
           "width": 58,
-          "x": 1500,
-          "y": 78,
+          "x": 3137,
+          "y": 63,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -3291,8 +3582,8 @@
           "name": "ClassOrb",
           "persistentUuid": "917621b0-9871-4c2e-b07f-76d561b3f79f",
           "width": 58,
-          "x": 1584,
-          "y": 78,
+          "x": 3221,
+          "y": 63,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -3307,8 +3598,8 @@
           "name": "ClassOrb",
           "persistentUuid": "40ba6dd8-51a8-4c50-ad18-bdc4e9532f83",
           "width": 58,
-          "x": 1583,
-          "y": 117,
+          "x": 3220,
+          "y": 102,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -3323,8 +3614,8 @@
           "name": "Carpet",
           "persistentUuid": "e6be2811-51c8-4a9a-9eb8-158c0feb66f8",
           "width": 84,
-          "x": 2064,
-          "y": 492,
+          "x": 3701,
+          "y": 477,
           "zOrder": -239,
           "numberProperties": [],
           "stringProperties": [],
@@ -3339,8 +3630,8 @@
           "name": "GymOrb",
           "persistentUuid": "90a52c0a-db2d-44fb-aba0-0f9ea3fa144f",
           "width": 48,
-          "x": 1626,
-          "y": 492,
+          "x": 3263,
+          "y": 477,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3355,8 +3646,8 @@
           "name": "GymOrb",
           "persistentUuid": "aedadbc3-b2bf-4252-8c95-56de957229e8",
           "width": 53,
-          "x": 1496,
-          "y": 493,
+          "x": 3133,
+          "y": 478,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -3371,8 +3662,8 @@
           "name": "DHTable",
           "persistentUuid": "441c7b79-050f-4f90-bc56-710fd9b3ce5c",
           "width": 79,
-          "x": 2149,
-          "y": 115,
+          "x": 3786,
+          "y": 100,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3387,8 +3678,8 @@
           "name": "DHTable",
           "persistentUuid": "7ac22d0e-7f11-4da7-90a9-0e20578d8845",
           "width": 79,
-          "x": 2221,
-          "y": 114,
+          "x": 3858,
+          "y": 99,
           "zOrder": -236,
           "numberProperties": [],
           "stringProperties": [],
@@ -3403,8 +3694,8 @@
           "name": "Carpet",
           "persistentUuid": "0568e8d8-9907-4433-bad0-5eca21c2e58e",
           "width": 84,
-          "x": 2036,
-          "y": 176,
+          "x": 3673,
+          "y": 161,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3419,8 +3710,8 @@
           "name": "DHTable",
           "persistentUuid": "34caeeea-c200-4774-bab3-3f2194ae6b67",
           "width": 79,
-          "x": 2223,
-          "y": 157,
+          "x": 3860,
+          "y": 142,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3435,8 +3726,8 @@
           "name": "DHTable",
           "persistentUuid": "5186b879-9df5-4181-8892-4f684190279b",
           "width": 79,
-          "x": 2149,
-          "y": 158,
+          "x": 3786,
+          "y": 143,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3451,8 +3742,8 @@
           "name": "DHOrb",
           "persistentUuid": "29f4f318-bf81-48f3-badd-1efb02f81d8a",
           "width": 57,
-          "x": 2156,
-          "y": 141,
+          "x": 3797,
+          "y": 122,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3467,8 +3758,8 @@
           "name": "DHOrb",
           "persistentUuid": "b2e5cf41-3a16-4456-a7bb-94a371c1857a",
           "width": 57,
-          "x": 2228,
-          "y": 143,
+          "x": 3870,
+          "y": 122,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3483,8 +3774,8 @@
           "name": "DHOrb",
           "persistentUuid": "a4a203ee-80db-462d-bf27-fc8d40767604",
           "width": 57,
-          "x": 2226,
-          "y": 184,
+          "x": 3871,
+          "y": 165,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3499,8 +3790,8 @@
           "name": "DHOrb",
           "persistentUuid": "d25d8380-ef7f-474c-8e8e-218801b12882",
           "width": 57,
-          "x": 2156,
-          "y": 184,
+          "x": 3798,
+          "y": 166,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3636,13 +3927,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 267,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "afe6b86a-0d55-4b9d-b216-094628c1bfe1",
-          "width": 28,
-          "x": 1414,
-          "y": 276,
+          "width": 26,
+          "x": 3053,
+          "y": 351,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3652,13 +3943,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 268,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "0a8010c5-4e32-4aba-af43-01fae32a8196",
           "width": 28,
-          "x": 1730,
-          "y": 284,
+          "x": 3367,
+          "y": 351,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3672,9 +3963,9 @@
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "51aeb01e-b5f1-44f6-9c98-7dbc13417628",
-          "width": 407,
-          "x": 1366,
-          "y": 610,
+          "width": 288,
+          "x": 3079,
+          "y": 595,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3684,13 +3975,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 95,
+          "height": 58,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "dc7fe790-6abe-4cf4-9986-845ce2ba66aa",
-          "width": 407,
-          "x": 1374,
-          "y": 288,
+          "width": 342,
+          "x": 3053,
+          "y": 293,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3700,13 +3991,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 141,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "5bb24dbd-03ca-44dd-90a9-c1462a63f824",
-          "width": 28,
-          "x": 2034,
-          "y": 291,
+          "width": 29,
+          "x": 3670,
+          "y": 402,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3716,13 +4007,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 210,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "fab32c23-77b3-46ff-97e1-4e6fef5d4324",
           "width": 28,
-          "x": 2275,
-          "y": 306,
+          "x": 3912,
+          "y": 333,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3736,9 +4027,9 @@
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "5ec8e376-82f5-4314-8002-132824b908a7",
-          "width": 407,
-          "x": 1948,
-          "y": 558,
+          "width": 270,
+          "x": 3670,
+          "y": 543,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3752,9 +4043,9 @@
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "b9fbb9d3-7d30-4745-9476-5507c6b3053e",
-          "width": 407,
-          "x": 1960,
-          "y": 348,
+          "width": 242,
+          "x": 3670,
+          "y": 333,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3764,13 +4055,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 85,
+          "height": 68,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "4d933e5f-c9dd-4c85-91e5-b5c322b2b285",
-          "width": 407,
-          "x": 1968,
-          "y": -33,
+          "width": 314,
+          "x": 3663,
+          "y": -48,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3780,13 +4071,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 206,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "eb5f23b4-7d8d-46fe-9451-806cddfd1750",
           "width": 28,
-          "x": 2313,
-          "y": -52,
+          "x": 3950,
+          "y": 20,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3796,13 +4087,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 206,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "849bdb81-388f-48ee-9a18-14fc5ffec7b7",
           "width": 28,
-          "x": 2026,
-          "y": -64,
+          "x": 3663,
+          "y": 20,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3816,9 +4107,9 @@
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "b3b294fe-932b-410c-ab1c-656ac968e935",
-          "width": 407,
-          "x": 1980,
-          "y": 241,
+          "width": 315,
+          "x": 3663,
+          "y": 226,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3828,13 +4119,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 200,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "52078472-883d-40fd-99ca-bbaa6e27f9c1",
           "width": 28,
-          "x": 1418,
-          "y": -69,
+          "x": 3055,
+          "y": 12,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3844,13 +4135,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 355,
+          "height": 200,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "5705cad1-4346-42c8-bc09-11dbd5e44eec",
           "width": 28,
-          "x": 1698,
-          "y": -62,
+          "x": 3335,
+          "y": 12,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3860,13 +4151,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 85,
+          "height": 35,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "1970a58c-42cd-422f-be32-1e19e5e20a9b",
-          "width": 407,
-          "x": 1373,
-          "y": -41,
+          "width": 308,
+          "x": 3055,
+          "y": -23,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3880,9 +4171,9 @@
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "d2cb7c73-45db-4c52-bf2d-8bf9694417e1",
-          "width": 407,
-          "x": 1362,
-          "y": 203,
+          "width": 252,
+          "x": 3083,
+          "y": 188,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -3897,8 +4188,8 @@
           "name": "e",
           "persistentUuid": "7974fd9f-7164-47b5-b30d-a4d0178650da",
           "width": 52,
-          "x": 2083,
-          "y": 537,
+          "x": 3720,
+          "y": 522,
           "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
@@ -3913,9 +4204,9 @@
           "name": "e",
           "persistentUuid": "e2052d4f-5290-4e0c-9d84-b5e0e430ffbd",
           "width": 52,
-          "x": 2076,
-          "y": 197,
-          "zOrder": -235,
+          "x": 3694,
+          "y": 204,
+          "zOrder": 609,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3929,8 +4220,8 @@
           "name": "e",
           "persistentUuid": "69bb938b-c643-4915-a706-09224d7aa826",
           "width": 52,
-          "x": 2181,
-          "y": 174,
+          "x": 3818,
+          "y": 159,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3945,8 +4236,8 @@
           "name": "e",
           "persistentUuid": "dc5c5fd4-b8ba-4465-bc96-04f967e31a6e",
           "width": 52,
-          "x": 2182,
-          "y": 133,
+          "x": 3819,
+          "y": 118,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3961,8 +4252,8 @@
           "name": "e",
           "persistentUuid": "48960f90-094e-4cc7-b7a3-795c936f57e6",
           "width": 52,
-          "x": 2254,
-          "y": 133,
+          "x": 3891,
+          "y": 118,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3977,8 +4268,8 @@
           "name": "e",
           "persistentUuid": "660194f7-d6a8-4290-89a7-04937fc7a65f",
           "width": 52,
-          "x": 2255,
-          "y": 175,
+          "x": 3892,
+          "y": 160,
           "zOrder": -235,
           "numberProperties": [],
           "stringProperties": [],
@@ -3993,8 +4284,8 @@
           "name": "e",
           "persistentUuid": "a1a3e8c3-1d5e-4fc9-b164-06e2083ef490",
           "width": 52,
-          "x": 1610,
-          "y": 67,
+          "x": 3247,
+          "y": 52,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -4009,8 +4300,8 @@
           "name": "e",
           "persistentUuid": "79ed144f-5047-40c6-878d-48a6bc8a91da",
           "width": 52,
-          "x": 1609,
-          "y": 106,
+          "x": 3246,
+          "y": 91,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -4025,8 +4316,8 @@
           "name": "e",
           "persistentUuid": "efe982f6-560d-4126-8b19-616d9ad8dc9c",
           "width": 52,
-          "x": 1525,
-          "y": 105,
+          "x": 3162,
+          "y": 90,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -4041,8 +4332,8 @@
           "name": "e",
           "persistentUuid": "7e77d38b-7d07-4a63-8c6e-3978aaf5fe08",
           "width": 52,
-          "x": 1525,
-          "y": 66,
+          "x": 3162,
+          "y": 51,
           "zOrder": -232,
           "numberProperties": [],
           "stringProperties": [],
@@ -4057,8 +4348,8 @@
           "name": "e",
           "persistentUuid": "ffb8b97a-a29e-4e97-994c-aabc9159a5f4",
           "width": 52,
-          "x": 1543,
-          "y": 378,
+          "x": 3180,
+          "y": 363,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -4073,8 +4364,8 @@
           "name": "e",
           "persistentUuid": "ecfc9a83-a598-4bcd-b0af-24461401cd88",
           "width": 52,
-          "x": 1471,
-          "y": 378,
+          "x": 3108,
+          "y": 363,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -4089,8 +4380,8 @@
           "name": "e",
           "persistentUuid": "ec623a73-bce8-4ffc-ae8d-9f3aef9887a1",
           "width": 52,
-          "x": 1641,
-          "y": 379,
+          "x": 3278,
+          "y": 364,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -4105,8 +4396,8 @@
           "name": "e",
           "persistentUuid": "bca7f7e9-ae64-4ecc-969c-2580aa5c5fc2",
           "width": 52,
-          "x": 1625,
-          "y": 479,
+          "x": 3262,
+          "y": 464,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -4121,8 +4412,8 @@
           "name": "e",
           "persistentUuid": "19e9b881-a799-4d53-85fa-28363729dd25",
           "width": 52,
-          "x": 1562,
-          "y": 479,
+          "x": 3199,
+          "y": 464,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -4137,8 +4428,8 @@
           "name": "e",
           "persistentUuid": "bf898ef6-9af9-42ef-b2d2-5c5f44953f75",
           "width": 52,
-          "x": 1496,
-          "y": 478,
+          "x": 3133,
+          "y": 463,
           "zOrder": -230,
           "numberProperties": [],
           "stringProperties": [],
@@ -4153,9 +4444,9 @@
           "name": "e",
           "persistentUuid": "95718a34-8b8f-4e00-a38e-8b98ca501f1d",
           "width": 52,
-          "x": 1668,
-          "y": 567,
-          "zOrder": -230,
+          "x": 3289,
+          "y": 573,
+          "zOrder": 611,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4169,8 +4460,8 @@
           "name": "e",
           "persistentUuid": "e1b11d51-1c28-4952-8f92-bf91ce8b36f9",
           "width": 52,
-          "x": 2224,
-          "y": 423,
+          "x": 3861,
+          "y": 408,
           "zOrder": -238,
           "numberProperties": [],
           "stringProperties": [],
@@ -4185,9 +4476,9 @@
           "name": "e",
           "persistentUuid": "cb16d6f4-20ec-4177-82b5-795b8f1936cb",
           "width": 52,
-          "x": 1556,
-          "y": 166,
-          "zOrder": -233,
+          "x": 3177,
+          "y": 167,
+          "zOrder": 610,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4265,8 +4556,8 @@
           "name": "Space",
           "persistentUuid": "c927479d-e070-43db-93e5-66179c002033",
           "width": 1267,
-          "x": 1230,
-          "y": -187,
+          "x": 2867,
+          "y": -202,
           "zOrder": -241,
           "numberProperties": [],
           "stringProperties": [],
@@ -4281,8 +4572,8 @@
           "name": "CollisionDetect",
           "persistentUuid": "42ffece5-9d28-4357-95ce-26310cfdf6fc",
           "width": 199,
-          "x": 2085,
-          "y": 81,
+          "x": 3722,
+          "y": 66,
           "zOrder": 527,
           "numberProperties": [],
           "stringProperties": [],
@@ -4308,7 +4599,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 56,
+          "height": 41,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "02616901-b3fc-4ab5-92d4-94793d5474d0",
@@ -4324,7 +4615,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 44,
+          "height": 46,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "d7901686-10c5-4261-b0b5-e29df0edd21c",
@@ -4340,7 +4631,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 51,
+          "height": 37,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "b6c3d079-d4e5-42b7-835a-6de280d51fa3",
@@ -4356,7 +4647,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 70,
+          "height": 55,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "fb109ad7-df35-4a4b-acb1-05150985ab62",
@@ -5303,7 +5594,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\tapscar.png",
+                      "image": "assets\\misc\\tapscar.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5320,11 +5611,11 @@
                         [
                           {
                             "x": 2,
-                            "y": 15.5
+                            "y": 16
                           },
                           {
                             "x": 47,
-                            "y": 15.5
+                            "y": 16
                           },
                           {
                             "x": 47,
@@ -5344,406 +5635,12 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Dock1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Dock1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Tree1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Tree1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 15.854545593261719,
-                        "y": 27.40909194946289
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Tree2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Tree2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 16.000001907348633,
-                        "y": 30.618200302124023
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Bush1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Bush1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8.318181991577148,
-                        "y": 11.963641166687012
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "House1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "House1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 34.76862716674805,
-                        "y": 45.99976348876953
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "House2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "House2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 35.75733947753906,
-                        "y": 44.714439392089844
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "CornerWater",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "WaterCorner.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "WaterCorner2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "WaterCorner2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "height": 32,
           "name": "Grass",
-          "texture": "Grass1.png",
+          "texture": "assets\\grass.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 16,
-          "name": "WaterEdgeRight",
-          "texture": "WaterEdgeRight.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite",
-          "texture": "WaterEdgeUp.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 16,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Water1",
-          "texture": "Water1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Beach",
-          "texture": "Water1.png2",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 16,
-          "name": "Road1",
-          "texture": "assets\\Road1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 16,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 5,
-          "name": "RoadEdge1",
-          "texture": "RoadEdge1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 36,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -5759,16 +5656,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Enemy_Spawn_Location",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Enemy_Spawn_Location.png",
+                      "image": "Enemy_Spawn_Location",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5788,134 +5686,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
-          "name": "YesButton",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 8,
-            "RightPadding": 8,
-            "PressedLabelOffsetY": 0,
-            "IdleLabelOffsetY": -8,
-            "BottomPadding": 8,
-            "TopPadding": 8,
-            "MinimalWidth": 300
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Idle": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Yes",
-              "font": "",
-              "textAlignment": "left",
-              "characterSize": 20,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            }
-          }
-        },
-        {
-          "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
-          "name": "NoButton",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 8,
-            "RightPadding": 8,
-            "PressedLabelOffsetY": 0,
-            "IdleLabelOffsetY": -8,
-            "BottomPadding": 8,
-            "TopPadding": 8,
-            "MinimalWidth": 300
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Idle": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "No",
-              "font": "",
-              "textAlignment": "left",
-              "characterSize": 20,
-              "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 8,
-              "height": 106,
-              "leftMargin": 8,
-              "rightMargin": 8,
-              "texture": "Border2.png",
-              "tiled": true,
-              "topMargin": 8,
-              "width": 256
-            }
-          }
         },
         {
           "assetStoreId": "5d60da81895e1d170c135f9071369e0f617f24485a6760a717ea2d56988b8c8f",
@@ -5940,7 +5710,7 @@
               "height": 34,
               "leftMargin": 4,
               "rightMargin": 4,
-              "texture": "Flat Bar White Border.png",
+              "texture": "assets\\resources\\Flat Bar White Border.png",
               "tiled": true,
               "topMargin": 6,
               "width": 224
@@ -5950,7 +5720,7 @@
               "height": 24,
               "leftMargin": 0,
               "rightMargin": 0,
-              "texture": "Flat Bar Orange Fill Bar.png",
+              "texture": "assets\\resources\\Flat Bar Orange Fill Bar.png",
               "tiled": true,
               "topMargin": 0,
               "width": 24
@@ -5960,7 +5730,7 @@
               "height": 24,
               "leftMargin": 0,
               "rightMargin": 0,
-              "texture": "Flat Bar Orange Fill Bar.png",
+              "texture": "assets\\resources\\Flat Bar Orange Fill Bar.png",
               "tiled": true,
               "topMargin": 0,
               "width": 24
@@ -6005,7 +5775,7 @@
               "height": 34,
               "leftMargin": 4,
               "rightMargin": 4,
-              "texture": "Flat Bar White Border.png",
+              "texture": "assets\\resources\\Flat Bar White Border.png",
               "tiled": true,
               "topMargin": 6,
               "width": 224
@@ -6015,7 +5785,7 @@
               "height": 24,
               "leftMargin": 0,
               "rightMargin": 0,
-              "texture": "assets\\Flat Bar Purple Fill Bar.png.png",
+              "texture": "assets\\resources\\Flat Bar Purple Fill Bar.png.png",
               "tiled": true,
               "topMargin": 0,
               "width": 24
@@ -6025,7 +5795,7 @@
               "height": 24,
               "leftMargin": 0,
               "rightMargin": 0,
-              "texture": "Flat Bar Purple Fill Bar.png",
+              "texture": "assets\\resources\\Flat Bar Purple Fill Bar.png.png",
               "tiled": true,
               "topMargin": 0,
               "width": 24
@@ -6068,7 +5838,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "KnowledgeBook",
+                      "image": "assets\\resources\\KnowledgeBook.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6110,7 +5880,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "KnowledgeBook2",
+                      "image": "assets\\resources\\energy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6230,7 +6000,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Blue Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Blue Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6278,7 +6048,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Blue Orb_Shadow.png",
+                      "image": "assets\\orbs\\Blue Orb_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6338,7 +6108,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6386,7 +6156,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6446,7 +6216,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "d0e595b7a64af02d3c2de8a2a299ab234b376ff666087316342e2012a895c324_Blue Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Blue Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6507,7 +6277,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\classroomtileset.png",
+                      "image": "assets\\interiors\\classroomtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6568,7 +6338,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Brain",
+                      "image": "assets\\resources\\Brain.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6631,7 +6401,7 @@
               "height": 34,
               "leftMargin": 4,
               "rightMargin": 4,
-              "texture": "Flat Bar White Border.png",
+              "texture": "assets\\resources\\Flat Bar White Border.png",
               "tiled": true,
               "topMargin": 6,
               "width": 224
@@ -6641,7 +6411,7 @@
               "height": 24,
               "leftMargin": 0,
               "rightMargin": 0,
-              "texture": "Flat Bar Yellow Fill Bar.png",
+              "texture": "assets\\resources\\Flat Bar Yellow Fill Bar.png.png",
               "tiled": true,
               "topMargin": 0,
               "width": 24
@@ -6651,7 +6421,7 @@
               "height": 24,
               "leftMargin": 0,
               "rightMargin": 0,
-              "texture": "Flat Bar Yellow Fill Bar.png",
+              "texture": "assets\\resources\\Flat Bar Yellow Fill Bar.png.png",
               "tiled": true,
               "topMargin": 0,
               "width": 24
@@ -6693,7 +6463,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "6c89927c1f8f87945af2befdcfc3a71a332688be0b0ba9347519ffc8a703cd57_Orange Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Orange Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6753,7 +6523,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "6c89927c1f8f87945af2befdcfc3a71a332688be0b0ba9347519ffc8a703cd57_Orange Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Orange Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6814,7 +6584,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\DHtileset.png",
+                      "image": "assets\\interiors\\DHtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6874,7 +6644,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6922,7 +6692,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7043,7 +6813,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "56d4ace5a22e0292d1c580d0c1fff0456390a12aa51aa7ba953e1836935c02b7_Red Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Red Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7103,7 +6873,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "56d4ace5a22e0292d1c580d0c1fff0456390a12aa51aa7ba953e1836935c02b7_Red Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Red Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7225,7 +6995,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\Gymtileset.png",
+                      "image": "assets\\interiors\\Gymtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7285,7 +7055,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7333,7 +7103,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7393,7 +7163,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Purple Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Purple Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7441,7 +7211,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Purple Orb_Shadow.png",
+                      "image": "assets\\orbs\\Purple Orb_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7501,7 +7271,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Purple Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Purple Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7549,7 +7319,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Purple Orb_Shadow.png",
+                      "image": "assets\\orbs\\Purple Orb_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7609,7 +7379,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_No Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_No Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7657,7 +7427,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Green Orb_Shadow.png",
+                      "image": "assets\\orbs\\Green Orb_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7718,7 +7488,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\dormtileset.png",
+                      "image": "assets\\interiors\\dormtileset.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7826,7 +7596,7 @@
           "leftMargin": 0,
           "name": "Bed",
           "rightMargin": 0,
-          "texture": "assets\\bed.png",
+          "texture": "assets\\misc\\bed.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7842,7 +7612,7 @@
           "leftMargin": 0,
           "name": "Bench",
           "rightMargin": 0,
-          "texture": "assets\\gymbar2.png",
+          "texture": "assets\\misc\\gymbar2.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7858,7 +7628,7 @@
           "leftMargin": 0,
           "name": "Apple",
           "rightMargin": 0,
-          "texture": "assets\\appledininghall.png",
+          "texture": "assets\\misc\\appledininghall.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7874,7 +7644,7 @@
           "leftMargin": 0,
           "name": "Book",
           "rightMargin": 0,
-          "texture": "assets\\bookclassroom.png",
+          "texture": "assets\\misc\\bookclassroom.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7890,7 +7660,7 @@
           "leftMargin": 0,
           "name": "Carpet",
           "rightMargin": 0,
-          "texture": "assets\\carpetentrance.png",
+          "texture": "assets\\misc\\carpetentrance.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7906,7 +7676,7 @@
           "leftMargin": 0,
           "name": "ClassTable",
           "rightMargin": 0,
-          "texture": "assets\\classroomtable.png",
+          "texture": "assets\\misc\\classroomtable.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7922,7 +7692,7 @@
           "leftMargin": 0,
           "name": "DHTable",
           "rightMargin": 0,
-          "texture": "assets\\DHtable.png",
+          "texture": "assets\\misc\\DHtable.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7938,7 +7708,7 @@
           "leftMargin": 0,
           "name": "Dumbell",
           "rightMargin": 0,
-          "texture": "assets\\dumbellgym.png",
+          "texture": "assets\\misc\\dumbellgym.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -7975,7 +7745,7 @@
           "leftMargin": 0,
           "name": "Space",
           "rightMargin": 0,
-          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "texture": "assets\\interiors\\tiled_black space.png",
           "tiled": true,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -8184,7 +7954,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "arrowkeysdirections-1.png.png",
+                      "image": "assets\\Titles+Text\\arrowkeysdirections.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8220,7 +7990,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "arrowkeysdirections-2.png.png",
+                      "image": "assets\\Titles+Text\\arrowkeysdirections-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8297,7 +8067,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\turkey.png",
+                      "image": "assets\\misc\\turkey.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8351,21 +8121,6 @@
             "objectName": "Turkeys"
           },
           {
-            "objectName": "Dock1"
-          },
-          {
-            "objectName": "Tree1"
-          },
-          {
-            "objectName": "Tree2"
-          },
-          {
-            "objectName": "Bush1"
-          },
-          {
-            "objectName": "House1"
-          },
-          {
             "objectName": "KnowledgeBook"
           },
           {
@@ -8375,43 +8130,10 @@
             "objectName": "MentalState"
           },
           {
-            "objectName": "House2"
-          },
-          {
-            "objectName": "CornerWater"
-          },
-          {
-            "objectName": "WaterCorner2"
-          },
-          {
             "objectName": "Grass"
           },
           {
-            "objectName": "WaterEdgeRight"
-          },
-          {
-            "objectName": "NewTiledSprite"
-          },
-          {
-            "objectName": "Water1"
-          },
-          {
-            "objectName": "Beach"
-          },
-          {
-            "objectName": "Road1"
-          },
-          {
-            "objectName": "RoadEdge1"
-          },
-          {
             "objectName": "CollisionDetect"
-          },
-          {
-            "objectName": "YesButton"
-          },
-          {
-            "objectName": "NoButton"
           },
           {
             "objectName": "EnergyBar"
@@ -8931,22 +8653,6 @@
                         "Player",
                         "TopDownMovement",
                         "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "YesButton"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "NoButton"
                       ]
                     }
                   ]
@@ -10499,7 +10205,7 @@
                     "TAPS",
                     "",
                     "",
-                    ""
+                    "yes"
                   ]
                 }
               ],
@@ -10562,7 +10268,7 @@
                     "Turkeys",
                     "",
                     "",
-                    ""
+                    "yes"
                   ]
                 }
               ],
