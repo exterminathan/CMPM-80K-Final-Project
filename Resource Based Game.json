@@ -1836,6 +1836,87 @@
         "name": "assets\\Titles+Text\\arrowkeysdirections-1.png.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/path.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\path.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/Title-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\Title-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/interact-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\interact-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/interact-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\interact-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/movement-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\movement-1.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/movement-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\movement-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/play-1.png_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\play-1.png_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/play-2.png_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\play-2.png_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/road.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\road.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2098,7 +2179,7 @@
           "leftMargin": 0,
           "name": "Background",
           "rightMargin": 0,
-          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "texture": "assets\\interiors\\tiled_black space.png",
           "tiled": true,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -2127,7 +2208,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "interact-1.png.png",
+                      "image": "assets\\Titles+Text\\interact-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2163,7 +2244,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "interact-2.png.png",
+                      "image": "assets\\Titles+Text\\interact-2.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2223,7 +2304,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "movement-1.png.png",
+                      "image": "assets\\Titles+Text\\movement-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2259,7 +2340,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "movement-2.png.png",
+                      "image": "assets\\Titles+Text\\movement-2.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2319,7 +2400,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Title-2.png2.png",
+                      "image": "assets\\Titles+Text\\Title-2.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2379,7 +2460,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "play-1.png_1.png",
+                      "image": "assets\\Titles+Text\\play-1.png_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2415,7 +2496,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "play-2.png_1.png",
+                      "image": "assets\\Titles+Text\\play-2.png_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2475,7 +2556,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ekey-2.png2.png",
+                      "image": "assets\\Titles+Text\\Ekey-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2492,26 +2573,26 @@
                         [
                           {
                             "x": 11,
-                            "y": 5
+                            "y": 4
                           },
                           {
                             "x": 20,
-                            "y": 5
+                            "y": 4
                           },
                           {
                             "x": 20,
-                            "y": 14
+                            "y": 13
                           },
                           {
                             "x": 11,
-                            "y": 14
+                            "y": 13
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Ekey-1.png2.png",
+                      "image": "assets\\Titles+Text\\Ekey-2.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2528,19 +2609,19 @@
                         [
                           {
                             "x": 11,
-                            "y": 5
+                            "y": 4
                           },
                           {
                             "x": 20,
-                            "y": 5
+                            "y": 4
                           },
                           {
                             "x": 20,
-                            "y": 14
+                            "y": 13
                           },
                           {
                             "x": 11,
-                            "y": 14
+                            "y": 13
                           }
                         ]
                       ]
@@ -2571,7 +2652,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "arrowkeysdirections-2.png2.png",
+                      "image": "assets\\Titles+Text\\arrowkeysdirections.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2588,26 +2669,26 @@
                         [
                           {
                             "x": 0,
-                            "y": 4
+                            "y": 3
                           },
                           {
                             "x": 31,
-                            "y": 4
+                            "y": 3
                           },
                           {
                             "x": 31,
-                            "y": 24
+                            "y": 23
                           },
                           {
                             "x": 0,
-                            "y": 24
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "arrowkeysdirections-1.png2.png",
+                      "image": "assets\\Titles+Text\\arrowkeysdirections-1.png.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2624,19 +2705,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 4
+                            "y": 3
                           },
                           {
                             "x": 31,
-                            "y": 4
+                            "y": 3
                           },
                           {
                             "x": 31,
-                            "y": 24
+                            "y": 23
                           },
                           {
                             "x": 0,
-                            "y": 24
+                            "y": 23
                           }
                         ]
                       ]
@@ -2809,7 +2890,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 0.33473343918740356,
+        "zoomFactor": 1.0685777208212714,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2828,13 +2909,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 545,
+          "height": 1299,
           "layer": "",
           "name": "Grass",
           "persistentUuid": "15a3b7f4-f78f-4898-9037-58d9fc07eab8",
-          "width": 966,
-          "x": 0,
-          "y": -10,
+          "width": 1836,
+          "x": -412,
+          "y": -389,
           "zOrder": -218,
           "numberProperties": [],
           "stringProperties": [],
@@ -3080,14 +3161,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 104,
+          "depth": 2,
+          "height": 174,
           "layer": "",
           "name": "DHExterior",
           "persistentUuid": "a6a69f48-f7be-4ef3-87e3-04bdf64c748d",
-          "width": 94,
-          "x": 435,
-          "y": 36,
+          "width": 157,
+          "x": 420,
+          "y": -17,
           "zOrder": -209,
           "numberProperties": [],
           "stringProperties": [],
@@ -3097,13 +3178,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 21,
+          "height": 23,
           "layer": "Orbs",
           "name": "GymEntrance",
           "persistentUuid": "fac098b4-8bc9-4c8a-8287-c5d6b21e3e71",
-          "width": 20,
-          "x": 276,
-          "y": 262,
+          "width": 22,
+          "x": 275,
+          "y": 261,
           "zOrder": 572,
           "numberProperties": [],
           "stringProperties": [],
@@ -3241,13 +3322,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 123,
+          "height": 191,
           "layer": "",
           "name": "DormExterior",
           "persistentUuid": "6292df48-3e95-413c-9e33-65d8b35c969a",
-          "width": 104,
-          "x": 220,
-          "y": 21,
+          "width": 161,
+          "x": 177,
+          "y": -30,
           "zOrder": -217,
           "numberProperties": [],
           "stringProperties": [],
@@ -3806,8 +3887,8 @@
           "name": "Apple",
           "persistentUuid": "ee67c99c-3624-45f9-982a-953c3c503267",
           "width": 31,
-          "x": 468,
-          "y": 58,
+          "x": 484,
+          "y": 47,
           "zOrder": 594,
           "numberProperties": [],
           "stringProperties": [],
@@ -4615,13 +4696,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 46,
+          "height": 71,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "d7901686-10c5-4261-b0b5-e29df0edd21c",
-          "width": 66,
-          "x": 239,
-          "y": 52,
+          "width": 102,
+          "x": 207,
+          "y": 19,
           "zOrder": 606,
           "numberProperties": [],
           "stringProperties": [],
@@ -4630,14 +4711,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 37,
+          "depth": 2,
+          "height": 61,
           "layer": "Collision",
           "name": "CollisionDetect",
           "persistentUuid": "b6c3d079-d4e5-42b7-835a-6de280d51fa3",
-          "width": 80,
-          "x": 442,
-          "y": 62,
+          "width": 133,
+          "x": 432,
+          "y": 25,
           "zOrder": 606,
           "numberProperties": [],
           "stringProperties": [],
@@ -4661,195 +4742,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 9,
           "layer": "",
-          "name": "TAPS",
-          "persistentUuid": "590b6e69-51ec-4c2f-9039-6289f5da177a",
-          "width": 0,
-          "x": 434,
-          "y": 231,
-          "zOrder": 607,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "1bc86ed9-827f-4b3b-a6d0-55c578ddd32f",
-          "width": 0,
-          "x": 571,
-          "y": 87,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "fe88ae14-85a9-4631-8705-37fdfdd4fdc5",
-          "width": 0,
-          "x": 640,
-          "y": 91,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "dc24c505-581b-4564-83c6-40b4c4f9cc3a",
-          "width": 0,
-          "x": 726,
-          "y": 199,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "50ff991e-cac3-4273-ac8a-3c0d26b02be1",
-          "width": 0,
-          "x": 784,
-          "y": 338,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "01c048a4-ff56-426a-a5ba-26e6b4c8e858",
-          "width": 0,
-          "x": 709,
-          "y": 439,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "d2e39bad-51e6-461b-b2a0-c26329779b43",
-          "width": 0,
-          "x": 510,
-          "y": 448,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "a0166b92-13b6-4485-bae4-f53ba3a33df7",
-          "width": 0,
-          "x": 350,
-          "y": 485,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "3da5ce2e-b05e-442d-9967-a90f52711229",
-          "width": 0,
-          "x": 200,
-          "y": 452,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "2d3a7023-dcac-458f-83ae-390fe2bb0191",
-          "width": 0,
-          "x": 148,
-          "y": 386,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "5663e239-3bc6-4ff0-9947-29c88fd74548",
-          "width": 0,
-          "x": 50,
-          "y": 265,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "671d7761-033f-449e-a808-7cd3c665be53",
-          "width": 0,
-          "x": 99,
-          "y": 184,
-          "zOrder": 608,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Turkeys",
-          "persistentUuid": "ecaefae0-e5e3-4746-a718-64d5ce8c24ae",
-          "width": 0,
-          "x": 120,
-          "y": 105,
-          "zOrder": 608,
+          "name": "NewTiledSprite",
+          "persistentUuid": "3bbf8f3e-e426-4493-bc16-482047cdb2fb",
+          "width": 288,
+          "x": 274,
+          "y": 175,
+          "zOrder": 612,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8040,9 +7942,9 @@
           "effects": [],
           "behaviors": [
             {
+              "maxSpeed": 35,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
-              "maxSpeed": 20,
               "acceleration": 10,
               "allowDiagonals": false,
               "angleOffset": 0,
@@ -8106,6 +8008,17 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "assets\\misc\\road.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -8281,6 +8194,9 @@
                 "objectName": "arrowkeys"
               }
             ]
+          },
+          {
+            "objectName": "NewTiledSprite"
           }
         ]
       },
@@ -9503,7 +9419,7 @@
                   "parameters": [
                     "GPA",
                     "+",
-                    "1"
+                    "5"
                   ]
                 },
                 {
@@ -10282,28 +10198,7 @@
                   ]
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Energy",
-                    "-",
-                    "5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Turkeys",
-                    "TAPS"
-                  ]
-                }
-              ]
+              "actions": []
             }
           ],
           "parameters": []
@@ -10328,7 +10223,7 @@
                     "",
                     "\"HourClick\"",
                     ">=",
-                    "30"
+                    "20"
                   ]
                 }
               ],
@@ -10429,7 +10324,7 @@
                     "Hours",
                     "\"DayCycle\"",
                     ">=",
-                    "360"
+                    "240"
                   ]
                 }
               ],
