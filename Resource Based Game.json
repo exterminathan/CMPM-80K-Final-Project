@@ -14939,7 +14939,7 @@
           "isLocked": false,
           "name": "NightEffect",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
