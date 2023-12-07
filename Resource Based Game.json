@@ -12327,7 +12327,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Settings",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14469,16 +14468,6 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "GPA",
-                    "-",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "PlaySound"
                   },
                   "parameters": [
@@ -14487,6 +14476,35 @@
                     "",
                     "30",
                     ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "GPA",
+                        ">",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "GPA",
+                        "-",
+                        "1"
+                      ]
+                    }
                   ]
                 }
               ]
