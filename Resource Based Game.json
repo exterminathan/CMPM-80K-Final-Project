@@ -2087,6 +2087,60 @@
         "name": "assets\\misc\\tree.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/computer.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\computer.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/tutorial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\tutorial.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/escape.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\escape.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/credits.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\credits.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/creditsbutton1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\creditsbutton1.png.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/creditsbutton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\creditsbutton2.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2167,6 +2221,23 @@
       "name": "Hours",
       "type": "number",
       "value": 8
+    },
+    {
+      "folded": true,
+      "name": "Energy",
+      "type": "number",
+      "value": 75
+    },
+    {
+      "name": "MentalState",
+      "type": "number",
+      "value": 90
+    },
+    {
+      "folded": true,
+      "name": "EndOfDay",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -2625,48 +2696,12 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\Titles+Text\\play-1.png_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 44,
-                            "y": 10
-                          },
-                          {
-                            "x": 170,
-                            "y": 10
-                          },
-                          {
-                            "x": 170,
-                            "y": 48
-                          },
-                          {
-                            "x": 44,
-                            "y": 48
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Titles+Text\\play-2.png_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2985,7 +3020,7 @@
               },
               "parameters": [
                 "",
-                "\"Overworld\"",
+                "\"Tutorial\"",
                 ""
               ]
             },
@@ -3097,7 +3132,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 0.6285751298948838,
+        "zoomFactor": 2.144224848124119,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3176,9 +3211,9 @@
           "name": "Player",
           "persistentUuid": "898ece26-2d37-4663-929e-93566c384762",
           "width": 42,
-          "x": 2644,
-          "y": 421,
-          "zOrder": 999,
+          "x": 2615,
+          "y": 393,
+          "zOrder": 1008,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3490,7 +3525,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 32,
+          "height": 40,
           "layer": "Orbs",
           "name": "DormExit",
           "persistentUuid": "ac6e32cb-1bf8-47c0-9bcd-253b9e05eaf7",
@@ -5201,6 +5236,54 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "layer": "",
+          "name": "Computer",
+          "persistentUuid": "e784ce1d-fa99-485e-b9e2-a3bf3963efe0",
+          "width": 39,
+          "x": 2616,
+          "y": 379,
+          "zOrder": -230,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 55,
+          "layer": "",
+          "name": "ClassTable",
+          "persistentUuid": "4db81d47-e7bf-4b48-8740-f4fda4e531bd",
+          "width": 55,
+          "x": 2610,
+          "y": 379,
+          "zOrder": -232,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "eb29afd9-016c-42f0-9909-5730604fe1fb",
+          "width": 49,
+          "x": 2612,
+          "y": 388,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -5915,9 +5998,9 @@
           "effects": [],
           "behaviors": [
             {
-              "allowDiagonals": true,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "allowDiagonals": true,
               "acceleration": 10,
               "angleOffset": 0,
               "angularMaxSpeed": 0,
@@ -8392,6 +8475,22 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Computer",
+          "rightMargin": 0,
+          "texture": "assets\\misc\\computer.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -8517,6 +8616,9 @@
           {
             "folderName": "Objects/Items",
             "children": [
+              {
+                "objectName": "Computer"
+              },
               {
                 "objectName": "Bench"
               },
@@ -8708,6 +8810,15 @@
             },
             {
               "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"SprintEnergyDecrease\""
+              ]
+            },
+            {
+              "type": {
                 "value": "Delete"
               },
               "parameters": [
@@ -8837,7 +8948,7 @@
                   "parameters": [
                     "EnergyBar",
                     "=",
-                    "Player.Energy",
+                    "GlobalVariable(Energy)",
                     ""
                   ]
                 },
@@ -8848,30 +8959,8 @@
                   "parameters": [
                     "MentalStateBar",
                     "=",
-                    "Player.MentalState",
+                    "GlobalVariable(MentalState)",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Energy",
-                    "=",
-                    "clamp(Player.Energy,0,100)"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "MentalState",
-                    "=",
-                    "clamp(Player.MentalState,0,100)"
                   ]
                 },
                 {
@@ -8881,7 +8970,27 @@
                   "parameters": [
                     "GPA",
                     "=",
-                    "clamp(GPA,0,100)"
+                    "clamp(GlobalVariable(GPA),0,100)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "MentalState",
+                    "=",
+                    "clamp(GlobalVariable(MentalState),0,100)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Energy",
+                    "=",
+                    "clamp(GlobalVariable(Energy),0,100)"
                   ]
                 }
               ]
@@ -8891,7 +9000,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "TimerSet",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -8987,6 +9095,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "PlayerMovement",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9407,17 +9516,6 @@
                         "=",
                         "100"
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Energy",
-                        "-",
-                        ".1"
-                      ]
                     }
                   ]
                 },
@@ -9446,14 +9544,51 @@
                         "=",
                         "75"
                       ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "LShift"
+                      ]
                     },
                     {
                       "type": {
-                        "value": "PauseObjectTimer"
+                        "value": "CompareObjectTimer"
                       },
                       "parameters": [
                         "Player",
-                        "\"SprintCooldown\""
+                        "\"SprintEnergyDecrease\"",
+                        ">=",
+                        "0.25"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Energy",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"SprintEnergyDecrease\""
                       ]
                     }
                   ]
@@ -9468,7 +9603,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Dorm",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9676,10 +9810,9 @@
                 },
                 {
                   "type": {
-                    "value": "VarObjet"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     "<",
                     "100"
@@ -9716,10 +9849,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     "+",
                     "25"
@@ -9727,10 +9859,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     "+",
                     "5"
@@ -9984,10 +10115,9 @@
                 },
                 {
                   "type": {
-                    "value": "VarObjet"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     ">",
                     "10"
@@ -9995,13 +10125,12 @@
                 },
                 {
                   "type": {
-                    "value": "VarObjet"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     ">",
-                    "7"
+                    "8"
                   ]
                 },
                 {
@@ -10036,10 +10165,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     "-",
                     "8"
@@ -10047,10 +10175,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     "-",
                     "10"
@@ -10304,21 +10431,19 @@
                 },
                 {
                   "type": {
-                    "value": "VarObjet"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     ">",
-                    "0"
+                    "5"
                   ]
                 },
                 {
                   "type": {
-                    "value": "VarObjet"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     "<",
                     "100"
@@ -10346,10 +10471,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     "-",
                     "5"
@@ -10357,10 +10481,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     "+",
                     "10"
@@ -10397,6 +10520,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "DH",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10619,10 +10743,9 @@
                   "subInstructions": [
                     {
                       "type": {
-                        "value": "VarObjet"
+                        "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player",
                         "Energy",
                         "<",
                         "100"
@@ -10630,10 +10753,9 @@
                     },
                     {
                       "type": {
-                        "value": "VarObjet"
+                        "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player",
                         "MentalState",
                         "<",
                         "100"
@@ -10691,10 +10813,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     "+",
                     "100"
@@ -10702,10 +10823,9 @@
                 },
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     "+",
                     "100"
@@ -10810,10 +10930,9 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "Energy",
                     "-",
                     "1"
@@ -10862,10 +10981,9 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     "-",
                     "15"
@@ -10926,13 +11044,12 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarObjet"
+                    "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "Player",
                     "MentalState",
                     "-",
-                    "4"
+                    "5"
                   ]
                 },
                 {
@@ -10954,6 +11071,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "DayCycle",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11096,6 +11214,15 @@
                     "",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "EndOfDay",
+                    "True"
+                  ]
                 }
               ]
             },
@@ -11190,6 +11317,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "End Game Skip",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11210,28 +11338,6 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Energy",
-                    "=",
-                    "20"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Player",
-                    "MentalState",
-                    "=",
-                    "30"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "Scene"
                   },
                   "parameters": [
@@ -11249,6 +11355,64 @@
                     "assets\\audio\\victory.ogg",
                     "",
                     "",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Resources Depelted",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "Energy",
+                        "<=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "MentalState",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"GameOver\"",
                     ""
                   ]
                 }
@@ -11461,7 +11625,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -11469,7 +11633,7 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
+        "snap": true,
         "zoomFactor": 1.0159150236263463,
         "windowMask": false
       },
@@ -11485,8 +11649,8 @@
           "name": "Background",
           "persistentUuid": "927a73ec-8937-43d9-b9fe-08d4f69dcf6e",
           "width": 1186,
-          "x": -131,
-          "y": -72,
+          "x": -130,
+          "y": -95,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -11535,6 +11699,38 @@
           "x": 505,
           "y": 167,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "layer": "Display",
+          "name": "DisplayText",
+          "persistentUuid": "cc14dada-2998-457a-9c24-02799793411c",
+          "width": 896,
+          "x": 32,
+          "y": 288,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 90,
+          "layer": "",
+          "name": "CreditsButton",
+          "persistentUuid": "988f3990-c167-4a74-81e6-fe5ee3680625",
+          "width": 224,
+          "x": 32,
+          "y": 435,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11619,6 +11815,123 @@
             "g": 255,
             "r": 255
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "DisplayText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "...",
+          "font": "09884c158c08409269c534b1e1e64a36a21f087bd06f66cff077a91788a4ec9a_kenvector_future.ttf",
+          "textAlignment": "center",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "CreditsButton",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Titles+Text\\creditsbutton1.png.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 5
+                          },
+                          {
+                            "x": 108,
+                            "y": 5
+                          },
+                          {
+                            "x": 108,
+                            "y": 24
+                          },
+                          {
+                            "x": 12,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Titles+Text\\creditsbutton2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 5
+                          },
+                          {
+                            "x": 108,
+                            "y": 5
+                          },
+                          {
+                            "x": 108,
+                            "y": 24
+                          },
+                          {
+                            "x": 12,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -11634,15 +11947,39 @@
             "objectName": "GPAText"
           },
           {
+            "objectName": "DisplayText"
+          },
+          {
             "objectName": "GPANumber"
+          },
+          {
+            "objectName": "CreditsButton"
           }
         ]
       },
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
           "actions": [
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "NoEnergyText",
+                "\"Display\""
+              ]
+            },
             {
               "type": {
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
@@ -11652,6 +11989,456 @@
                 "Text",
                 "=",
                 "ToString((GlobalVariable(GPA) / 100) * 4.00)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "EndOfDay",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "GameOverText",
+                "Text",
+                "=",
+                "\"Day Ended\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Energy",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Display\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "DisplayText",
+                "Text",
+                "=",
+                "\"You ran out of energy!\nYou can't keep going.\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "DisplayText",
+                "\"255;0;0\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "MentalState",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Display\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "DisplayText",
+                "Text",
+                "=",
+                "\"Your Mental State is too low!\nYou dropped out.\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "DisplayText",
+                "\"255;0;0\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "GPA",
+                ">=",
+                "80"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Display\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "DisplayText",
+                "Text",
+                "=",
+                "\"Congrats!\nWhat nice a GPA!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "DisplayText",
+                "\"0;194;0\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "CreditsButton",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Credits\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Display",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Credits",
+      "name": "Credits",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.7291666666666669,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 565,
+          "layer": "",
+          "name": "Credits",
+          "persistentUuid": "c5189bc9-488f-4cd6-8af4-448f08c089c9",
+          "width": 962,
+          "x": -1,
+          "y": -10,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "EscReturn",
+          "persistentUuid": "91477e59-d36a-4952-9306-6fc50633d602",
+          "width": 0,
+          "x": 773,
+          "y": 507,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Credits",
+          "rightMargin": 0,
+          "texture": "assets\\Titles+Text\\credits.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "EscReturn",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Press Esc to Return",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Credits"
+          },
+          {
+            "objectName": "EscReturn"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"GameOver\"",
+                ""
               ]
             }
           ]
@@ -11744,7 +12531,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -11752,18 +12539,186 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.7291666666666666,
+        "snap": true,
+        "zoomFactor": 0.8897031997773296,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 583,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "d9485feb-1483-4040-8cba-0661fad7d176",
+          "width": 1043,
+          "x": -33,
+          "y": -16,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 7,
+          "height": 429,
+          "layer": "",
+          "name": "Tutorial",
+          "persistentUuid": "f87487bd-7129-45f0-9c43-6b2a9f9e110a",
+          "width": 832,
+          "x": 64,
+          "y": 64,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "layer": "",
+          "name": "EscButton",
+          "persistentUuid": "fed6d6df-f240-4ee9-8567-9e203f663f1f",
+          "width": 256,
+          "x": 0,
+          "y": 416,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Background",
+          "texture": "assets\\interiors\\tiled_black space.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "Tutorial",
+          "rightMargin": 0,
+          "texture": "assets\\Titles+Text\\tutorial.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "EscButton",
+          "rightMargin": 0,
+          "texture": "assets\\Titles+Text\\escape.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Background"
+          },
+          {
+            "objectName": "Tutorial"
+          },
+          {
+            "objectName": "EscButton"
+          }
+        ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "EscButton",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Overworld\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Overworld\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
