@@ -2051,6 +2051,42 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/arrowkeysdirections-2.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\arrowkeysdirections-2.png.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/arrowkeysdirections-1.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\arrowkeysdirections-1.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Titles+Text/arrowkeysdirections-2.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Titles+Text\\arrowkeysdirections-2.png2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/misc/tree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\misc\\tree.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2822,7 +2858,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\Titles+Text\\arrowkeysdirections-1.png.png",
+                      "image": "assets\\Titles+Text\\arrowkeysdirections-2.png2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2952,6 +2988,15 @@
                 "\"Overworld\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "2"
+              ]
             }
           ]
         }
@@ -3052,7 +3097,7 @@
         "gridColor": 15103,
         "gridAlpha": 1,
         "snap": false,
-        "zoomFactor": 1.4402359043061947,
+        "zoomFactor": 0.6285751298948838,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3065,7 +3110,14 @@
           ]
         }
       ],
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "dh_interaction",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -4905,6 +4957,247 @@
           "x": 163,
           "y": 472,
           "zOrder": 1004,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "9f646fc5-ed57-4f4c-b5b0-8b236257c137",
+          "width": 0,
+          "x": 443,
+          "y": 370,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "9ed27919-6f59-4671-85c8-c5a652de0b7e",
+          "width": 0,
+          "x": 638,
+          "y": 346,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "f7326f12-28af-4c8c-9016-02e217e435da",
+          "width": 0,
+          "x": 327,
+          "y": 22,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "7a65b07b-25e5-443e-acc4-2293b488d574",
+          "width": 0,
+          "x": 590,
+          "y": 9,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "59553a41-93cb-4418-b0ba-4181f801a964",
+          "width": 0,
+          "x": 642,
+          "y": 41,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "2ee05551-2feb-45db-b395-2d84edb0467d",
+          "width": 0,
+          "x": 674,
+          "y": 266,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "c326d1a9-a495-4064-90ca-f010f4b35d9b",
+          "width": 0,
+          "x": 490,
+          "y": 438,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "19516400-979c-4a2d-974a-8d15bd2a41a2",
+          "width": 0,
+          "x": 368,
+          "y": 438,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "4560ddff-9055-4521-8588-183cd455761a",
+          "width": 0,
+          "x": 275,
+          "y": 441,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "b85ee827-5ce4-499a-a0cc-c2fb6b220bc0",
+          "width": 0,
+          "x": 593,
+          "y": 406,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "377281fe-6ccc-4239-b133-d87a86d7c159",
+          "width": 0,
+          "x": 452,
+          "y": 216,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "c71148fe-63f4-4f20-9503-ddabf3c4b890",
+          "width": 0,
+          "x": 196,
+          "y": 353,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "12e0f474-deef-49da-a059-a7b758735942",
+          "width": 0,
+          "x": 50,
+          "y": 301,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "d3073675-b8b6-46d9-b63d-a89ebe1a72d1",
+          "width": 0,
+          "x": 39,
+          "y": 378,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Turkeys",
+          "persistentUuid": "21a2a5f4-47e2-4257-9087-7392b3fca1f1",
+          "width": 0,
+          "x": 17,
+          "y": 208,
+          "zOrder": 1005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 57,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "f8cd1548-e042-4be3-8834-aca162caf71d",
+          "width": 43,
+          "x": 82,
+          "y": 190,
+          "zOrder": 1006,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8039,6 +8332,66 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Tree",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\misc\\tree.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 10
+                          },
+                          {
+                            "x": 86,
+                            "y": 10
+                          },
+                          {
+                            "x": 86,
+                            "y": 122
+                          },
+                          {
+                            "x": 12,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8223,6 +8576,9 @@
                 "objectName": "pathstraight"
               }
             ]
+          },
+          {
+            "objectName": "Tree"
           }
         ]
       },
@@ -8379,6 +8735,15 @@
                 "",
                 "\"WalkSound\""
               ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"DHTimer\""
+              ]
             }
           ]
         },
@@ -8445,6 +8810,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Settings",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8525,6 +8891,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "TimerSet",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -8539,8 +8906,8 @@
                       "parameters": [
                         "",
                         "\"HourClick\"",
-                        "<",
-                        "2.25"
+                        "<=",
+                        "3"
                       ]
                     }
                   ],
@@ -8553,7 +8920,7 @@
                         "MinuteValue",
                         "Text",
                         "=",
-                        "\"0\" + ToString(round(TimerElapsedTime(\"HourClick\")*4))"
+                        "\"0\" + ToString(round(TimerElapsedTime(\"HourClick\")*3))"
                       ]
                     },
                     {
@@ -8579,8 +8946,8 @@
                       "parameters": [
                         "",
                         "\"HourClick\"",
-                        ">=",
-                        "2.5"
+                        ">",
+                        "3.3"
                       ]
                     }
                   ],
@@ -8593,7 +8960,7 @@
                         "MinuteValue",
                         "Text",
                         "=",
-                        "ToString(round(TimerElapsedTime(\"HourClick\")*4))"
+                        "ToString(round(TimerElapsedTime(\"HourClick\")*3))"
                       ]
                     },
                     {
@@ -8718,11 +9085,12 @@
                         },
                         {
                           "type": {
-                            "value": "PlaySound"
+                            "value": "PlaySoundCanal"
                           },
                           "parameters": [
                             "",
                             "assets\\audio\\step.ogg",
+                            "3",
                             "",
                             "",
                             ""
@@ -8787,11 +9155,12 @@
                         },
                         {
                           "type": {
-                            "value": "PlaySound"
+                            "value": "PlaySoundCanal"
                           },
                           "parameters": [
                             "",
                             "assets\\audio\\step.ogg",
+                            "3",
                             "",
                             "",
                             ""
@@ -8856,11 +9225,12 @@
                         },
                         {
                           "type": {
-                            "value": "PlaySound"
+                            "value": "PlaySoundCanal"
                           },
                           "parameters": [
                             "",
                             "assets\\audio\\step.ogg",
+                            "3",
                             "",
                             "",
                             ""
@@ -8925,11 +9295,12 @@
                         },
                         {
                           "type": {
-                            "value": "PlaySound"
+                            "value": "PlaySoundCanal"
                           },
                           "parameters": [
                             "",
                             "assets\\audio\\step.ogg",
+                            "3",
                             "",
                             "",
                             ""
@@ -9097,6 +9468,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Dorm",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9386,23 +9758,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "TUTORIAL"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
             }
           ],
           "parameters": []
@@ -9412,6 +9767,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Classroom",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9731,6 +10087,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Gym",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10286,6 +10643,34 @@
                 },
                 {
                   "type": {
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "dh_interaction",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CompareTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DHTimer\"",
+                        "<",
+                        "80"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
@@ -10312,7 +10697,7 @@
                     "Player",
                     "Energy",
                     "+",
-                    "10"
+                    "100"
                   ]
                 },
                 {
@@ -10323,7 +10708,7 @@
                     "Player",
                     "MentalState",
                     "+",
-                    "10"
+                    "100"
                   ]
                 },
                 {
@@ -10346,6 +10731,51 @@
                     "",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "dh_interaction",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DHTimer\"",
+                    ">=",
+                    "80"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DHTimer\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "dh_interaction",
+                    ""
+                  ]
                 }
               ]
             }
@@ -10357,6 +10787,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Constant",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10407,6 +10838,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "TAPS",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10470,6 +10902,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Turkeys",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10500,6 +10933,15 @@
                     "MentalState",
                     "-",
                     "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Turkeys",
+                    ""
                   ]
                 }
               ]
@@ -10642,6 +11084,18 @@
                     "\"GameOver\"",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "assets\\audio\\victory.ogg",
+                    "",
+                    "",
+                    ""
+                  ]
                 }
               ]
             },
@@ -10693,6 +11147,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "AI",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10731,9 +11186,76 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "End Game Skip",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "p"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Energy",
+                    "=",
+                    "20"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "MentalState",
+                    "=",
+                    "30"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"GameOver\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "assets\\audio\\victory.ogg",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -11026,7 +11548,7 @@
           "leftMargin": 0,
           "name": "Background",
           "rightMargin": 0,
-          "texture": "82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
+          "texture": "assets\\interiors\\tiled_black space.png",
           "tiled": true,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -11130,18 +11652,6 @@
                 "Text",
                 "=",
                 "ToString((GlobalVariable(GPA) / 100) * 4.00)"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "assets\\audio\\victory.ogg",
-                "",
-                "",
-                ""
               ]
             }
           ]
